@@ -1,0 +1,84 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.355
+Adapta el laboratorio a mantenimiento conservando
+validación, revisión humana y decisiones
+
+00:00:05.425 --> 00:00:08.795
+auditables. Escribe incertidumbre
+y predicción primero.
+
+00:00:08.865 --> 00:00:11.340
+Implementa solo el flujo útil mínimo.
+
+00:00:11.410 --> 00:00:16.658
+Aplica después la restricción: una integración
+falla y se prohíben modelos externos.
+
+00:00:16.728 --> 00:00:20.056
+Demuestra alternativa
+permitida y evidencia faltante.
+
+00:00:20.126 --> 00:00:25.438
+Puedes usar reglas o un modelo opcional
+aprobado, justificando complejidad adicional.
+
+00:00:25.508 --> 00:00:27.961
+La integración falla antes de revisar.
+
+00:00:28.031 --> 00:00:31.018
+Un archivo local conserva
+el contrato de entrada.
+
+00:00:31.088 --> 00:00:34.800
+Demuestra revisión, pero no
+confiabilidad de integración real.
+
+00:00:34.870 --> 00:00:36.513
+Registra ambas cosas.
+
+00:00:36.583 --> 00:00:41.617
+Pausa el video y completa el ejercicio
+antes de consultar la respuesta comentada.
+
+00:00:41.687 --> 00:00:46.871
+Entrega código, pruebas, predicción fechada
+y decisión revisada ante la restricción.
+
+00:00:46.941 --> 00:00:52.723
+La alternativa usa datos sintéticos, valida
+activos, marca urgencias para supervisor y guarda
+
+00:00:52.793 --> 00:00:54.243
+decisiones revisadas.
+
+00:00:54.313 --> 00:00:56.916
+Predicción y evidencia quedan separadas.
+
+00:00:56.986 --> 00:01:01.082
+El registro marca integración real
+sin probar y conserva seguridad.
+
+00:01:01.152 --> 00:01:06.229
+Una buena entrega explica cómo los controles
+responden al caso, además de enumerarlos.
+
+00:01:06.299 --> 00:01:09.094
+¿Qué debe conservar el
+informe de la alternativa?
+
+00:01:09.164 --> 00:01:11.831
+A. La afirmación de integración aprobada B.
+
+00:01:11.901 --> 00:01:13.778
+Solo capturas favorables C.
+
+00:01:13.848 --> 00:01:16.301
+La diferencia entre probado y pendiente.
+
+00:01:16.371 --> 00:01:18.121
+La mejor respuesta es C.
+
+00:01:18.191 --> 00:01:21.113
+Las alternativas cambian
+el alcance de evidencia.

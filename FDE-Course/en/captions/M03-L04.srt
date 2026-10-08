@@ -1,0 +1,120 @@
+1
+00:00:00,000 --> 00:00:02,944
+The operator confirms the
+frame in their own words.
+
+2
+00:00:03,014 --> 00:00:08,369
+Review the workflow boundary, measurement
+definition, fixed constraints, proposed experiment,
+
+3
+00:00:08,439 --> 00:00:09,953
+and decision authority.
+
+4
+00:00:10,023 --> 00:00:12,327
+Disagreement is useful evidence.
+
+5
+00:00:12,397 --> 00:00:17,347
+Record exclusions so nobody mistakes a
+local test for a production commitment.
+
+6
+00:00:17,417 --> 00:00:20,297
+Keep the initial frame
+version when you revise it.
+
+7
+00:00:20,367 --> 00:00:26,105
+If conditions change before acting, document
+the change and obtain the relevant agreement
+
+8
+00:00:26,175 --> 00:00:28,245
+within the simulated engagement.
+
+9
+00:00:28,315 --> 00:00:31,515
+Maya approves assisted
+routing for access tickets.
+
+10
+00:00:31,585 --> 00:00:33,867
+Priya approves only synthetic data.
+
+11
+00:00:33,937 --> 00:00:36,647
+The sponsor still expects automatic replies.
+
+12
+00:00:36,717 --> 00:00:42,647
+Your decision record must expose this difference
+before anyone calls the experiment a customer
+
+13
+00:00:42,717 --> 00:00:43,784
+deployment.
+
+14
+00:00:43,854 --> 00:00:48,633
+Pause the video and complete this exercise
+before opening the worked response.
+
+15
+00:00:48,703 --> 00:00:53,759
+Write a scope note naming included work,
+excluded work, owners, and the next gate.
+
+16
+00:00:53,829 --> 00:00:58,565
+Included: synthetic access-ticket routing,
+reviewer approval, and event logging.
+
+17
+00:00:58,635 --> 00:01:04,587
+Excluded: customer replies, production credentials,
+staffing promises, and model procurement.
+
+18
+00:01:04,657 --> 00:01:06,790
+Maya reviews workflow usefulness.
+
+19
+00:01:06,860 --> 00:01:10,039
+Priya retains authority over future data access.
+
+20
+00:01:10,109 --> 00:01:12,029
+Luis checks integration fit.
+
+21
+00:01:12,099 --> 00:01:17,197
+The next gate occurs after the twelve-task
+slice reading, using the original thresholds.
+
+22
+00:01:17,267 --> 00:01:19,827
+What should happen to conflicting expectations?
+
+23
+00:01:19,897 --> 00:01:23,204
+A. Resolve or expose them before execution B.
+
+24
+00:01:23,274 --> 00:01:25,258
+Hide them in technical notes C.
+
+25
+00:01:25,328 --> 00:01:26,885
+Promise both outcomes.
+
+26
+00:01:26,955 --> 00:01:28,406
+The best answer is A.
+
+27
+00:01:28,476 --> 00:01:32,401
+Unresolved scope expectations
+are a delivery dependency.

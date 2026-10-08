@@ -1,0 +1,90 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.888
+La declaración del resultado identifica usuario,
+proceso, situación actual, condición deseada,
+
+00:00:05.958 --> 00:00:07.622
+métrica y restricciones.
+
+00:00:07.692 --> 00:00:09.399
+Escríbela con el operador.
+
+00:00:09.469 --> 00:00:13.138
+Utiliza una medida que reconozca
+y define su denominador.
+
+00:00:13.208 --> 00:00:16.131
+Separa el resultado de la tecnología propuesta.
+
+00:00:16.201 --> 00:00:18.675
+Desplegar IA describe una solución.
+
+00:00:18.745 --> 00:00:23.993
+Reducir el tiempo de revisión manteniendo la
+calidad deja espacio para elegir la intervención
+
+00:00:24.063 --> 00:00:25.429
+útil más sencilla.
+
+00:00:25.499 --> 00:00:30.064
+La línea base ficticia es una mediana
+de 20 minutos en doce revisiones.
+
+00:00:30.134 --> 00:00:35.851
+El equipo propone una mediana máxima de 14
+minutos para una muestra asistida equivalente y
+
+00:00:35.921 --> 00:00:38.140
+hasta un error en doce decisiones.
+
+00:00:38.210 --> 00:00:41.986
+Son umbrales del ejercicio
+acordados antes de leer resultados.
+
+00:00:42.056 --> 00:00:47.091
+Pausa el video y completa el ejercicio
+antes de consultar la respuesta comentada.
+
+00:00:47.161 --> 00:00:52.430
+Escribe la declaración y define tiempo de
+revisión, tamaño de muestra y error de asignación.
+
+00:00:52.500 --> 00:00:58.196
+Para agentes de soporte, reducir la mediana
+de revisión de 20 a un máximo de 14 minutos en
+
+00:00:58.266 --> 00:01:03.791
+doce tareas simuladas comparables, manteniendo
+aprobación humana y hasta una cola incorrecta.
+
+00:01:03.861 --> 00:01:07.851
+El tiempo inicia al abrir el ticket
+y termina al guardar la decisión.
+
+00:01:07.921 --> 00:01:13.126
+Una cola incorrecta implica desacuerdo con
+la etiqueta de referencia del caso después de
+
+00:01:13.196 --> 00:01:14.753
+resolver ambigüedades.
+
+00:01:14.823 --> 00:01:17.298
+¿Qué encuadre permite elegir la solución?
+
+00:01:17.368 --> 00:01:19.437
+A. Desplegar un agente de IA B.
+
+00:01:19.507 --> 00:01:23.070
+Reducir el tiempo definido bajo
+restricciones de calidad C.
+
+00:01:23.140 --> 00:01:25.081
+Usar el modelo más reciente.
+
+00:01:25.151 --> 00:01:26.901
+La mejor respuesta es B.
+
+00:01:26.971 --> 00:01:30.469
+Un encuadre de resultado
+permite comparar intervenciones.

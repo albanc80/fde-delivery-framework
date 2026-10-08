@@ -1,0 +1,9 @@
+El operador confirma el encuadre con sus propias palabras. Revisa proceso, definición de métricas, restricciones, experimento y autoridad para decidir. El desacuerdo aporta evidencia. Documenta exclusiones para evitar confundir una prueba local con un compromiso productivo. Conserva la versión inicial al revisar el encuadre. Si cambian condiciones antes de actuar, registra el cambio y el acuerdo pertinente dentro de la simulación.
+
+Maya aprueba ayuda para asignar tickets de acceso. Priya permite solo datos sintéticos. El patrocinador todavía espera respuestas automáticas. El registro de decisión debe mostrar esta diferencia antes de describir la prueba como despliegue con clientes.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Escribe una nota con trabajo incluido, exclusiones, responsables y próxima revisión.
+
+Incluido: asignación de tickets sintéticos de acceso, aprobación del revisor y registro de eventos. Excluido: respuestas a clientes, credenciales productivas, promesas de personal y compra de modelos. Maya revisa utilidad, Priya conserva autoridad sobre acceso y Luis evalúa integración. La próxima revisión ocurre después de doce tareas, con los umbrales originales.
+
+¿Qué hacer con expectativas contradictorias? A. Resolverlas o hacerlas visibles antes de ejecutar B. Ocultarlas en notas técnicas C. Prometer ambos resultados. La mejor respuesta es A. Las diferencias de alcance son una dependencia de entrega.

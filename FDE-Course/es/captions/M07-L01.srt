@@ -1,0 +1,106 @@
+1
+00:00:00,000 --> 00:00:05,056
+La extracción de aprendizaje separa el principio
+transferible de la implementación local.
+
+2
+00:00:05,126 --> 00:00:09,734
+Pregunta qué condiciones hicieron útil
+la intervención y cuáles la limitaron.
+
+3
+00:00:09,804 --> 00:00:13,772
+Un patrón describe condiciones,
+mecanismo y límites de evidencia.
+
+4
+00:00:13,842 --> 00:00:16,914
+Copiar toda la arquitectura
+crea un método impuesto.
+
+5
+00:00:16,984 --> 00:00:22,232
+Un principio ayuda cuando otro entorno puede
+probarlo sin heredar supuestos exclusivos del
+
+6
+00:00:22,302 --> 00:00:23,454
+lugar original.
+
+7
+00:00:23,524 --> 00:00:26,873
+Northstar obtuvo utilidad
+de sugerencias revisables.
+
+8
+00:00:26,943 --> 00:00:30,741
+Un almacén necesita manejar
+excepciones, no colas de soporte.
+
+9
+00:00:30,811 --> 00:00:35,888
+La idea transferible es integrar la
+sugerencia en el paso de decisión existente.
+
+10
+00:00:35,958 --> 00:00:38,539
+La regla de categorías sigue siendo local.
+
+11
+00:00:38,609 --> 00:00:43,644
+Pausa el video y completa el ejercicio
+antes de consultar la respuesta comentada.
+
+12
+00:00:43,714 --> 00:00:48,663
+Escribe un patrón condicionado y dos
+condiciones que deban probarse en otro entorno.
+
+13
+00:00:48,733 --> 00:00:53,960
+Cuando clasificar repetidamente consume
+esfuerzo y el operador conserva autoridad, una
+
+14
+00:00:54,030 --> 00:00:57,550
+sugerencia dentro de la revisión
+puede reducir consultas.
+
+15
+00:00:57,620 --> 00:01:01,268
+Prueba estabilidad de categorías
+e incentivos en el nuevo lugar.
+
+16
+00:01:01,338 --> 00:01:06,842
+La evidencia del curso respalda una hipótesis
+de transferencia, no una regla universal sobre
+
+17
+00:01:06,912 --> 00:01:07,430
+IA.
+
+18
+00:01:07,500 --> 00:01:09,591
+¿Qué debería transferirse primero?
+
+19
+00:01:09,661 --> 00:01:12,008
+A. Todos los servicios anteriores B.
+
+20
+00:01:12,078 --> 00:01:14,275
+El principio y sus condiciones C.
+
+21
+00:01:14,345 --> 00:01:16,478
+Los permisos del cliente anterior.
+
+22
+00:01:16,548 --> 00:01:18,298
+La mejor respuesta es B.
+
+23
+00:01:18,368 --> 00:01:21,994
+Transfiere el mecanismo y
+verifica nuevamente el contexto.

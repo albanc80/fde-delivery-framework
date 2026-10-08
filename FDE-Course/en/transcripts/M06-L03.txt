@@ -1,0 +1,9 @@
+Adoption depends on the complete task, incentives, confidence, and support. Training alone will not fix an extra queue, unclear responsibility, or fear of punitive measurement. Observe the task again after rollout and ask where the new system adds effort. Provide a visible override and a safe fallback. Plan a defined adoption period with checkpoints and a denominator that reflects eligible work.
+
+Agents abandon the tool because they must copy the result back into the main queue. The suggestion is accurate, but the complete task takes longer. Maya also discovers agents think overrides will count against them.
+
+Pause the video and complete this exercise before opening the worked response. Propose two workflow changes and a small test for each.
+
+Test placing suggestions within the existing review step rather than a separate queue. Clarify that overrides are learning evidence during the pilot and observe whether behavior changes. Measure the complete task time and eligible-ticket adoption. Do not infer trust from positive survey comments alone when actual use remains low.
+
+Which signal most directly shows workflow adoption? A. Attendance at a training session B. A favorable sponsor quote C. Sustained use in eligible tasks. The best answer is C. Attendance is an input. Actual workflow use is behavior.

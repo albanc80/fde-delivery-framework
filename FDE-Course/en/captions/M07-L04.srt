@@ -1,0 +1,102 @@
+1
+00:00:00,000 --> 00:00:05,781
+The distill pack contains a pattern, primitive,
+playbook, product signal, site capability, and
+
+2
+00:00:05,851 --> 00:00:13,169
+model update. Site capability requires operators who
+can execute and adapt the workflow without the original
+
+3
+00:00:13,239 --> 00:00:17,548
+engineer. Test handover through a
+teach-back or recovery exercise.
+
+4
+00:00:17,618 --> 00:00:20,989
+Documentation helps but
+does not prove capability.
+
+5
+00:00:21,059 --> 00:00:26,456
+Keep a feedback system so new exceptions
+lead to updates after the engagement ends.
+
+6
+00:00:26,526 --> 00:00:33,097
+Maya explains how to disable assistance, restore
+manual triage, inspect errors, and request a
+
+7
+00:00:33,167 --> 00:00:36,836
+rule change. Luis can recover
+the service from the runbook.
+
+8
+00:00:36,906 --> 00:00:41,343
+Their demonstration is stronger
+evidence than receiving a handover deck.
+
+9
+00:00:41,413 --> 00:00:46,192
+Pause the video and complete this exercise
+before opening the worked response.
+
+10
+00:00:46,262 --> 00:00:50,230
+Complete the six-part distill
+pack and design a handover test.
+
+11
+00:00:50,300 --> 00:00:55,847
+Ask the operator to respond to one unavailable-
+service scenario without contacting you.
+
+12
+00:00:55,917 --> 00:00:59,159
+Ask the maintainer to explain
+a rejected-input trace.
+
+13
+00:00:59,229 --> 00:01:03,816
+Record what they can do, what remains
+unclear, and who will maintain the playbook.
+
+14
+00:01:03,886 --> 00:01:10,094
+Model update: accurate suggestions need
+integration and trusted override handling to become
+
+15
+00:01:10,164 --> 00:01:13,236
+useful. The next loop starts
+from that revised frame.
+
+16
+00:01:13,306 --> 00:01:16,207
+Which evidence best supports
+successful handover?
+
+17
+00:01:16,277 --> 00:01:18,923
+A. A long documentation folder B.
+
+18
+00:01:18,993 --> 00:01:22,427
+The original engineer
+remains the only responder C.
+
+19
+00:01:22,497 --> 00:01:26,167
+Operators complete a recovery
+exercise independently.
+
+20
+00:01:26,237 --> 00:01:27,645
+The best answer is C.
+
+21
+00:01:27,715 --> 00:01:31,597
+Demonstrated capability matters
+more than document volume.

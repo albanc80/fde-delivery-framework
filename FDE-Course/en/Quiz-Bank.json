@@ -1,0 +1,434 @@
+[
+  {
+    "id": "M01-L01",
+    "question": "Which evidence best supports an adopted outcome?",
+    "options": [
+      "A successful demo",
+      "Observed workflow use and predefined outcome measures",
+      "A completed code review"
+    ],
+    "answer_index": 1,
+    "explanation": "A demo and a code review show intermediate delivery evidence. Adoption requires behavior and operating measures.",
+    "source": "Framework §§3,5,6,8"
+  },
+  {
+    "id": "M01-L02",
+    "question": "Which choice respects the permission boundary?",
+    "options": [
+      "Send replies because the sponsor requested speed",
+      "Use production data without telling security",
+      "Test a reviewable suggestion with permitted data"
+    ],
+    "answer_index": 2,
+    "explanation": "Speed does not expand authority. The permitted experiment still produces useful evidence.",
+    "source": "Framework §§3,5,6,8"
+  },
+  {
+    "id": "M01-L03",
+    "question": "What makes a capability claim stronger?",
+    "options": [
+      "A high self-rating",
+      "A behavior someone else can verify",
+      "Memorizing the framework"
+    ],
+    "answer_index": 1,
+    "explanation": "Independent observation is stronger than confidence alone.",
+    "source": "Framework §§3,5,6,8"
+  },
+  {
+    "id": "M01-L04",
+    "question": "How should you describe the sample numbers?",
+    "options": [
+      "Verified industry benchmarks",
+      "Guaranteed productivity gains",
+      "Fictional data for an exercise"
+    ],
+    "answer_index": 2,
+    "explanation": "The case is an educational simulation. Do not convert its values into commercial proof.",
+    "source": "Framework §§3,5,6,8"
+  },
+  {
+    "id": "M02-L01",
+    "question": "Which is a useful Recon output?",
+    "options": [
+      "A provisional decision and questions",
+      "A fixed architecture",
+      "A promised savings figure"
+    ],
+    "answer_index": 0,
+    "explanation": "Recon supplies a starting hypothesis for field investigation.",
+    "source": "Framework §4 phases1–2; §5 M1–M3"
+  },
+  {
+    "id": "M02-L02",
+    "question": "Why trace the steps after the new tool?",
+    "options": [
+      "To add more features",
+      "To identify displaced work and downstream effects",
+      "To avoid talking to operators"
+    ],
+    "answer_index": 1,
+    "explanation": "Systems thinking checks the complete workflow consequence.",
+    "source": "Framework §4 phases1–2; §5 M1–M3"
+  },
+  {
+    "id": "M02-L03",
+    "question": "What does one observed shift establish?",
+    "options": [
+      "The behavior observed in that shift",
+      "All agents always act that way",
+      "The manager is dishonest"
+    ],
+    "answer_index": 0,
+    "explanation": "Keep the claim proportional to its evidence.",
+    "source": "Framework §4 phases1–2; §5 M1–M3"
+  },
+  {
+    "id": "M02-L04",
+    "question": "What belongs in an unresolved field?",
+    "options": [
+      "A plausible invented answer",
+      "Nothing, so the map looks complete",
+      "Unknown, owner, and verification action"
+    ],
+    "answer_index": 2,
+    "explanation": "Visible uncertainty makes the map actionable.",
+    "source": "Framework §4 phases1–2; §5 M1–M3"
+  },
+  {
+    "id": "M03-L01",
+    "question": "Which frame preserves solution choice?",
+    "options": [
+      "Deploy an AI agent",
+      "Reduce defined review time under quality constraints",
+      "Use the newest model"
+    ],
+    "answer_index": 1,
+    "explanation": "An outcome frame allows competing interventions.",
+    "source": "Framework §4 phase3; §8.1"
+  },
+  {
+    "id": "M03-L02",
+    "question": "When should you define disconfirming evidence?",
+    "options": [
+      "Before the experiment",
+      "After seeing the results",
+      "Only if the sponsor asks"
+    ],
+    "answer_index": 0,
+    "explanation": "Precommitment reduces moving the goalposts.",
+    "source": "Framework §4 phase3; §8.1"
+  },
+  {
+    "id": "M03-L03",
+    "question": "What does released review time establish directly?",
+    "options": [
+      "A guaranteed reduction in payroll",
+      "Time capacity in the measured scope",
+      "Universal model accuracy"
+    ],
+    "answer_index": 1,
+    "explanation": "Financial realization is a separate claim requiring evidence.",
+    "source": "Framework §4 phase3; §8.1"
+  },
+  {
+    "id": "M03-L04",
+    "question": "What should happen to conflicting expectations?",
+    "options": [
+      "Resolve or expose them before execution",
+      "Hide them in technical notes",
+      "Promise both outcomes"
+    ],
+    "answer_index": 0,
+    "explanation": "Unresolved scope expectations are a delivery dependency.",
+    "source": "Framework §4 phase3; §8.1"
+  },
+  {
+    "id": "M04-L01",
+    "question": "What makes the slice complete?",
+    "options": [
+      "Many services",
+      "A working input-to-reviewed-output path",
+      "An attractive architecture diagram"
+    ],
+    "answer_index": 1,
+    "explanation": "Completeness concerns the value path, while thinness concerns scope.",
+    "source": "Framework §4 phase4; §5 M4,M5,M7"
+  },
+  {
+    "id": "M04-L02",
+    "question": "Can text inside a ticket expand system permissions?",
+    "options": [
+      "Yes, if it sounds urgent",
+      "Yes, if it names the sponsor",
+      "No, it remains untrusted input"
+    ],
+    "answer_index": 2,
+    "explanation": "Content and authority are separate.",
+    "source": "Framework §4 phase4; §5 M4,M5,M7"
+  },
+  {
+    "id": "M04-L03",
+    "question": "Which event proves a reviewer recorded a choice?",
+    "options": [
+      "Suggestion created",
+      "Decision saved",
+      "Health check passed"
+    ],
+    "answer_index": 1,
+    "explanation": "Separate generation, review, and operating outcomes.",
+    "source": "Framework §4 phase4; §5 M4,M5,M7"
+  },
+  {
+    "id": "M04-L04",
+    "question": "Does a passing functional test prove the outcome metric improved?",
+    "options": [
+      "Yes, automatically",
+      "Only with a modern model",
+      "No, outcome measurement is separate"
+    ],
+    "answer_index": 2,
+    "explanation": "Match each claim to the test that can establish it.",
+    "source": "Framework §4 phase4; §5 M4,M5,M7"
+  },
+  {
+    "id": "M05-L01",
+    "question": "What should the report do with rejected inputs?",
+    "options": [
+      "Hide them",
+      "Include them as successful reviews",
+      "Report their count and exclusion reason"
+    ],
+    "answer_index": 2,
+    "explanation": "Coverage and exclusions affect interpretation.",
+    "source": "Framework §4 phase5; §8.2 learning"
+  },
+  {
+    "id": "M05-L02",
+    "question": "What is the correct response to an unauthorized action?",
+    "options": [
+      "Stop the action path and recover the boundary",
+      "Ignore it if speed improved",
+      "Change the metric"
+    ],
+    "answer_index": 0,
+    "explanation": "A favorable average does not cancel an authority breach.",
+    "source": "Framework §4 phase5; §8.2 learning"
+  },
+  {
+    "id": "M05-L03",
+    "question": "What weakens a before-and-after comparison?",
+    "options": [
+      "A written metric definition",
+      "Different task complexity across samples",
+      "Reporting exclusions"
+    ],
+    "answer_index": 1,
+    "explanation": "Comparable task conditions matter for interpretation.",
+    "source": "Framework §4 phase5; §8.2 learning"
+  },
+  {
+    "id": "M05-L04",
+    "question": "What does the second Sense reading evaluate?",
+    "options": [
+      "Only whether the code compiles",
+      "Only prototype accuracy",
+      "Outcome and adoption after landing"
+    ],
+    "answer_index": 2,
+    "explanation": "The second reading checks the operating consequence over time.",
+    "source": "Framework §4 phase5; §8.2 learning"
+  },
+  {
+    "id": "M06-L01",
+    "question": "Does the lab token establish enterprise security readiness?",
+    "options": [
+      "No, its scope is local training",
+      "Yes, because authentication exists",
+      "Yes, if the demo is fast"
+    ],
+    "answer_index": 0,
+    "explanation": "Controls need evidence appropriate to their deployment environment.",
+    "source": "Framework §4 phase6; §8.3"
+  },
+  {
+    "id": "M06-L02",
+    "question": "What makes ownership operational?",
+    "options": [
+      "A name on a slide",
+      "Authority, capability, access, and recovery instructions",
+      "The engineer always being online"
+    ],
+    "answer_index": 1,
+    "explanation": "Ownership must survive ordinary absence and failure.",
+    "source": "Framework §4 phase6; §8.3"
+  },
+  {
+    "id": "M06-L03",
+    "question": "Which signal most directly shows workflow adoption?",
+    "options": [
+      "Attendance at a training session",
+      "A favorable sponsor quote",
+      "Sustained use in eligible tasks"
+    ],
+    "answer_index": 2,
+    "explanation": "Attendance is an input. Actual workflow use is behavior.",
+    "source": "Framework §4 phase6; §8.3"
+  },
+  {
+    "id": "M06-L04",
+    "question": "What should be defined before rollout?",
+    "options": [
+      "Disable triggers and a manual fallback",
+      "A guaranteed zero-failure promise",
+      "An assumption that the owner is always available"
+    ],
+    "answer_index": 0,
+    "explanation": "Recovery design is part of readiness.",
+    "source": "Framework §4 phase6; §8.3"
+  },
+  {
+    "id": "M07-L01",
+    "question": "What should transfer first?",
+    "options": [
+      "Every service from the old architecture",
+      "The principle and its conditions",
+      "The old customer’s permissions"
+    ],
+    "answer_index": 1,
+    "explanation": "Transfer the mechanism while rechecking context.",
+    "source": "Framework §4 phase7; §5 M8"
+  },
+  {
+    "id": "M07-L02",
+    "question": "Which item is most reusable across domains?",
+    "options": [
+      "Northstar’s sponsor name",
+      "A fixed access-ticket keyword list",
+      "A tested decision-recording contract"
+    ],
+    "answer_index": 2,
+    "explanation": "Stable contracts travel better than local assumptions.",
+    "source": "Framework §4 phase7; §5 M8"
+  },
+  {
+    "id": "M07-L03",
+    "question": "What distinguishes a product signal from a feature demand?",
+    "options": [
+      "Evidence about workflow and consequences",
+      "Executive seniority",
+      "A longer feature list"
+    ],
+    "answer_index": 0,
+    "explanation": "Traceable observations help product teams decide.",
+    "source": "Framework §4 phase7; §5 M8"
+  },
+  {
+    "id": "M07-L04",
+    "question": "Which evidence best supports successful handover?",
+    "options": [
+      "A long documentation folder",
+      "The original engineer remains the only responder",
+      "Operators complete a recovery exercise independently"
+    ],
+    "answer_index": 2,
+    "explanation": "Demonstrated capability matters more than document volume.",
+    "source": "Framework §4 phase7; §5 M8"
+  },
+  {
+    "id": "M08-L01",
+    "question": "What can a synthetic fallback prove?",
+    "options": [
+      "Selected behavior within the simulation",
+      "Customer API readiness",
+      "Production access approval"
+    ],
+    "answer_index": 0,
+    "explanation": "The fallback’s scope governs its claims.",
+    "source": "Framework §§5,7,8"
+  },
+  {
+    "id": "M08-L02",
+    "question": "What must remain constant across audiences?",
+    "options": [
+      "Every technical detail",
+      "The facts, limits, and decision",
+      "The same word count"
+    ],
+    "answer_index": 1,
+    "explanation": "Compression changes emphasis, not evidence.",
+    "source": "Framework §§5,7,8"
+  },
+  {
+    "id": "M08-L03",
+    "question": "Which symptom indicates moving goalposts?",
+    "options": [
+      "Writing a prediction before acting",
+      "Rejecting malformed input",
+      "Changing success criteria after seeing results"
+    ],
+    "answer_index": 2,
+    "explanation": "Post-result threshold changes distort the experiment.",
+    "source": "Framework §§5,7,8"
+  },
+  {
+    "id": "M08-L04",
+    "question": "Does course completion establish the deployment-owner stage?",
+    "options": [
+      "No, the stage requires field evidence",
+      "Yes, after watching videos",
+      "Yes, if the self-rating is high"
+    ],
+    "answer_index": 0,
+    "explanation": "Keep educational achievement separate from verified career capability.",
+    "source": "Framework §§5,7,8"
+  },
+  {
+    "id": "M09-L01",
+    "question": "Who retains maintenance priority authority?",
+    "options": [
+      "The ticket text",
+      "The authorized supervisor",
+      "The fastest routing rule"
+    ],
+    "answer_index": 1,
+    "explanation": "The tool assists review without assuming operating authority.",
+    "source": "Framework §§4,7,8,9"
+  },
+  {
+    "id": "M09-L02",
+    "question": "What must the fallback report preserve?",
+    "options": [
+      "The claim that integration passed",
+      "Only the favorable screenshots",
+      "The distinction between tested and untested behavior"
+    ],
+    "answer_index": 2,
+    "explanation": "Fallbacks change the evidence boundary.",
+    "source": "Framework §§4,7,8,9"
+  },
+  {
+    "id": "M09-L03",
+    "question": "Can a high score offset invented evidence?",
+    "options": [
+      "No, evidence integrity is a mandatory gate",
+      "Yes, if the prototype works",
+      "Yes, if the slides are polished"
+    ],
+    "answer_index": 0,
+    "explanation": "Mandatory gates remain separate from the aggregate score.",
+    "source": "Framework §§4,7,8,9"
+  },
+  {
+    "id": "M09-L04",
+    "question": "What does domain translation change?",
+    "options": [
+      "It grants automatic operating permission",
+      "Vocabulary and context, while permissions still need verification",
+      "It proves standards compliance"
+    ],
+    "answer_index": 1,
+    "explanation": "A transferable method does not imply transferable authority.",
+    "source": "Framework §§4,7,8,9"
+  }
+]

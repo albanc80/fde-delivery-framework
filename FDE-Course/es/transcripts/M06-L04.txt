@@ -1,0 +1,9 @@
+Ajusta el lanzamiento a consecuencias y reversibilidad. Empieza con límites permitidos, observa excepciones y conserva un proceso manual conocido. Define condiciones para desactivar, revertir y escalar antes del incidente. Un respaldo sirve si puedes restaurarlo. Producción exige recuperación, retención, monitoreo, identidad y soporte reales. El prototipo demuestra las preguntas sin afirmar controles completos.
+
+La API falla durante un turno. Los agentes usan la tabla de categorías. Maya desactiva asistencia, Luis diagnostica y el evento entra al registro de aprendizaje. La operación continúa mientras se recupera la función.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Escribe disparador, acción inmediata, responsable y evidencia para reanudar.
+
+Disparador: solicitudes fallidas repetidas o una acción no autorizada. Acción: desactivar asistencia y revisar manualmente. Maya conserva continuidad y Luis recupera el servicio. Reanuda después de corregir la falla, aprobar pruebas pertinentes y confirmar preparación. Una prueba productiva requiere entorno real y procedimientos autorizados.
+
+¿Qué debe definirse antes del lanzamiento? A. Condiciones de desactivación y alternativa manual B. Una promesa de cero fallas C. Suponer disponibilidad permanente del responsable. La mejor respuesta es A. Diseñar recuperación forma parte de la preparación.

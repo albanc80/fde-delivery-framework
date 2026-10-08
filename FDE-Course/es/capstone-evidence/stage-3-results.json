@@ -1,0 +1,13 @@
+{
+  "synthetic": true,
+  "eligible_tasks": 12,
+  "assisted_median_minutes": 11,
+  "wrong_final_assignments": 2,
+  "predicted_max_median_minutes": 12,
+  "allowed_wrong_assignments": 1,
+  "second_reading": {
+    "eligible_requests": 20,
+    "assisted_requests": 6,
+    "adoption_target": 0.6
+  }
+}

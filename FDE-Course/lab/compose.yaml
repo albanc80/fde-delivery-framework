@@ -1,0 +1,25 @@
+name: fde-course-lab
+services:
+  review:
+    build: .
+    ports:
+      - "127.0.0.1:8088:8080"
+    environment:
+      TRAINING_TOKEN: "${TRAINING_TOKEN:-course-local-example-token}"
+      EVENT_DB: /data/events.sqlite
+    volumes:
+      - lab-events:/data
+    read_only: true
+    tmpfs:
+      - /tmp
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request;urllib.request.urlopen('http://localhost:8080/health',timeout=2)"]
+      interval: 10s
+      timeout: 3s
+      retries: 5
+volumes:
+  lab-events:

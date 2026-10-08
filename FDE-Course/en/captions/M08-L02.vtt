@@ -1,0 +1,88 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.755
+Translation preserves truth while
+changing the level of detail.
+
+00:00:03.825 --> 00:00:07.110
+Operators need task consequences and recovery.
+
+00:00:07.180 --> 00:00:10.828
+Engineers need contracts,
+failure modes, and dependencies.
+
+00:00:10.898 --> 00:00:15.186
+Executives need the decision,
+evidence, risk, and next commitment.
+
+00:00:15.256 --> 00:00:19.373
+Every version should keep the same
+authority boundary and uncertainty.
+
+00:00:19.443 --> 00:00:22.067
+Compress the messy context into one page.
+
+00:00:22.137 --> 00:00:27.236
+If one audience hears a stronger promise
+than another, the translation has changed the
+
+00:00:27.306 --> 00:00:29.439
+decision rather than clarified it.
+
+00:00:29.509 --> 00:00:34.352
+The system generates reviewable routing
+suggestions using synthetic data.
+
+00:00:34.422 --> 00:00:36.555
+It has not been approved for production.
+
+00:00:36.625 --> 00:00:41.873
+That limit must appear in the executive
+summary as clearly as in the engineering note.
+
+00:00:41.943 --> 00:00:46.722
+Pause the video and complete this exercise
+before opening the worked response.
+
+00:00:46.792 --> 00:00:51.720
+Write a three-sentence explanation for
+an operator, engineer, and executive.
+
+00:00:51.790 --> 00:00:57.593
+Operator: review the queue suggestion, override
+when needed, and save your choice; use manual
+
+00:00:57.663 --> 00:00:59.241
+triage if unavailable.
+
+00:00:59.311 --> 00:01:05.903
+Engineer: the local API validates input, keeps
+review separate, and records correlated events;
+
+00:01:05.973 --> 00:01:08.064
+production controls remain pending.
+
+00:01:08.134 --> 00:01:14.683
+Executive: the synthetic test supports a bounded
+pilot hypothesis; authorize the next access
+
+00:01:14.753 --> 00:01:17.377
+review rather than claiming customer savings.
+
+00:01:17.447 --> 00:01:20.157
+What must remain constant across audiences?
+
+00:01:20.227 --> 00:01:22.467
+A. Every technical detail B.
+
+00:01:22.537 --> 00:01:24.691
+The facts, limits, and decision C.
+
+00:01:24.761 --> 00:01:26.148
+The same word count.
+
+00:01:26.218 --> 00:01:27.690
+The best answer is B.
+
+00:01:27.760 --> 00:01:30.555
+Compression changes emphasis, not evidence.

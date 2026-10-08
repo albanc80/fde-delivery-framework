@@ -1,0 +1,9 @@
+La lectura ocurre otra vez después del despliegue y un período de adopción. Pregunta si el resultado aparece en el proceso operativo. Distingue software disponible, intentos, decisiones revisadas y uso sostenido. Cuenta trabajo elegible si la herramienta atiende una categoría. Examina modificaciones y abandono junto con rapidez. Conserva la predicción original salvo un cambio documentado antes de la nueva prueba.
+
+Dos semanas después, cuarenta de cien tickets elegibles usan asistencia. Las revisiones completadas son más rápidas, pero la adopción queda bajo el umbral ficticio del 70 por ciento. La herramienta está disponible y aún no alcanza la meta.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Escribe la segunda lectura y recomienda una decisión.
+
+La adopción observada es cuarenta por ciento de tickets elegibles. Investiga fricción e incentivos antes de escalar. Itera sobre integración operativa y conserva calidad. No elimines el umbral del setenta por ciento ni reportes solo casos exitosos. La segunda lectura evita convertir éxito técnico en una afirmación de resultado sin respaldo.
+
+¿Qué evalúa la segunda lectura? A. Solo si compila el código B. Solo exactitud del prototipo C. Resultado y adopción después del despliegue. La mejor respuesta es C. La segunda lectura revisa la consecuencia operativa en el tiempo.

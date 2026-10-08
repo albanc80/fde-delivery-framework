@@ -1,0 +1,9 @@
+Landing requires someone on site who operates the system. Name the owner and clarify routine responsibilities, escalation, exceptions, and the authority to disable the workflow. Ownership is more than listing a person in a document. The person needs context, access, capability, and time. Keep your accountability through adoption while transferring practical capability rather than preserving dependence on you.
+
+Maya owns the queue, but Luis alone can restore the service. If Luis is unavailable, agents need a manual fallback and an escalation contact. A nominal owner without a recovery path cannot operate independently.
+
+Pause the video and complete this exercise before opening the worked response. Write an ownership table and a one-page runbook with a manual fallback.
+
+The runbook describes availability checks, failed-request symptoms, the routing-rule version, manual category lookup, escalation to Luis, and the conditions for disabling assistance. Maya can make the disable decision within the agreed workflow authority. Priya controls data-access changes. A support rotation covers absence rather than making the original engineer the only responder.
+
+What makes ownership operational? A. A name on a slide B. Authority, capability, access, and recovery instructions C. The engineer always being online. The best answer is B. Ownership must survive ordinary absence and failure.

@@ -1,0 +1,9 @@
+Sense compares reality with the written prediction. The first reading occurs after the thin slice and asks whether the critical assumption holds. Use the metric definition and thresholds agreed before the experiment. Include failures, exclusions, and exceptions. An improvement on a selected subset may disappear when failed tasks are restored. Write the result in a delta log: predicted, observed, model update, and decision.
+
+The twelve-task assisted sample has a median of 12 minutes and one wrong queue. It meets the fictional speed and quality thresholds. Two additional unusable tickets were rejected before review and must be reported as exclusions.
+
+Pause the video and complete this exercise before opening the worked response. Write a delta entry that includes the sample denominator and excluded records.
+
+Predicted: median no greater than 14 with at most one misroute. Observed: median 12, one misroute across twelve eligible tasks, plus two rejected inputs. Update: routing assistance is promising within eligible tasks. Decision: prepare a controlled landing only after checklist gaps close. Do not generalize this synthetic result to all support work.
+
+What should the report do with rejected inputs? A. Hide them B. Include them as successful reviews C. Report their count and exclusion reason. The best answer is C. Coverage and exclusions affect interpretation.

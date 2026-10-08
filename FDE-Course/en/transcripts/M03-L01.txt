@@ -1,0 +1,9 @@
+The Frame Card outcome names a user, a workflow, its current condition, a desired condition, a metric, and constraints. Co-author it with the operator. Use a measure the operator recognizes and define its denominator. Separate desired outcome from the technology proposed to achieve it. A frame that says deploy AI specifies a solution. A frame that says reduce review time while preserving routing quality leaves room to choose the simplest useful intervention.
+
+The fictional baseline is a median of 20 minutes across twelve simulated reviews. The team proposes a median no greater than 14 minutes for an equivalent assisted sample, with at most one misroute per twelve decisions. These are exercise thresholds agreed before reading results.
+
+Pause the video and complete this exercise before opening the worked response. Write the outcome line and define review time, sample size, and routing error.
+
+For support agents, improve ticket review from a median of 20 to at most 14 minutes, measured on twelve comparable simulated tasks, while keeping human approval and no more than one wrong queue. Review time starts when the reviewer opens the ticket and ends at a saved decision. Wrong queue means disagreement with the case reference label after adjudication.
+
+Which frame preserves solution choice? A. Deploy an AI agent B. Reduce defined review time under quality constraints C. Use the newest model. The best answer is B. An outcome frame allows competing interventions.

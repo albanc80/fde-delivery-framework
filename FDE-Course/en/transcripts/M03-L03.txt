@@ -1,0 +1,9 @@
+An outcome measure needs companion guardrails. Review speed alone can reward careless routing. Define quality, exceptions, coverage, and workload as appropriate. Keep the analysis unit consistent and compare similar tasks. A small synthetic sample supports a course decision, not a population estimate. Calculate improvement transparently and state whether it represents capacity, cost, or another benefit. Time released becomes cash savings only through an additional organizational mechanism.
+
+A change from 20 to 12 minutes is eight minutes less per review and a 40 percent reduction in the sample median. It does not establish a 40 percent reduction in staffing cost. Two wrong queues in twelve tasks would violate the case quality threshold.
+
+Pause the video and complete this exercise before opening the worked response. Calculate relative improvement and write one supported claim and one claim the evidence cannot support.
+
+The calculation is twenty minus twelve, divided by twenty, which equals forty percent. Supported: median review time fell in this synthetic comparison. Unsupported: payroll fell by forty percent. Add sample size and error rate to the report. If time falls but errors exceed the guardrail, iterate rather than land.
+
+What does released review time establish directly? A. A guaranteed reduction in payroll B. Time capacity in the measured scope C. Universal model accuracy. The best answer is B. Financial realization is a separate claim requiring evidence.

@@ -1,0 +1,111 @@
+1
+00:00:00,000 --> 00:00:04,821
+Registra lo necesario para diagnosticar
+sin copiar texto sensible innecesario.
+
+2
+00:00:04,891 --> 00:00:10,267
+El laboratorio guarda tipo de evento, identificador
+del ticket y sugerencia, cola y fecha.
+
+3
+00:00:10,337 --> 00:00:14,583
+Una sugerencia y una decisión
+revisada significan cosas diferentes.
+
+4
+00:00:14,653 --> 00:00:17,831
+Usa identificadores de
+correlación para conectarlas.
+
+5
+00:00:17,901 --> 00:00:22,040
+Evita decisiones duplicadas y
+exige una sugerencia existente.
+
+6
+00:00:22,110 --> 00:00:24,841
+Cuenta eventos y conserva el denominador.
+
+7
+00:00:24,911 --> 00:00:28,452
+Más sugerencias no
+necesariamente generan más valor.
+
+8
+00:00:28,522 --> 00:00:32,511
+Existen diez sugerencias, pero
+solo cuatro decisiones guardadas.
+
+9
+00:00:32,581 --> 00:00:37,275
+Reportar diez revisiones exitosas
+oculta seis interacciones incompletas.
+
+10
+00:00:37,345 --> 00:00:42,337
+Una modificación puede demostrar recuperación
+útil, no necesariamente una falla.
+
+11
+00:00:42,407 --> 00:00:47,441
+Pausa el video y completa el ejercicio
+antes de consultar la respuesta comentada.
+
+12
+00:00:47,511 --> 00:00:51,202
+Genera una sugerencia, cambia
+su cola y guarda la decisión.
+
+13
+00:00:51,272 --> 00:00:54,152
+Intenta guardarla de nuevo y revisa eventos.
+
+14
+00:00:54,222 --> 00:00:59,193
+El registro debe contener una sugerencia
+y una decisión con el mismo identificador.
+
+15
+00:00:59,263 --> 00:01:04,831
+La modificación conserva la cola elegida sin
+afirmar que la sugerencia inicial era correcta.
+
+16
+00:01:04,901 --> 00:01:08,293
+El duplicado produce conflicto
+y no aumenta el conteo.
+
+17
+00:01:08,363 --> 00:01:13,248
+Las fechas muestran ejecución, pero el
+resultado del encuadre aún necesita medición
+
+18
+00:01:13,318 --> 00:01:14,385
+independiente.
+
+19
+00:01:14,455 --> 00:01:17,292
+¿Qué evento demuestra una elección registrada?
+
+20
+00:01:17,362 --> 00:01:19,090
+A. Sugerencia creada B.
+
+21
+00:01:19,160 --> 00:01:20,717
+Decisión guardada C.
+
+22
+00:01:20,787 --> 00:01:22,537
+Disponibilidad confirmada.
+
+23
+00:01:22,607 --> 00:01:24,356
+La mejor respuesta es B.
+
+24
+00:01:24,426 --> 00:01:27,989
+Distingue generación, revisión
+y resultados operativos.

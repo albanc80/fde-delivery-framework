@@ -1,0 +1,9 @@
+The eight capabilities cover discovery, signal extraction, systems thinking, technical breadth, delivery judgment, translation and trust, shipped learning, and ownership and compounding. Treat these as observable behaviors. A portfolio should show the problem you clarified, a complete working path, a consequential trade-off, a prediction made before action, and a reusable contribution. Self-ratings identify practice priorities. They do not independently verify readiness or replace evidence from work.
+
+You can implement APIs quickly but have never observed users after rollout. Another learner writes strong discovery notes but cannot get data to a usable screen. Both have a specific practice gap, rather than one overall score that explains everything.
+
+Pause the video and complete this exercise before opening the worked response. Choose your weakest capability. Define a behavior that another person could observe and a course artifact that demonstrates it.
+
+For adoption ownership, the behavior is scheduling and conducting an outcome reading with the operating owner. The artifact is a dated adoption record with actual usage, exception handling, and a decision. For technical breadth, demonstrate the input-to-output flow and diagnose a failed request. The capability equation in the source is a teaching heuristic, not a validated numerical performance formula.
+
+What makes a capability claim stronger? A. A high self-rating B. A behavior someone else can verify C. Memorizing the framework. The best answer is B. Independent observation is stronger than confidence alone.

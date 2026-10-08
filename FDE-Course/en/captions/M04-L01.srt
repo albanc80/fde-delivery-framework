@@ -1,0 +1,110 @@
+1
+00:00:00,000 --> 00:00:05,739
+A thin slice crosses the whole path from real-
+shaped input to usable output while keeping
+
+2
+00:00:05,809 --> 00:00:13,446
+scope small. In the course prototype, a ticket enters
+a local API, validation checks it, a deterministic
+
+3
+00:00:13,516 --> 00:00:18,977
+rule suggests a queue, the reviewer inspects
+the reason, and an event records the result.
+
+4
+00:00:19,047 --> 00:00:22,631
+We start with rules to establish
+an understandable baseline.
+
+5
+00:00:22,701 --> 00:00:29,293
+An optional model must later justify its additional
+value and risk on the same evaluation set.
+
+6
+00:00:29,363 --> 00:00:34,675
+The prototype is a teaching system, with
+synthetic data and explicit human review.
+
+7
+00:00:34,745 --> 00:00:40,463
+An architecture diagram with five services
+tests no operating assumption by itself.
+
+8
+00:00:40,533 --> 00:00:45,845
+One ticket appearing on the review screen
+tests integration and usability, even if the
+
+9
+00:00:45,915 --> 00:00:48,453
+implementation has only one service.
+
+10
+00:00:48,523 --> 00:00:53,302
+Pause the video and complete this exercise
+before opening the worked response.
+
+11
+00:00:53,372 --> 00:00:55,356
+Run the lab with Docker Compose.
+
+12
+00:00:55,426 --> 00:01:01,698
+Open the review screen and trace ticket
+T001 through input, rule, output, and event.
+
+13
+00:01:01,768 --> 00:01:08,488
+The complete path uses POST /api/triage, returns
+a suggestion with human_review_required set
+
+14
+00:01:08,558 --> 00:01:11,011
+to true, and writes a suggestion event.
+
+15
+00:01:11,081 --> 00:01:15,455
+Saving an accepted or overridden
+decision produces a separate event.
+
+16
+00:01:15,525 --> 00:01:19,023
+Inspect both rather than
+treating generation as adoption.
+
+17
+00:01:19,093 --> 00:01:24,725
+GET /health confirms availability, but does
+not prove authorized routing or workflow
+
+18
+00:01:24,795 --> 00:01:25,926
+usefulness.
+
+19
+00:01:25,996 --> 00:01:27,681
+What makes the slice complete?
+
+20
+00:01:27,751 --> 00:01:29,394
+A. Many services B.
+
+21
+00:01:29,464 --> 00:01:31,939
+A working input-to-reviewed-output path C.
+
+22
+00:01:32,009 --> 00:01:34,163
+An attractive architecture diagram.
+
+23
+00:01:34,233 --> 00:01:35,705
+The best answer is B.
+
+24
+00:01:35,775 --> 00:01:39,829
+Completeness concerns the value
+path, while thinness concerns scope.

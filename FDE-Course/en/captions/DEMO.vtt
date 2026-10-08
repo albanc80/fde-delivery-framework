@@ -1,0 +1,95 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.800
+This demonstration uses the actual
+local Northstar teaching application.
+
+00:00:04.870 --> 00:00:10.417
+Start it with Docker Compose, open the review
+page, and enter the course-only training token
+
+00:00:10.487 --> 00:00:11.809
+from the coding guide.
+
+00:00:11.879 --> 00:00:13.479
+The data is synthetic.
+
+00:00:13.549 --> 00:00:16.643
+The routing baseline uses understandable rules.
+
+00:00:16.713 --> 00:00:19.891
+The application has no
+customer messaging channel.
+
+00:00:19.961 --> 00:00:23.545
+An incorrect token produces
+an unauthorized response.
+
+00:00:23.615 --> 00:00:28.373
+The access boundary applies before
+the request reaches the routing logic.
+
+00:00:28.443 --> 00:00:32.133
+A ticket cannot grant permission
+by including an instruction.
+
+00:00:32.203 --> 00:00:35.937
+This local control demonstrates
+the question of authority.
+
+00:00:36.007 --> 00:00:41.361
+Enterprise identity and production data
+approval require a separate implementation.
+
+00:00:41.431 --> 00:00:45.741
+With the permitted training token, this
+ticket receives an access suggestion.
+
+00:00:45.811 --> 00:00:51.357
+The response includes a suggestion identifier,
+the rule explanation, and human review
+
+00:00:51.427 --> 00:00:56.355
+required. The suggestion has not yet
+become a recorded operating decision.
+
+00:00:56.425 --> 00:00:59.945
+Inspect the text and the
+proposed queue before continuing.
+
+00:01:00.015 --> 00:01:04.559
+Here the reviewer overrides the suggestion
+to manual and saves the decision.
+
+00:01:04.629 --> 00:01:08.427
+The record keeps the chosen queue
+and the suggestion identifier.
+
+00:01:08.497 --> 00:01:11.483
+A second save must not create another decision.
+
+00:01:11.553 --> 00:01:12.919
+No message is sent.
+
+00:01:12.989 --> 00:01:18.706
+In a real workflow, an override can provide
+learning evidence when its reason is understood.
+
+00:01:18.776 --> 00:01:22.040
+The metrics distinguish
+suggestions from saved decisions.
+
+00:01:22.110 --> 00:01:26.014
+Review time says not measured,
+and adoption says not established.
+
+00:01:26.084 --> 00:01:28.281
+Those are honest evidence boundaries.
+
+00:01:28.351 --> 00:01:34.687
+To evaluate the Frame Card, define a timed task
+comparison and a period of eligible workflow
+
+00:01:34.757 --> 00:01:39.536
+use. Functional behavior and an adopted
+outcome need different evidence.

@@ -1,0 +1,9 @@
+La extracción de aprendizaje separa el principio transferible de la implementación local. Pregunta qué condiciones hicieron útil la intervención y cuáles la limitaron. Un patrón describe condiciones, mecanismo y límites de evidencia. Copiar toda la arquitectura crea un método impuesto. Un principio ayuda cuando otro entorno puede probarlo sin heredar supuestos exclusivos del lugar original.
+
+Northstar obtuvo utilidad de sugerencias revisables. Un almacén necesita manejar excepciones, no colas de soporte. La idea transferible es integrar la sugerencia en el paso de decisión existente. La regla de categorías sigue siendo local.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Escribe un patrón condicionado y dos condiciones que deban probarse en otro entorno.
+
+Cuando clasificar repetidamente consume esfuerzo y el operador conserva autoridad, una sugerencia dentro de la revisión puede reducir consultas. Prueba estabilidad de categorías e incentivos en el nuevo lugar. La evidencia del curso respalda una hipótesis de transferencia, no una regla universal sobre IA.
+
+¿Qué debería transferirse primero? A. Todos los servicios anteriores B. El principio y sus condiciones C. Los permisos del cliente anterior. La mejor respuesta es B. Transfiere el mecanismo y verifica nuevamente el contexto.

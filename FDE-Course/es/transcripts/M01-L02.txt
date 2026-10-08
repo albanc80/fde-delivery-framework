@@ -1,0 +1,9 @@
+El marco propone seis principios: asumir el resultado, mantenerse cerca de la realidad, actuar para aprender, reconocer qué se sabe, decidir conscientemente los compromisos y dejar capacidad instalada. Aplícalos a una decisión concreta. Pregunta qué resultado importa, qué observaste, qué experimento reduce la incertidumbre, qué afirmaciones son supuestos, qué riesgo aceptas y qué seguirá siendo útil cuando te retires. Un principio sirve cuando modifica el alcance, la evidencia, la autoridad o la secuencia.
+
+El patrocinador pide respuestas automáticas para el viernes. Puedes analizar tickets sintéticos, pero no enviar mensajes a clientes. Maya acepta probar sugerencias con revisión humana. Seguridad todavía no evalúa el acceso a datos productivos.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Selecciona una entrega para el viernes. Explica su aprendizaje, límite de autoridad y producto reutilizable.
+
+Entrega un ticket sintético que pase por una regla de asignación, una pantalla de revisión y una decisión observable. Registra una predicción sobre la utilidad. No envíes mensajes. Conserva la validación de datos y el registro de auditoría como componentes reutilizables. Así limitas el alcance y evitas comprometer a la organización con acciones sin revisión. También defines una pregunta medible para el siguiente experimento.
+
+¿Qué decisión respeta el límite de permisos? A. Enviar respuestas porque el patrocinador exige rapidez B. Usar datos productivos sin informar a seguridad C. Probar una sugerencia revisable con datos permitidos. La mejor respuesta es C. La rapidez no amplía la autoridad. El experimento permitido puede producir evidencia útil.

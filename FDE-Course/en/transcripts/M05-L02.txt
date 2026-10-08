@@ -1,0 +1,9 @@
+The gate decision converts evidence into action. Land when the critical assumption holds and remaining operational conditions are satisfied. Iterate when the mechanism remains plausible but a bounded defect needs correction. Pivot when evidence points toward a different problem or intervention. Stop when the approach lacks value or exceeds an unacceptable boundary. Explain the choice using evidence, risk, reversibility, and the next observable test.
+
+Three variants appear: speed improves but errors double; category assistance has no effect because account lookup dominates; and a prototype sends unauthorized replies. Each failure demands a different decision.
+
+Pause the video and complete this exercise before opening the worked response. Assign a gate decision to each variant and state the next action.
+
+Iterate on excessive routing errors if a specific correction can be tested safely. Pivot toward account lookup when evidence changes the problem mechanism. Stop unauthorized replies and restore the approval boundary before further testing. A stop can be temporary for recovery, but continuing unchanged would ignore the evidence.
+
+What is the correct response to an unauthorized action? A. Stop the action path and recover the boundary B. Ignore it if speed improved C. Change the metric. The best answer is A. A favorable average does not cancel an authority breach.

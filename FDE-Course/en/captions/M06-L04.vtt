@@ -1,0 +1,93 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.072
+Pace rollout by consequence and reversibility.
+
+00:00:03.142 --> 00:00:08.497
+Start with a permitted boundary, observe
+exceptions, and retain a known manual path.
+
+00:00:08.567 --> 00:00:13.345
+Define triggers for disable, rollback,
+and escalation before the incident.
+
+00:00:13.415 --> 00:00:16.466
+A backup is useful only if restoration works.
+
+00:00:16.536 --> 00:00:22.851
+For production, evaluate restoration, retention,
+monitoring, identity, and operating support
+
+00:00:22.921 --> 00:00:24.563
+in the actual environment.
+
+00:00:24.633 --> 00:00:30.052
+The course prototype intentionally demonstrates
+the questions without claiming all those
+
+00:00:30.122 --> 00:00:31.637
+controls are complete.
+
+00:00:31.707 --> 00:00:34.693
+The API becomes unavailable during a shift.
+
+00:00:34.763 --> 00:00:37.131
+Agents can still use the category sheet.
+
+00:00:37.201 --> 00:00:43.217
+Maya disables assistance, Luis diagnoses the
+service, and the event enters the learning log.
+
+00:00:43.287 --> 00:00:46.701
+The team can continue operating
+while the feature recovers.
+
+00:00:46.771 --> 00:00:51.549
+Pause the video and complete this exercise
+before opening the worked response.
+
+00:00:51.619 --> 00:00:57.209
+Write a recovery trigger, immediate action,
+responsible owner, and evidence required to
+
+00:00:57.279 --> 00:00:58.281
+resume.
+
+00:00:58.351 --> 00:01:02.191
+Trigger: repeated failed requests
+or an unauthorized action.
+
+00:01:02.261 --> 00:01:06.315
+Immediate action: disable
+assistance and use manual review.
+
+00:01:06.385 --> 00:01:10.950
+Owner: Maya for workflow continuity
+and Luis for technical recovery.
+
+00:01:11.020 --> 00:01:16.951
+Resume only after the relevant fault is corrected,
+boundary tests pass, and the owner confirms
+
+00:01:17.021 --> 00:01:23.933
+readiness. A production recovery drill would need the
+real environment and approved operating procedures.
+
+00:01:24.003 --> 00:01:26.093
+What should be defined before rollout?
+
+00:01:26.163 --> 00:01:29.321
+A. Disable triggers and a manual fallback B.
+
+00:01:29.391 --> 00:01:31.823
+A guaranteed zero-failure promise C.
+
+00:01:31.893 --> 00:01:34.794
+An assumption that the
+owner is always available.
+
+00:01:34.864 --> 00:01:36.315
+The best answer is A.
+
+00:01:36.385 --> 00:01:38.838
+Recovery design is part of readiness.

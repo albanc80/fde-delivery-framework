@@ -1,0 +1,84 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.248
+Antes de ejecutar, escribe el resultado
+esperado, la métrica, la fecha y la evidencia que
+
+00:00:05.318 --> 00:00:07.195
+cambiaría tu interpretación.
+
+00:00:07.265 --> 00:00:11.297
+La predicción pertenece al experimento,
+no a una historia reconstruida.
+
+00:00:11.367 --> 00:00:13.906
+Define una línea base con la misma tarea.
+
+00:00:13.976 --> 00:00:18.541
+Evalúa reglas antes de agregar un
+modelo para identificar valor adicional.
+
+00:00:18.611 --> 00:00:21.683
+Las pruebas funcionales
+demuestran comportamiento.
+
+00:00:21.753 --> 00:00:25.679
+No demuestran reducción de tiempo
+sin una comparación cronometrada.
+
+00:00:25.749 --> 00:00:31.466
+Predices una mediana máxima de 14 minutos y
+hasta un error en doce tareas equivalentes.
+
+00:00:31.536 --> 00:00:35.525
+Las pruebas del laboratorio pasan,
+pero nadie cronometra revisores.
+
+00:00:35.595 --> 00:00:38.539
+Estos conjuntos responden preguntas diferentes.
+
+00:00:38.609 --> 00:00:43.644
+Pausa el video y completa el ejercicio
+antes de consultar la respuesta comentada.
+
+00:00:43.714 --> 00:00:48.983
+Escribe la predicción, ejecuta las pruebas y
+explica qué demuestra un resultado aprobado.
+
+00:00:49.053 --> 00:00:55.048
+Las pruebas aprobadas verifican API local,
+validación, reglas, auditoría y aprobación según lo
+
+00:00:55.118 --> 00:01:01.305
+especificado. No demuestran confianza, adopción,
+latencia del cliente ni mejora causal de productividad.
+
+00:01:01.375 --> 00:01:04.212
+Conserva abierta la predicción hasta medirla.
+
+00:01:04.282 --> 00:01:09.573
+Una comparación opcional con un modelo debe
+reutilizar las etiquetas y considerar costo,
+
+00:01:09.643 --> 00:01:12.587
+errores, alternativas y esfuerzo de revisión.
+
+00:01:12.657 --> 00:01:16.433
+¿Una prueba funcional aprobada
+demuestra mejora del resultado?
+
+00:01:16.503 --> 00:01:18.380
+A. Sí, automáticamente B.
+
+00:01:18.450 --> 00:01:20.413
+Solo con un modelo moderno C.
+
+00:01:20.483 --> 00:01:23.512
+No, la medición del resultado es independiente.
+
+00:01:23.582 --> 00:01:25.331
+La mejor respuesta es C.
+
+00:01:25.401 --> 00:01:29.028
+Vincula cada afirmación con la
+prueba que puede respaldarla.

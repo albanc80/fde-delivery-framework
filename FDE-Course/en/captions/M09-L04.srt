@@ -1,0 +1,116 @@
+1
+00:00:00,000 --> 00:00:04,928
+The final lesson turns simulated
+practice into a bounded development plan.
+
+2
+00:00:04,998 --> 00:00:10,331
+Identify a real workflow you may observe,
+the owner who can agree the frame, and the
+
+3
+00:00:10,401 --> 00:00:12,620
+permissions needed for any experiment.
+
+4
+00:00:12,690 --> 00:00:16,765
+Preserve confidentiality and
+authoritative operating procedures.
+
+5
+00:00:16,835 --> 00:00:20,824
+Translate the loop into the domain
+while keeping the evidence discipline.
+
+6
+00:00:20,894 --> 00:00:27,486
+The source’s O&G examples are draft translations,
+so do not infer WITSML compliance, safety
+
+7
+00:00:27,556 --> 00:00:31,033
+approval, or real operational
+performance from this course.
+
+8
+00:00:31,103 --> 00:00:36,202
+In remote operations, a data-quality
+review may be a suitable first workflow.
+
+9
+00:00:36,272 --> 00:00:41,541
+An agent that changes drilling parameters
+creates a different authority and consequence
+
+10
+00:00:41,611 --> 00:00:47,137
+boundary. The same loop can guide investigation
+without granting the same action rights.
+
+11
+00:00:47,207 --> 00:00:51,985
+Pause the video and complete this exercise
+before opening the worked response.
+
+12
+00:00:52,055 --> 00:00:57,879
+Write your next-loop proposal with owner,
+permitted observation, smallest action, metric, and
+
+13
+00:00:57,949 --> 00:00:59,208
+stop condition.
+
+14
+00:00:59,278 --> 00:01:04,910
+Propose observing one approved data-review
+task and testing a reviewable exception summary
+
+15
+00:01:04,980 --> 00:01:07,668
+with synthetic or explicitly permitted data.
+
+16
+00:01:07,738 --> 00:01:11,002
+Retain human judgment and
+authoritative procedures.
+
+17
+00:01:11,072 --> 00:01:15,083
+Name the operational owner and
+define success before acting.
+
+18
+00:01:15,153 --> 00:01:20,635
+Treat real deployment evidence as the next
+learning objective, not something this simulated
+
+19
+00:01:20,705 --> 00:01:22,668
+portfolio already established.
+
+20
+00:01:22,738 --> 00:01:24,871
+What does domain translation change?
+
+21
+00:01:24,941 --> 00:01:27,949
+A. It grants automatic operating permission B.
+
+22
+00:01:28,019 --> 00:01:32,478
+Vocabulary and context, while
+permissions still need verification C.
+
+23
+00:01:32,548 --> 00:01:34,404
+It proves standards compliance.
+
+24
+00:01:34,474 --> 00:01:35,946
+The best answer is B.
+
+25
+00:01:36,016 --> 00:01:39,984
+A transferable method does not
+imply transferable authority.

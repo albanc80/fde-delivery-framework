@@ -1,0 +1,9 @@
+El reconocimiento comienza con hipótesis y preguntas. Convierte la solicitud en la decisión que genera. Identifica quién decide, quién vive las consecuencias, quién conoce el trabajo y quién recibe el beneficio. Estos roles suelen corresponder a personas diferentes. Investiga intentos previos antes de proponer una solución. Distingue restricciones físicas, condiciones políticas y hábitos. Un hábito puede cambiar. Los permisos siguen siendo obligatorios aunque su origen sea organizacional.
+
+Un patrocinador pide IA. Maya quiere reducir la clasificación repetitiva. Luis administra la API. Priya autoriza el acceso. Los agentes explican el fracaso anterior: respuestas plausibles pero incorrectas aumentaron su trabajo de verificación.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Escribe una decisión preliminar y cinco preguntas de descubrimiento. Mantén provisional la solución.
+
+Decisión: ¿debe Northstar probar ayuda para asignar tickets y reducir la revisión manteniendo aprobación humana? Pregunta dónde se acumula tiempo, cómo se eligen categorías, qué causó errores previos, quién autoriza datos y cómo se observará el éxito. La decisión puede cambiar durante la inmersión. Es más concreta y verificable que comprometerse con un asistente de IA.
+
+¿Qué resultado corresponde al reconocimiento? A. Una decisión provisional y preguntas B. Una arquitectura definitiva C. Una cifra prometida de ahorro. La mejor respuesta es A. El reconocimiento aporta una hipótesis inicial para investigar.

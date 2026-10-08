@@ -1,0 +1,125 @@
+1
+00:00:00,000 --> 00:00:05,419
+El mapa del entorno reúne decisión, personas,
+proceso, tecnología, datos, restricciones,
+
+2
+00:00:05,489 --> 00:00:07,131
+incentivos e historia.
+
+3
+00:00:07,201 --> 00:00:09,633
+El reconocimiento crea la versión cero.
+
+4
+00:00:09,703 --> 00:00:12,797
+La inmersión la verifica
+y produce la versión uno.
+
+5
+00:00:12,867 --> 00:00:16,259
+Registra el estado de verificación
+y conserva los vacíos.
+
+6
+00:00:16,329 --> 00:00:22,259
+Examina los incentivos: automatizar puede eliminar
+trabajo visible y aumentar responsabilidad
+
+7
+00:00:22,329 --> 00:00:23,844
+o preocupación laboral.
+
+8
+00:00:23,914 --> 00:00:25,706
+El mapa orienta decisiones.
+
+9
+00:00:25,776 --> 00:00:29,765
+Destaca las dependencias del
+experimento y quién puede resolverlas.
+
+10
+00:00:29,835 --> 00:00:35,041
+Los agentes temen que una clasificación más
+rápida se convierta en una meta individual.
+
+11
+00:00:35,111 --> 00:00:37,351
+Maya busca asignación confiable.
+
+12
+00:00:37,421 --> 00:00:39,575
+Priya necesita límites de datos.
+
+13
+00:00:39,645 --> 00:00:42,248
+Luis requiere una alternativa documentada.
+
+14
+00:00:42,318 --> 00:00:44,771
+Estos intereses condicionan la adopción.
+
+15
+00:00:44,841 --> 00:00:49,876
+Pausa el video y completa el ejercicio
+antes de consultar la respuesta comentada.
+
+16
+00:00:49,946 --> 00:00:52,229
+Completa los ocho campos del mapa.
+
+17
+00:00:52,299 --> 00:00:55,669
+Marca lo pendiente como
+desconocido y agrega una acción.
+
+18
+00:00:55,739 --> 00:01:01,521
+El mapa identifica a Maya como responsable del
+proceso, Priya como autorizadora y Luis como
+
+19
+00:01:01,591 --> 00:01:03,105
+mantenedor de la API.
+
+20
+00:01:03,175 --> 00:01:08,615
+Registra datos sintéticos como límite del
+curso, aprobación humana como condición, notas
+
+21
+00:01:08,685 --> 00:01:13,464
+privadas como conducta observada y
+permisos productivos como asunto pendiente.
+
+22
+00:01:13,534 --> 00:01:18,569
+La próxima acción es revisar el encuadre
+con operadores antes de integrar producción.
+
+23
+00:01:18,639 --> 00:01:21,113
+¿Qué debe aparecer en un campo pendiente?
+
+24
+00:01:21,183 --> 00:01:23,658
+A. Una respuesta inventada plausible B.
+
+25
+00:01:23,728 --> 00:01:26,224
+Nada, para aparentar un mapa completo C.
+
+26
+00:01:26,294 --> 00:01:29,473
+Desconocido, responsable
+y acción de verificación.
+
+27
+00:01:29,543 --> 00:01:31,292
+La mejor respuesta es C.
+
+28
+00:01:31,362 --> 00:01:34,711
+La incertidumbre visible
+permite actuar sobre el mapa.

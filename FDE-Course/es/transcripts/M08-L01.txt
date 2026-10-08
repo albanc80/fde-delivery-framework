@@ -1,0 +1,9 @@
+Una restricción nueva prueba la adaptación. Revisa encuadre, incertidumbre, autoridad y acción útil mínima. La restricción no justifica evadir controles. Elige una alternativa permitida y explica qué afirmaciones puede probar. Documenta el cambio, su efecto en evidencia y la próxima revisión. Una alternativa sintética prueba diseño de trabajo, pero no integración productiva inaccesible.
+
+Priya prohíbe llamadas a modelos externos. Luis informa que la API no estará disponible esta semana. El patrocinador exige avance. El prototipo sintético con reglas permite seguir probando revisión.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Revisa el plan conservando aprendizaje útil y límites honestos de evidencia.
+
+Usa datos y reglas locales. Prueba usabilidad, categorías, validación y registros. Marca integración productiva y beneficio del modelo como pendientes. Conserva una revisión futura con Luis y Priya. La alternativa permite avanzar sin afirmar uso de sistemas bloqueados.
+
+¿Qué puede probar una alternativa sintética? A. Conducta seleccionada en la simulación B. Preparación de la API del cliente C. Aprobación de acceso productivo. La mejor respuesta es A. El alcance de la alternativa determina sus afirmaciones.

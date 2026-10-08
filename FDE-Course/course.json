@@ -1,0 +1,1774 @@
+{
+  "version": "1.0",
+  "date": "2026-10-04",
+  "title": {
+    "en": "Forward Deployed Delivery",
+    "es": "Entrega de soluciones en campo"
+  },
+  "subtitle": {
+    "en": "From an ambiguous problem to a reviewed, adopted solution",
+    "es": "Del problema ambiguo a una solución revisada y adoptada"
+  },
+  "modules": [
+    {
+      "id": "M01",
+      "title": {
+        "en": "Outcome ownership",
+        "es": "Responsabilidad por el resultado"
+      },
+      "source": "Framework §§3,5,6,8",
+      "practice_minutes": 35,
+      "lessons": [
+        {
+          "id": "M01-L01",
+          "title": {
+            "en": "The FDE responsibility",
+            "es": "La responsabilidad del FDE"
+          },
+          "concept": {
+            "en": "A forward deployed engineer works close to the people who bear the consequences of a system. The responsibility extends from understanding an ambiguous request to helping the operation adopt a useful change. Technical work remains essential. The difference is the boundary of ownership: a deployed feature is an intermediate milestone. An outcome requires observable workflow change, a responsible operator, and evidence collected after adoption. Keep these boundaries visible when stakeholders celebrate a successful demonstration.",
+            "es": "Un ingeniero de despliegue trabaja cerca de quienes viven las consecuencias de un sistema. Su responsabilidad abarca desde comprender una solicitud ambigua hasta ayudar a la operación a adoptar un cambio útil. El trabajo técnico sigue siendo esencial. La diferencia está en el alcance de la responsabilidad: una función desplegada es un hito intermedio. Un resultado requiere un cambio observable en el trabajo, un responsable operativo y evidencia posterior a la adopción. Mantén claros estos límites cuando una demostración reciba aprobación."
+          },
+          "case": {
+            "en": "Northstar Support asks for an AI assistant. Twenty agents handle access, billing, and incident tickets. A polished demo receives applause, but agents still copy tickets into a spreadsheet. The deployer has delivered software while the operating workflow remains unchanged.",
+            "es": "Northstar Support solicita un asistente de IA. Veinte agentes atienden tickets de acceso, facturación e incidentes. Una demostración recibe aplausos, pero los agentes siguen copiando los tickets a una hoja de cálculo. Se entregó software y el proceso operativo continúa igual."
+          },
+          "task": {
+            "en": "Write one statement describing the delivery milestone and another describing the operating outcome. Name who could verify each.",
+            "es": "Escribe una declaración del hito de entrega y otra del resultado operativo. Identifica quién puede verificar cada una."
+          },
+          "answer": {
+            "en": "Delivery: the authorized reviewer can load a ticket and inspect a routing suggestion. Outcome: agents use that suggestion in their actual queue, with lower review time and no increase in misrouting. The engineering lead verifies delivery. Maya, the support lead, owns adoption evidence. A screenshot supports the first statement; a defined observation period and review records support the second.",
+            "es": "Entrega: el revisor autorizado puede cargar un ticket y examinar una sugerencia de asignación. Resultado: los agentes usan la sugerencia en su cola real, reducen el tiempo de revisión y mantienen la calidad. El líder técnico verifica la entrega. Maya, responsable de soporte, verifica la adopción. Una captura respalda la primera afirmación; un período de observación definido y registros de revisión respaldan la segunda."
+          },
+          "question": {
+            "en": "Which evidence best supports an adopted outcome?",
+            "es": "¿Qué evidencia respalda mejor un resultado adoptado?"
+          },
+          "choices": [
+            {
+              "en": "A successful demo",
+              "es": "Una demostración exitosa"
+            },
+            {
+              "en": "Observed workflow use and predefined outcome measures",
+              "es": "Uso observado y métricas definidas de antemano"
+            },
+            {
+              "en": "A completed code review",
+              "es": "Una revisión de código completada"
+            }
+          ],
+          "correct": 1,
+          "reason": {
+            "en": "A demo and a code review show intermediate delivery evidence. Adoption requires behavior and operating measures.",
+            "es": "La demostración y la revisión de código muestran avances de entrega. La adopción exige conducta observable y métricas operativas."
+          }
+        },
+        {
+          "id": "M01-L02",
+          "title": {
+            "en": "Six principles in a decision",
+            "es": "Seis principios en una decisión"
+          },
+          "concept": {
+            "en": "The framework gives six postures: own the outcome, stay close to reality, act to learn, know what you know, trade off on purpose, and leave capability behind. Apply them to an actual choice. Ask whose result matters, what you observed, which experiment reduces uncertainty, which claims remain assumptions, what risk you are accepting, and what will remain useful when you leave. A principle becomes practical when it changes scope, evidence, authority, or sequencing.",
+            "es": "El marco propone seis principios: asumir el resultado, mantenerse cerca de la realidad, actuar para aprender, reconocer qué se sabe, decidir conscientemente los compromisos y dejar capacidad instalada. Aplícalos a una decisión concreta. Pregunta qué resultado importa, qué observaste, qué experimento reduce la incertidumbre, qué afirmaciones son supuestos, qué riesgo aceptas y qué seguirá siendo útil cuando te retires. Un principio sirve cuando modifica el alcance, la evidencia, la autoridad o la secuencia."
+          },
+          "case": {
+            "en": "The sponsor requests automatic replies this Friday. You have permission to analyze synthetic tickets but no authority to send customer messages. Maya agrees to test suggestions with human review. The security reviewer has not assessed production data access.",
+            "es": "El patrocinador pide respuestas automáticas para el viernes. Puedes analizar tickets sintéticos, pero no enviar mensajes a clientes. Maya acepta probar sugerencias con revisión humana. Seguridad todavía no evalúa el acceso a datos productivos."
+          },
+          "task": {
+            "en": "Select a Friday deliverable. Explain its learning value, authority boundary, and reusable output.",
+            "es": "Selecciona una entrega para el viernes. Explica su aprendizaje, límite de autoridad y producto reutilizable."
+          },
+          "answer": {
+            "en": "Deliver one synthetic ticket flowing through a routing rule, a review screen, and an observable decision. Record a prediction about review usefulness. Do not send messages. Keep the data validation and audit helper reusable. This accepts limited scope and avoids committing the organization to an unreviewed action channel. It also creates a measurable question for the next experiment.",
+            "es": "Entrega un ticket sintético que pase por una regla de asignación, una pantalla de revisión y una decisión observable. Registra una predicción sobre la utilidad. No envíes mensajes. Conserva la validación de datos y el registro de auditoría como componentes reutilizables. Así limitas el alcance y evitas comprometer a la organización con acciones sin revisión. También defines una pregunta medible para el siguiente experimento."
+          },
+          "question": {
+            "en": "Which choice respects the permission boundary?",
+            "es": "¿Qué decisión respeta el límite de permisos?"
+          },
+          "choices": [
+            {
+              "en": "Send replies because the sponsor requested speed",
+              "es": "Enviar respuestas porque el patrocinador exige rapidez"
+            },
+            {
+              "en": "Use production data without telling security",
+              "es": "Usar datos productivos sin informar a seguridad"
+            },
+            {
+              "en": "Test a reviewable suggestion with permitted data",
+              "es": "Probar una sugerencia revisable con datos permitidos"
+            }
+          ],
+          "correct": 2,
+          "reason": {
+            "en": "Speed does not expand authority. The permitted experiment still produces useful evidence.",
+            "es": "La rapidez no amplía la autoridad. El experimento permitido puede producir evidencia útil."
+          }
+        },
+        {
+          "id": "M01-L03",
+          "title": {
+            "en": "A portfolio of evidence",
+            "es": "Un portafolio de evidencia"
+          },
+          "concept": {
+            "en": "The eight capabilities cover discovery, signal extraction, systems thinking, technical breadth, delivery judgment, translation and trust, shipped learning, and ownership and compounding. Treat these as observable behaviors. A portfolio should show the problem you clarified, a complete working path, a consequential trade-off, a prediction made before action, and a reusable contribution. Self-ratings identify practice priorities. They do not independently verify readiness or replace evidence from work.",
+            "es": "Las ocho capacidades abarcan descubrimiento, extracción de señales, pensamiento sistémico, amplitud técnica, criterio de entrega, traducción y confianza, aprendizaje al entregar y responsabilidad con reutilización. Trátalas como conductas observables. Un portafolio debe mostrar el problema aclarado, un flujo completo que funciona, una decisión relevante, una predicción previa a la acción y una contribución reutilizable. La autoevaluación identifica prioridades de práctica. No demuestra por sí sola preparación profesional."
+          },
+          "case": {
+            "en": "You can implement APIs quickly but have never observed users after rollout. Another learner writes strong discovery notes but cannot get data to a usable screen. Both have a specific practice gap, rather than one overall score that explains everything.",
+            "es": "Puedes implementar APIs rápidamente, pero nunca has observado usuarios después del lanzamiento. Otra persona documenta muy bien el descubrimiento, pero no logra llevar datos a una pantalla útil. Cada una tiene una brecha concreta de práctica."
+          },
+          "task": {
+            "en": "Choose your weakest capability. Define a behavior that another person could observe and a course artifact that demonstrates it.",
+            "es": "Elige tu capacidad más débil. Define una conducta observable y un artefacto del curso que la demuestre."
+          },
+          "answer": {
+            "en": "For adoption ownership, the behavior is scheduling and conducting an outcome reading with the operating owner. The artifact is a dated adoption record with actual usage, exception handling, and a decision. For technical breadth, demonstrate the input-to-output flow and diagnose a failed request. The capability equation in the source is a teaching heuristic, not a validated numerical performance formula.",
+            "es": "Para la responsabilidad sobre la adopción, la conducta es programar y realizar una lectura del resultado con el responsable operativo. El artefacto es un registro fechado con uso real, excepciones y una decisión. Para amplitud técnica, demuestra el flujo completo y diagnostica una solicitud fallida. La ecuación de capacidades del documento es una herramienta conceptual, no una fórmula numérica de desempeño validada."
+          },
+          "question": {
+            "en": "What makes a capability claim stronger?",
+            "es": "¿Qué fortalece una afirmación de capacidad?"
+          },
+          "choices": [
+            {
+              "en": "A high self-rating",
+              "es": "Una autoevaluación alta"
+            },
+            {
+              "en": "A behavior someone else can verify",
+              "es": "Una conducta que otra persona puede verificar"
+            },
+            {
+              "en": "Memorizing the framework",
+              "es": "Memorizar el marco"
+            }
+          ],
+          "correct": 1,
+          "reason": {
+            "en": "Independent observation is stronger than confidence alone.",
+            "es": "La observación independiente es más sólida que la confianza personal."
+          }
+        },
+        {
+          "id": "M01-L04",
+          "title": {
+            "en": "The case and the course boundary",
+            "es": "El caso y los límites del curso"
+          },
+          "concept": {
+            "en": "This course uses fictional evidence and a local prototype. You will practice a complete delivery loop while maintaining the distinction between simulated and field evidence. Each lesson produces something that feeds the next decision. Keep a dated journal, store your first prediction before examining later evidence, and separate your submission from the worked solution. Completion can demonstrate learning in this environment. Production competence also requires experience with real constraints, users, ownership, and consequences.",
+            "es": "Este curso utiliza evidencia ficticia y un prototipo local. Practicarás un ciclo completo de entrega manteniendo la diferencia entre simulación y evidencia de campo. Cada lección produce un elemento para la siguiente decisión. Conserva un diario fechado, escribe tu predicción antes de consultar evidencia posterior y separa tu entrega de la solución comentada. Completar el curso demuestra aprendizaje en este entorno. La competencia productiva exige experiencia con restricciones, usuarios y consecuencias reales."
+          },
+          "case": {
+            "en": "Northstar has a fictional baseline of 20 minutes per ticket review. A later sample reports 12 minutes. These values exist for practicing measurement and judgment. They are neither market benchmarks nor promises about AI productivity.",
+            "es": "Northstar tiene una línea base ficticia de 20 minutos por revisión. Una muestra posterior registra 12 minutos. Estos valores permiten practicar medición y criterio. No son referencias de mercado ni promesas de productividad con IA."
+          },
+          "task": {
+            "en": "Create a dated learning journal with headings for evidence, assumptions, predictions, observed results, and decisions.",
+            "es": "Crea un diario fechado con secciones de evidencia, supuestos, predicciones, resultados observados y decisiones."
+          },
+          "answer": {
+            "en": "A useful first entry says: known within the case, twenty agents handle three ticket categories. Assumed, routing suggestions will save review time. Unknown, whether agents will use them consistently. Next action, observe a simulated review and test one end-to-end suggestion. No real customer outcome has been established. Preserve this entry when later evidence changes your view.",
+            "es": "Una primera entrada útil dice: conocido dentro del caso, veinte agentes manejan tres categorías. Supuesto, las sugerencias reducirán la revisión. Desconocido, si los agentes las usarán consistentemente. Próxima acción, observar una revisión simulada y probar una sugerencia de extremo a extremo. Todavía no existe un resultado real de cliente. Conserva esta entrada cuando la evidencia cambie tu interpretación."
+          },
+          "question": {
+            "en": "How should you describe the sample numbers?",
+            "es": "¿Cómo debes describir los números del caso?"
+          },
+          "choices": [
+            {
+              "en": "Verified industry benchmarks",
+              "es": "Referencias industriales verificadas"
+            },
+            {
+              "en": "Guaranteed productivity gains",
+              "es": "Mejoras de productividad garantizadas"
+            },
+            {
+              "en": "Fictional data for an exercise",
+              "es": "Datos ficticios para un ejercicio"
+            }
+          ],
+          "correct": 2,
+          "reason": {
+            "en": "The case is an educational simulation. Do not convert its values into commercial proof.",
+            "es": "El caso es una simulación educativa. Sus valores no constituyen evidencia comercial."
+          }
+        }
+      ]
+    },
+    {
+      "id": "M02",
+      "title": {
+        "en": "Recon and Immerse",
+        "es": "Reconocimiento e inmersión"
+      },
+      "source": "Framework §4 phases1–2; §5 M1–M3",
+      "practice_minutes": 45,
+      "lessons": [
+        {
+          "id": "M02-L01",
+          "title": {
+            "en": "The decision behind the request",
+            "es": "La decisión detrás de la solicitud"
+          },
+          "concept": {
+            "en": "Recon starts with hypotheses and questions. Convert the request into the decision it creates. Identify who can decide, who experiences consequences, who knows the workflow, and who benefits. These roles often belong to different people. Find previous attempts before proposing a solution. Distinguish physical constraints from political conditions and habits. A habit may change. A permission requirement still governs your action even when it is organizational rather than physical.",
+            "es": "El reconocimiento comienza con hipótesis y preguntas. Convierte la solicitud en la decisión que genera. Identifica quién decide, quién vive las consecuencias, quién conoce el trabajo y quién recibe el beneficio. Estos roles suelen corresponder a personas diferentes. Investiga intentos previos antes de proponer una solución. Distingue restricciones físicas, condiciones políticas y hábitos. Un hábito puede cambiar. Los permisos siguen siendo obligatorios aunque su origen sea organizacional."
+          },
+          "case": {
+            "en": "A sponsor says, build AI. Maya says, reduce repeated triage. Luis owns the ticket API. Priya approves data access. Agents explain why the previous automation failed: it sent plausible but incorrect replies and increased their checking work.",
+            "es": "Un patrocinador pide IA. Maya quiere reducir la clasificación repetitiva. Luis administra la API. Priya autoriza el acceso. Los agentes explican el fracaso anterior: respuestas plausibles pero incorrectas aumentaron su trabajo de verificación."
+          },
+          "task": {
+            "en": "Write a draft decision statement and five discovery questions. Keep the proposed solution provisional.",
+            "es": "Escribe una decisión preliminar y cinco preguntas de descubrimiento. Mantén provisional la solución."
+          },
+          "answer": {
+            "en": "Decision: should Northstar test routing assistance to reduce review effort while preserving human approval? Ask where review time accumulates, how categories are chosen, what caused prior errors, who can authorize data, and how success will be observed. This draft can change during immersion. It is narrower and more testable than a commitment to an AI assistant.",
+            "es": "Decisión: ¿debe Northstar probar ayuda para asignar tickets y reducir la revisión manteniendo aprobación humana? Pregunta dónde se acumula tiempo, cómo se eligen categorías, qué causó errores previos, quién autoriza datos y cómo se observará el éxito. La decisión puede cambiar durante la inmersión. Es más concreta y verificable que comprometerse con un asistente de IA."
+          },
+          "question": {
+            "en": "Which is a useful Recon output?",
+            "es": "¿Qué resultado corresponde al reconocimiento?"
+          },
+          "choices": [
+            {
+              "en": "A provisional decision and questions",
+              "es": "Una decisión provisional y preguntas"
+            },
+            {
+              "en": "A fixed architecture",
+              "es": "Una arquitectura definitiva"
+            },
+            {
+              "en": "A promised savings figure",
+              "es": "Una cifra prometida de ahorro"
+            }
+          ],
+          "correct": 0,
+          "reason": {
+            "en": "Recon supplies a starting hypothesis for field investigation.",
+            "es": "El reconocimiento aporta una hipótesis inicial para investigar."
+          }
+        },
+        {
+          "id": "M02-L02",
+          "title": {
+            "en": "One ticket through the workflow",
+            "es": "Un ticket a través del proceso"
+          },
+          "concept": {
+            "en": "Immerse follows actual work. Trace one item from origin to decision and identify handoffs, re-entry, waiting, and exception handling. Ask an operator to show the task and attempt a permitted version yourself. Observe what happens before and after the proposed solution. An integration can succeed technically while adding another queue or another confirmation step. Capture the entire workflow boundary so local improvement does not hide additional work elsewhere.",
+            "es": "La inmersión sigue el trabajo real. Rastrea un elemento desde su origen hasta la decisión e identifica traspasos, captura repetida, espera y excepciones. Pide al operador una demostración y realiza una versión permitida de la tarea. Observa lo que sucede antes y después de la solución. Una integración puede funcionar y agregar otra cola o confirmación. Documenta el proceso completo para evitar que una mejora local esconda trabajo adicional."
+          },
+          "case": {
+            "en": "An agent reads a ticket, looks up the account, checks a category sheet, assigns a queue, and records the reason. Copying takes two minutes, but waiting for permission can take a day. The two delays require different interventions.",
+            "es": "Un agente lee el ticket, consulta la cuenta, revisa una tabla de categorías, asigna la cola y registra el motivo. Copiar toma dos minutos, pero esperar un permiso puede tomar un día. Son problemas que requieren intervenciones distintas."
+          },
+          "task": {
+            "en": "Draw the workflow as ordered steps. Mark a delay, a handoff, a duplicate entry, and an exception.",
+            "es": "Representa el proceso en pasos. Marca una demora, un traspaso, una captura duplicada y una excepción."
+          },
+          "answer": {
+            "en": "The working map includes intake, account lookup, category selection, queue assignment, and decision recording. A permission delay belongs to access governance. Repeated category lookup belongs to routing assistance. Keep both visible, but test one uncertainty first. A tool that saves lookup time should not claim it removed the permission delay.",
+            "es": "El mapa incluye recepción, consulta de cuenta, selección de categoría, asignación y registro. La espera de permisos pertenece al gobierno del acceso. La consulta repetida de categorías pertenece a la ayuda de asignación. Conserva ambos problemas y prueba primero una incertidumbre. Una herramienta que reduce consultas no puede afirmar que eliminó la demora de permisos."
+          },
+          "question": {
+            "en": "Why trace the steps after the new tool?",
+            "es": "¿Por qué revisar los pasos posteriores a la herramienta?"
+          },
+          "choices": [
+            {
+              "en": "To add more features",
+              "es": "Para agregar funciones"
+            },
+            {
+              "en": "To identify displaced work and downstream effects",
+              "es": "Para identificar trabajo desplazado y efectos posteriores"
+            },
+            {
+              "en": "To avoid talking to operators",
+              "es": "Para evitar hablar con operadores"
+            }
+          ],
+          "correct": 1,
+          "reason": {
+            "en": "Systems thinking checks the complete workflow consequence.",
+            "es": "El pensamiento sistémico examina la consecuencia en el proceso completo."
+          }
+        },
+        {
+          "id": "M02-L03",
+          "title": {
+            "en": "Known, assumed, and unknown",
+            "es": "Conocido, supuesto y desconocido"
+          },
+          "concept": {
+            "en": "Tag important claims by evidence status. Known means supported within the available evidence and scope. Assumed means temporarily used to proceed. Unknown means material information remains missing. Attach a source and date to known claims. Identify a test and owner for important assumptions. Conflicting accounts stay visible until you understand differences in context or authority. The observed-versus-reported distinction helps investigation, but one observation does not establish universal behavior.",
+            "es": "Clasifica las afirmaciones importantes según su evidencia. Conocido significa respaldado dentro del alcance disponible. Supuesto significa aceptado provisionalmente para avanzar. Desconocido significa información relevante faltante. Agrega fuente y fecha a lo conocido. Define prueba y responsable para los supuestos importantes. Mantén visibles las versiones contradictorias hasta comprender sus contextos. Observar conducta ayuda a investigar, pero una observación no demuestra comportamiento universal."
+          },
+          "case": {
+            "en": "Maya says everyone uses the category sheet. A shift observation shows three agents using private notes instead. API documents describe a current endpoint, but Luis says its production permissions are still pending.",
+            "es": "Maya afirma que todos usan la tabla de categorías. En un turno observas que tres agentes usan notas privadas. La documentación describe un endpoint vigente, pero Luis indica que sus permisos productivos siguen pendientes."
+          },
+          "task": {
+            "en": "Tag four claims and identify the next test for the largest uncertainty.",
+            "es": "Clasifica cuatro afirmaciones y define la próxima prueba para la incertidumbre principal."
+          },
+          "answer": {
+            "en": "Known in this observed shift: three agents used private notes. Reported: Maya believes the sheet is universal. Unknown: usage across other shifts. Known from Luis: production access is pending, subject to confirmation by Priya. Next test: observe another shift and compare category sources. Avoid rewriting the statement as nobody uses the sheet.",
+            "es": "Conocido en el turno observado: tres agentes usaron notas privadas. Reportado: Maya considera universal el uso de la tabla. Desconocido: conducta en otros turnos. Reportado por Luis: falta acceso productivo, pendiente de confirmar con Priya. Próxima prueba: observar otro turno y comparar fuentes de categorías. Evita concluir que nadie utiliza la tabla."
+          },
+          "question": {
+            "en": "What does one observed shift establish?",
+            "es": "¿Qué demuestra un turno observado?"
+          },
+          "choices": [
+            {
+              "en": "The behavior observed in that shift",
+              "es": "La conducta de ese turno"
+            },
+            {
+              "en": "All agents always act that way",
+              "es": "Que todos actúan siempre igual"
+            },
+            {
+              "en": "The manager is dishonest",
+              "es": "Que la responsable miente"
+            }
+          ],
+          "correct": 0,
+          "reason": {
+            "en": "Keep the claim proportional to its evidence.",
+            "es": "Ajusta el alcance de la afirmación a la evidencia."
+          }
+        },
+        {
+          "id": "M02-L04",
+          "title": {
+            "en": "The verified Site Map",
+            "es": "El mapa del entorno verificado"
+          },
+          "concept": {
+            "en": "The Site Map joins decision, people, process, technology, data, constraints, incentives, and history. Recon creates version zero. Immerse checks it and produces version one. Include verification status rather than filling gaps with plausible detail. Incentives deserve explicit attention: automation may remove visible work while increasing accountability or perceived job risk. The map is a decision aid, so emphasize dependencies that affect the proposed experiment and who can resolve them.",
+            "es": "El mapa del entorno reúne decisión, personas, proceso, tecnología, datos, restricciones, incentivos e historia. El reconocimiento crea la versión cero. La inmersión la verifica y produce la versión uno. Registra el estado de verificación y conserva los vacíos. Examina los incentivos: automatizar puede eliminar trabajo visible y aumentar responsabilidad o preocupación laboral. El mapa orienta decisiones. Destaca las dependencias del experimento y quién puede resolverlas."
+          },
+          "case": {
+            "en": "Agents fear that faster triage will become an individual performance target. Maya wants reliable routing. Priya needs a data boundary. Luis needs a documented fallback. These interests shape adoption even if the same software works for everyone.",
+            "es": "Los agentes temen que una clasificación más rápida se convierta en una meta individual. Maya busca asignación confiable. Priya necesita límites de datos. Luis requiere una alternativa documentada. Estos intereses condicionan la adopción."
+          },
+          "task": {
+            "en": "Complete all eight Site Map fields. Leave unresolved facts explicitly unknown and attach a next action.",
+            "es": "Completa los ocho campos del mapa. Marca lo pendiente como desconocido y agrega una acción."
+          },
+          "answer": {
+            "en": "The completed map names Maya as workflow owner, Priya as access approver, and Luis as API maintainer. It records synthetic data as the course boundary, human approval as a fixed experimental condition, private notes as an observed behavior, and production permissions as unresolved. The next action is an operator review of the frame before any production integration.",
+            "es": "El mapa identifica a Maya como responsable del proceso, Priya como autorizadora y Luis como mantenedor de la API. Registra datos sintéticos como límite del curso, aprobación humana como condición, notas privadas como conducta observada y permisos productivos como asunto pendiente. La próxima acción es revisar el encuadre con operadores antes de integrar producción."
+          },
+          "question": {
+            "en": "What belongs in an unresolved field?",
+            "es": "¿Qué debe aparecer en un campo pendiente?"
+          },
+          "choices": [
+            {
+              "en": "A plausible invented answer",
+              "es": "Una respuesta inventada plausible"
+            },
+            {
+              "en": "Nothing, so the map looks complete",
+              "es": "Nada, para aparentar un mapa completo"
+            },
+            {
+              "en": "Unknown, owner, and verification action",
+              "es": "Desconocido, responsable y acción de verificación"
+            }
+          ],
+          "correct": 2,
+          "reason": {
+            "en": "Visible uncertainty makes the map actionable.",
+            "es": "La incertidumbre visible permite actuar sobre el mapa."
+          }
+        }
+      ]
+    },
+    {
+      "id": "M03",
+      "title": {
+        "en": "Frame the decision",
+        "es": "Encuadrar la decisión"
+      },
+      "source": "Framework §4 phase3; §8.1",
+      "practice_minutes": 45,
+      "lessons": [
+        {
+          "id": "M03-L01",
+          "title": {
+            "en": "The outcome line",
+            "es": "La declaración de resultado"
+          },
+          "concept": {
+            "en": "The Frame Card outcome names a user, a workflow, its current condition, a desired condition, a metric, and constraints. Co-author it with the operator. Use a measure the operator recognizes and define its denominator. Separate desired outcome from the technology proposed to achieve it. A frame that says deploy AI specifies a solution. A frame that says reduce review time while preserving routing quality leaves room to choose the simplest useful intervention.",
+            "es": "La declaración del resultado identifica usuario, proceso, situación actual, condición deseada, métrica y restricciones. Escríbela con el operador. Utiliza una medida que reconozca y define su denominador. Separa el resultado de la tecnología propuesta. Desplegar IA describe una solución. Reducir el tiempo de revisión manteniendo la calidad deja espacio para elegir la intervención útil más sencilla."
+          },
+          "case": {
+            "en": "The fictional baseline is a median of 20 minutes across twelve simulated reviews. The team proposes a median no greater than 14 minutes for an equivalent assisted sample, with at most one misroute per twelve decisions. These are exercise thresholds agreed before reading results.",
+            "es": "La línea base ficticia es una mediana de 20 minutos en doce revisiones. El equipo propone una mediana máxima de 14 minutos para una muestra asistida equivalente y hasta un error en doce decisiones. Son umbrales del ejercicio acordados antes de leer resultados."
+          },
+          "task": {
+            "en": "Write the outcome line and define review time, sample size, and routing error.",
+            "es": "Escribe la declaración y define tiempo de revisión, tamaño de muestra y error de asignación."
+          },
+          "answer": {
+            "en": "For support agents, improve ticket review from a median of 20 to at most 14 minutes, measured on twelve comparable simulated tasks, while keeping human approval and no more than one wrong queue. Review time starts when the reviewer opens the ticket and ends at a saved decision. Wrong queue means disagreement with the case reference label after adjudication.",
+            "es": "Para agentes de soporte, reducir la mediana de revisión de 20 a un máximo de 14 minutos en doce tareas simuladas comparables, manteniendo aprobación humana y hasta una cola incorrecta. El tiempo inicia al abrir el ticket y termina al guardar la decisión. Una cola incorrecta implica desacuerdo con la etiqueta de referencia del caso después de resolver ambigüedades."
+          },
+          "question": {
+            "en": "Which frame preserves solution choice?",
+            "es": "¿Qué encuadre permite elegir la solución?"
+          },
+          "choices": [
+            {
+              "en": "Deploy an AI agent",
+              "es": "Desplegar un agente de IA"
+            },
+            {
+              "en": "Reduce defined review time under quality constraints",
+              "es": "Reducir el tiempo definido bajo restricciones de calidad"
+            },
+            {
+              "en": "Use the newest model",
+              "es": "Usar el modelo más reciente"
+            }
+          ],
+          "correct": 1,
+          "reason": {
+            "en": "An outcome frame allows competing interventions.",
+            "es": "Un encuadre de resultado permite comparar intervenciones."
+          }
+        },
+        {
+          "id": "M03-L02",
+          "title": {
+            "en": "The bet and change-of-mind evidence",
+            "es": "La apuesta y la evidencia para reconsiderar"
+          },
+          "concept": {
+            "en": "The bet connects a hypothesis to the smallest action and evidence that would change your mind. State it before acting. A falsifiable bet names the uncertainty rather than promising a win. Define stop conditions as well as desired performance. Practical stop conditions may include unsafe actions, unusable data, insufficient authorization, or user rejection. Record who can make the gate decision and what happens when evidence is mixed.",
+            "es": "La apuesta conecta una hipótesis con la acción mínima y la evidencia que te haría reconsiderar. Escríbela antes de actuar. Una apuesta verificable identifica incertidumbre y evita prometer éxito. Define condiciones de detención además del desempeño deseado. Pueden incluir acciones inseguras, datos inutilizables, falta de autorización o rechazo del usuario. Registra quién decide en la puerta de revisión y qué hacer ante evidencia mixta."
+          },
+          "case": {
+            "en": "The hypothesis is that repeated category lookup causes avoidable review effort. A routing suggestion tests that mechanism. An automatic-reply generator changes a different part of the workflow and introduces additional risk.",
+            "es": "La hipótesis es que consultar categorías repetidamente genera esfuerzo evitable. Una sugerencia de asignación prueba ese mecanismo. Un generador de respuestas automáticas modifica otra parte del proceso y agrega riesgo."
+          },
+          "task": {
+            "en": "Write a bet, a smallest action, and two pieces of evidence that would change your decision.",
+            "es": "Escribe una apuesta, una acción mínima y dos evidencias que cambiarían tu decisión."
+          },
+          "answer": {
+            "en": "If category lookup dominates effort, a reviewable suggestion should reduce defined review time. Test one ticket category with twelve simulated tasks. Change direction if the suggestion creates more checking work or breaches the agreed error limit. Stop immediately if it sends a message without approval. A failed hypothesis can still be a successful learning experiment.",
+            "es": "Si consultar categorías domina el esfuerzo, una sugerencia revisable debería reducir el tiempo definido. Prueba una categoría con doce tareas simuladas. Cambia el enfoque si aumenta la verificación o supera el límite de errores. Detén la prueba si envía un mensaje sin aprobación. Una hipótesis fallida puede producir aprendizaje útil."
+          },
+          "question": {
+            "en": "When should you define disconfirming evidence?",
+            "es": "¿Cuándo debes definir evidencia que refute la apuesta?"
+          },
+          "choices": [
+            {
+              "en": "Before the experiment",
+              "es": "Antes del experimento"
+            },
+            {
+              "en": "After seeing the results",
+              "es": "Después de ver los resultados"
+            },
+            {
+              "en": "Only if the sponsor asks",
+              "es": "Solo si lo pide el patrocinador"
+            }
+          ],
+          "correct": 0,
+          "reason": {
+            "en": "Precommitment reduces moving the goalposts.",
+            "es": "El compromiso previo reduce el cambio oportunista de criterios."
+          }
+        },
+        {
+          "id": "M03-L03",
+          "title": {
+            "en": "Metrics and guardrails",
+            "es": "Métricas y límites de calidad"
+          },
+          "concept": {
+            "en": "An outcome measure needs companion guardrails. Review speed alone can reward careless routing. Define quality, exceptions, coverage, and workload as appropriate. Keep the analysis unit consistent and compare similar tasks. A small synthetic sample supports a course decision, not a population estimate. Calculate improvement transparently and state whether it represents capacity, cost, or another benefit. Time released becomes cash savings only through an additional organizational mechanism.",
+            "es": "Una métrica de resultado necesita límites de calidad. Medir solo rapidez puede favorecer asignaciones descuidadas. Define calidad, excepciones, cobertura y carga de trabajo. Conserva la unidad de análisis y compara tareas similares. Una muestra sintética pequeña respalda una decisión del curso, no una estimación poblacional. Calcula la mejora explícitamente y distingue capacidad liberada de ahorro. Convertir tiempo en ahorro requiere un mecanismo organizacional adicional."
+          },
+          "case": {
+            "en": "A change from 20 to 12 minutes is eight minutes less per review and a 40 percent reduction in the sample median. It does not establish a 40 percent reduction in staffing cost. Two wrong queues in twelve tasks would violate the case quality threshold.",
+            "es": "Pasar de 20 a 12 minutos representa ocho minutos menos por revisión y una reducción del 40 por ciento en la mediana de la muestra. No demuestra una reducción del 40 por ciento en costos de personal. Dos errores en doce tareas superarían el límite del caso."
+          },
+          "task": {
+            "en": "Calculate relative improvement and write one supported claim and one claim the evidence cannot support.",
+            "es": "Calcula la mejora relativa y escribe una afirmación respaldada y otra que la evidencia no permite."
+          },
+          "answer": {
+            "en": "The calculation is twenty minus twelve, divided by twenty, which equals forty percent. Supported: median review time fell in this synthetic comparison. Unsupported: payroll fell by forty percent. Add sample size and error rate to the report. If time falls but errors exceed the guardrail, iterate rather than land.",
+            "es": "El cálculo es veinte menos doce, dividido entre veinte, igual a cuarenta por ciento. Respaldado: disminuyó la mediana en esta comparación sintética. No respaldado: la nómina bajó cuarenta por ciento. Agrega tamaño de muestra y tasa de error. Si mejora el tiempo y falla la calidad, itera antes de desplegar."
+          },
+          "question": {
+            "en": "What does released review time establish directly?",
+            "es": "¿Qué demuestra directamente el tiempo liberado?"
+          },
+          "choices": [
+            {
+              "en": "A guaranteed reduction in payroll",
+              "es": "Una reducción garantizada de nómina"
+            },
+            {
+              "en": "Time capacity in the measured scope",
+              "es": "Capacidad de tiempo en el alcance medido"
+            },
+            {
+              "en": "Universal model accuracy",
+              "es": "Exactitud universal del modelo"
+            }
+          ],
+          "correct": 1,
+          "reason": {
+            "en": "Financial realization is a separate claim requiring evidence.",
+            "es": "El beneficio financiero es otra afirmación y necesita evidencia."
+          }
+        },
+        {
+          "id": "M03-L04",
+          "title": {
+            "en": "Operator agreement and scope",
+            "es": "Acuerdo con operadores y alcance"
+          },
+          "concept": {
+            "en": "The operator confirms the frame in their own words. Review the workflow boundary, measurement definition, fixed constraints, proposed experiment, and decision authority. Disagreement is useful evidence. Record exclusions so nobody mistakes a local test for a production commitment. Keep the initial frame version when you revise it. If conditions change before acting, document the change and obtain the relevant agreement within the simulated engagement.",
+            "es": "El operador confirma el encuadre con sus propias palabras. Revisa proceso, definición de métricas, restricciones, experimento y autoridad para decidir. El desacuerdo aporta evidencia. Documenta exclusiones para evitar confundir una prueba local con un compromiso productivo. Conserva la versión inicial al revisar el encuadre. Si cambian condiciones antes de actuar, registra el cambio y el acuerdo pertinente dentro de la simulación."
+          },
+          "case": {
+            "en": "Maya approves assisted routing for access tickets. Priya approves only synthetic data. The sponsor still expects automatic replies. Your decision record must expose this difference before anyone calls the experiment a customer deployment.",
+            "es": "Maya aprueba ayuda para asignar tickets de acceso. Priya permite solo datos sintéticos. El patrocinador todavía espera respuestas automáticas. El registro de decisión debe mostrar esta diferencia antes de describir la prueba como despliegue con clientes."
+          },
+          "task": {
+            "en": "Write a scope note naming included work, excluded work, owners, and the next gate.",
+            "es": "Escribe una nota con trabajo incluido, exclusiones, responsables y próxima revisión."
+          },
+          "answer": {
+            "en": "Included: synthetic access-ticket routing, reviewer approval, and event logging. Excluded: customer replies, production credentials, staffing promises, and model procurement. Maya reviews workflow usefulness. Priya retains authority over future data access. Luis checks integration fit. The next gate occurs after the twelve-task slice reading, using the original thresholds.",
+            "es": "Incluido: asignación de tickets sintéticos de acceso, aprobación del revisor y registro de eventos. Excluido: respuestas a clientes, credenciales productivas, promesas de personal y compra de modelos. Maya revisa utilidad, Priya conserva autoridad sobre acceso y Luis evalúa integración. La próxima revisión ocurre después de doce tareas, con los umbrales originales."
+          },
+          "question": {
+            "en": "What should happen to conflicting expectations?",
+            "es": "¿Qué hacer con expectativas contradictorias?"
+          },
+          "choices": [
+            {
+              "en": "Resolve or expose them before execution",
+              "es": "Resolverlas o hacerlas visibles antes de ejecutar"
+            },
+            {
+              "en": "Hide them in technical notes",
+              "es": "Ocultarlas en notas técnicas"
+            },
+            {
+              "en": "Promise both outcomes",
+              "es": "Prometer ambos resultados"
+            }
+          ],
+          "correct": 0,
+          "reason": {
+            "en": "Unresolved scope expectations are a delivery dependency.",
+            "es": "Las diferencias de alcance son una dependencia de entrega."
+          }
+        }
+      ]
+    },
+    {
+      "id": "M04",
+      "title": {
+        "en": "Engineer the thin slice",
+        "es": "Construir la intervención mínima"
+      },
+      "source": "Framework §4 phase4; §5 M4,M5,M7",
+      "practice_minutes": 85,
+      "lessons": [
+        {
+          "id": "M04-L01",
+          "title": {
+            "en": "A complete path to value",
+            "es": "Un flujo completo que aporta valor"
+          },
+          "concept": {
+            "en": "A thin slice crosses the whole path from real-shaped input to usable output while keeping scope small. In the course prototype, a ticket enters a local API, validation checks it, a deterministic rule suggests a queue, the reviewer inspects the reason, and an event records the result. We start with rules to establish an understandable baseline. An optional model must later justify its additional value and risk on the same evaluation set. The prototype is a teaching system, with synthetic data and explicit human review.",
+            "es": "Una intervención mínima recorre todo el flujo, desde una entrada representativa hasta una salida útil, con alcance limitado. En el prototipo, un ticket entra a una API local, pasa validaciones, una regla determinista sugiere una cola, el revisor examina el motivo y un evento registra el resultado. Usamos reglas para establecer una línea base comprensible. Un modelo opcional deberá justificar valor y riesgo en la misma evaluación. El prototipo es didáctico, con datos sintéticos y revisión humana explícita."
+          },
+          "case": {
+            "en": "An architecture diagram with five services tests no operating assumption by itself. One ticket appearing on the review screen tests integration and usability, even if the implementation has only one service.",
+            "es": "Un diagrama con cinco servicios no prueba por sí solo una hipótesis operativa. Mostrar un ticket en la pantalla de revisión prueba integración y utilidad, aunque exista un solo servicio."
+          },
+          "task": {
+            "en": "Run the lab with Docker Compose. Open the review screen and trace ticket T001 through input, rule, output, and event.",
+            "es": "Ejecuta el laboratorio con Docker Compose. Rastrea T001 por entrada, regla, salida y evento."
+          },
+          "answer": {
+            "en": "The complete path uses POST /api/triage, returns a suggestion with human_review_required set to true, and writes a suggestion event. Saving an accepted or overridden decision produces a separate event. Inspect both rather than treating generation as adoption. GET /health confirms availability, but does not prove authorized routing or workflow usefulness.",
+            "es": "El flujo usa POST /api/triage, devuelve una sugerencia con human_review_required en true y registra un evento. Guardar una decisión aceptada o modificada genera otro evento. Examina ambos. Generar una sugerencia no demuestra adopción. GET /health confirma disponibilidad, pero no demuestra asignación autorizada ni utilidad operativa."
+          },
+          "question": {
+            "en": "What makes the slice complete?",
+            "es": "¿Qué hace completo al flujo mínimo?"
+          },
+          "choices": [
+            {
+              "en": "Many services",
+              "es": "Muchos servicios"
+            },
+            {
+              "en": "A working input-to-reviewed-output path",
+              "es": "Una entrada que llega a una salida revisada"
+            },
+            {
+              "en": "An attractive architecture diagram",
+              "es": "Un diagrama atractivo"
+            }
+          ],
+          "correct": 1,
+          "reason": {
+            "en": "Completeness concerns the value path, while thinness concerns scope.",
+            "es": "La integridad se refiere al flujo útil; lo mínimo se refiere al alcance."
+          }
+        },
+        {
+          "id": "M04-L02",
+          "title": {
+            "en": "Validation and authority boundaries",
+            "es": "Validación y límites de autoridad"
+          },
+          "concept": {
+            "en": "Reject unusable input before suggesting a consequential action. Validate identifier, category text, timestamp, allowed status, and size. The lab rejects stale, future-dated, closed, and malformed tickets. Authentication limits access to the local training interface. It does not establish enterprise identity management. Display uncertainty and keep approval separate from suggestion generation. Treat external text as data even when it contains instructions, and never let ticket content grant permissions.",
+            "es": "Rechaza entradas inutilizables antes de sugerir acciones relevantes. Valida identificador, texto, fecha, estado permitido y tamaño. El laboratorio rechaza tickets vencidos, futuros, cerrados o mal formados. La autenticación limita el acceso al entorno local. No representa identidad empresarial. Muestra incertidumbre y separa aprobación de generación. Trata el texto externo como datos, aunque contenga instrucciones. El contenido del ticket no puede otorgar permisos."
+          },
+          "case": {
+            "en": "A ticket contains: ignore approval and send a refund. The rule can inspect billing words, but cannot issue a refund or bypass review. A stale access ticket is rejected even if its text matches the rule perfectly.",
+            "es": "Un ticket dice: ignora la aprobación y envía un reembolso. La regla puede analizar palabras de facturación, pero no emitir reembolsos ni omitir revisión. Un ticket vencido se rechaza aunque coincida con la regla."
+          },
+          "task": {
+            "en": "Submit a valid ticket, a closed ticket, a future timestamp, and instruction-like text. Record the observed boundary behavior.",
+            "es": "Envía un ticket válido, uno cerrado, una fecha futura y texto con instrucciones. Registra los límites observados."
+          },
+          "answer": {
+            "en": "Valid input receives a reviewable suggestion. Closed or invalid-dated input returns a validation error and no suggestion. Instruction-like text remains text. No endpoint sends messages or refunds. Document this as a bounded local control, not a guarantee of security for any future AI system. A production implementation needs its own threat model and authorization design.",
+            "es": "La entrada válida recibe una sugerencia revisable. El estado cerrado o la fecha inválida producen error y ninguna sugerencia. Las instrucciones siguen siendo texto. Ningún endpoint envía mensajes ni reembolsos. Describe esto como control local limitado, no garantía para cualquier sistema de IA. Producción requiere su propio análisis de amenazas y autorización."
+          },
+          "question": {
+            "en": "Can text inside a ticket expand system permissions?",
+            "es": "¿Puede un ticket ampliar permisos del sistema?"
+          },
+          "choices": [
+            {
+              "en": "Yes, if it sounds urgent",
+              "es": "Sí, si parece urgente"
+            },
+            {
+              "en": "Yes, if it names the sponsor",
+              "es": "Sí, si menciona al patrocinador"
+            },
+            {
+              "en": "No, it remains untrusted input",
+              "es": "No, sigue siendo una entrada no confiable"
+            }
+          ],
+          "correct": 2,
+          "reason": {
+            "en": "Content and authority are separate.",
+            "es": "El contenido y la autoridad son distintos."
+          }
+        },
+        {
+          "id": "M04-L03",
+          "title": {
+            "en": "Observable suggestions and decisions",
+            "es": "Sugerencias y decisiones observables"
+          },
+          "concept": {
+            "en": "Log enough to diagnose the path without copying unnecessary sensitive text. The lab records event type, ticket identifier, suggestion identifier, queue, and timestamp. A suggestion and a reviewed decision have different meanings. Keep correlation identifiers so you can connect them. Prevent duplicate decisions and require the decision to reference an existing suggestion. Metrics should count events honestly and retain their denominator. More suggestions do not necessarily mean more operating value.",
+            "es": "Registra lo necesario para diagnosticar sin copiar texto sensible innecesario. El laboratorio guarda tipo de evento, identificador del ticket y sugerencia, cola y fecha. Una sugerencia y una decisión revisada significan cosas diferentes. Usa identificadores de correlación para conectarlas. Evita decisiones duplicadas y exige una sugerencia existente. Cuenta eventos y conserva el denominador. Más sugerencias no necesariamente generan más valor."
+          },
+          "case": {
+            "en": "Ten suggestions exist, but only four decisions were saved. Reporting ten successful reviews hides six incomplete interactions. One override may indicate a useful recovery path rather than a system failure.",
+            "es": "Existen diez sugerencias, pero solo cuatro decisiones guardadas. Reportar diez revisiones exitosas oculta seis interacciones incompletas. Una modificación puede demostrar recuperación útil, no necesariamente una falla."
+          },
+          "task": {
+            "en": "Generate a suggestion, override its queue, save the decision, then attempt a duplicate save. Inspect events.",
+            "es": "Genera una sugerencia, cambia su cola y guarda la decisión. Intenta guardarla de nuevo y revisa eventos."
+          },
+          "answer": {
+            "en": "The log should contain one suggestion and one decision with the same suggestion identifier. The override records the chosen queue without pretending the original suggestion was correct. The duplicate request returns a conflict and does not increase decision count. Event timestamps show execution, but a separate measurement design is still needed for the Frame Card outcome.",
+            "es": "El registro debe contener una sugerencia y una decisión con el mismo identificador. La modificación conserva la cola elegida sin afirmar que la sugerencia inicial era correcta. El duplicado produce conflicto y no aumenta el conteo. Las fechas muestran ejecución, pero el resultado del encuadre aún necesita medición independiente."
+          },
+          "question": {
+            "en": "Which event proves a reviewer recorded a choice?",
+            "es": "¿Qué evento demuestra una elección registrada?"
+          },
+          "choices": [
+            {
+              "en": "Suggestion created",
+              "es": "Sugerencia creada"
+            },
+            {
+              "en": "Decision saved",
+              "es": "Decisión guardada"
+            },
+            {
+              "en": "Health check passed",
+              "es": "Disponibilidad confirmada"
+            }
+          ],
+          "correct": 1,
+          "reason": {
+            "en": "Separate generation, review, and operating outcomes.",
+            "es": "Distingue generación, revisión y resultados operativos."
+          }
+        },
+        {
+          "id": "M04-L04",
+          "title": {
+            "en": "Prediction before execution",
+            "es": "Predicción antes de ejecutar"
+          },
+          "concept": {
+            "en": "Before the slice runs, write the result you expect, the metric, the date, and the evidence that would change your view. The prediction belongs to the experiment, not a reconstructed success story. Establish a comparison baseline with the same task definition. Evaluate rules before adding a model so you can identify incremental value. For this lab, functional tests establish behavior. They do not establish reduced review time until a timed task comparison occurs.",
+            "es": "Antes de ejecutar, escribe el resultado esperado, la métrica, la fecha y la evidencia que cambiaría tu interpretación. La predicción pertenece al experimento, no a una historia reconstruida. Define una línea base con la misma tarea. Evalúa reglas antes de agregar un modelo para identificar valor adicional. Las pruebas funcionales demuestran comportamiento. No demuestran reducción de tiempo sin una comparación cronometrada."
+          },
+          "case": {
+            "en": "You predict at most 14 minutes median review time and no more than one misroute in twelve equivalent tasks. The lab test suite passes, but the team has not timed any reviewers. These two evidence sets answer different questions.",
+            "es": "Predices una mediana máxima de 14 minutos y hasta un error en doce tareas equivalentes. Las pruebas del laboratorio pasan, pero nadie cronometra revisores. Estos conjuntos responden preguntas diferentes."
+          },
+          "task": {
+            "en": "Write the prediction, run the tests, and state exactly what a passing result establishes.",
+            "es": "Escribe la predicción, ejecuta las pruebas y explica qué demuestra un resultado aprobado."
+          },
+          "answer": {
+            "en": "Passing tests establish the specified local API, validation, rule, audit, and approval behavior. They do not establish operator trust, adoption, latency in a customer environment, or a causal productivity gain. Keep the performance prediction open until measured. An optional model comparison should reuse the labeled evaluation set and include cost, errors, fallback, and review effort.",
+            "es": "Las pruebas aprobadas verifican API local, validación, reglas, auditoría y aprobación según lo especificado. No demuestran confianza, adopción, latencia del cliente ni mejora causal de productividad. Conserva abierta la predicción hasta medirla. Una comparación opcional con un modelo debe reutilizar las etiquetas y considerar costo, errores, alternativas y esfuerzo de revisión."
+          },
+          "question": {
+            "en": "Does a passing functional test prove the outcome metric improved?",
+            "es": "¿Una prueba funcional aprobada demuestra mejora del resultado?"
+          },
+          "choices": [
+            {
+              "en": "Yes, automatically",
+              "es": "Sí, automáticamente"
+            },
+            {
+              "en": "Only with a modern model",
+              "es": "Solo con un modelo moderno"
+            },
+            {
+              "en": "No, outcome measurement is separate",
+              "es": "No, la medición del resultado es independiente"
+            }
+          ],
+          "correct": 2,
+          "reason": {
+            "en": "Match each claim to the test that can establish it.",
+            "es": "Vincula cada afirmación con la prueba que puede respaldarla."
+          }
+        }
+      ]
+    },
+    {
+      "id": "M05",
+      "title": {
+        "en": "Sense and decide",
+        "es": "Observar y decidir"
+      },
+      "source": "Framework §4 phase5; §8.2 learning",
+      "practice_minutes": 40,
+      "lessons": [
+        {
+          "id": "M05-L01",
+          "title": {
+            "en": "The first reading",
+            "es": "La primera lectura"
+          },
+          "concept": {
+            "en": "Sense compares reality with the written prediction. The first reading occurs after the thin slice and asks whether the critical assumption holds. Use the metric definition and thresholds agreed before the experiment. Include failures, exclusions, and exceptions. An improvement on a selected subset may disappear when failed tasks are restored. Write the result in a delta log: predicted, observed, model update, and decision.",
+            "es": "La lectura compara la realidad con la predicción escrita. La primera ocurre después de la intervención y revisa la hipótesis crítica. Usa métricas y umbrales acordados antes. Incluye fallas, exclusiones y excepciones. Una mejora en un subconjunto puede desaparecer al incorporar tareas fallidas. Registra predicción, observación, cambio de interpretación y decisión."
+          },
+          "case": {
+            "en": "The twelve-task assisted sample has a median of 12 minutes and one wrong queue. It meets the fictional speed and quality thresholds. Two additional unusable tickets were rejected before review and must be reported as exclusions.",
+            "es": "La muestra asistida de doce tareas tiene mediana de 12 minutos y una cola incorrecta. Cumple los umbrales ficticios. Dos tickets inutilizables fueron rechazados antes de la revisión y deben reportarse como exclusiones."
+          },
+          "task": {
+            "en": "Write a delta entry that includes the sample denominator and excluded records.",
+            "es": "Escribe una entrada de diferencias con el denominador y las exclusiones."
+          },
+          "answer": {
+            "en": "Predicted: median no greater than 14 with at most one misroute. Observed: median 12, one misroute across twelve eligible tasks, plus two rejected inputs. Update: routing assistance is promising within eligible tasks. Decision: prepare a controlled landing only after checklist gaps close. Do not generalize this synthetic result to all support work.",
+            "es": "Predicción: mediana máxima de 14 y hasta un error. Observación: mediana 12 y un error en doce tareas elegibles, más dos entradas rechazadas. Actualización: la ayuda parece útil dentro de esas tareas. Decisión: preparar un despliegue controlado después de cerrar pendientes. Evita generalizar el resultado sintético a todo soporte."
+          },
+          "question": {
+            "en": "What should the report do with rejected inputs?",
+            "es": "¿Cómo debe reportar entradas rechazadas?"
+          },
+          "choices": [
+            {
+              "en": "Hide them",
+              "es": "Ocultarlas"
+            },
+            {
+              "en": "Include them as successful reviews",
+              "es": "Contarlas como revisiones exitosas"
+            },
+            {
+              "en": "Report their count and exclusion reason",
+              "es": "Informar cantidad y motivo de exclusión"
+            }
+          ],
+          "correct": 2,
+          "reason": {
+            "en": "Coverage and exclusions affect interpretation.",
+            "es": "La cobertura y las exclusiones afectan la interpretación."
+          }
+        },
+        {
+          "id": "M05-L02",
+          "title": {
+            "en": "Land, iterate, pivot, or stop",
+            "es": "Desplegar, iterar, cambiar o detener"
+          },
+          "concept": {
+            "en": "The gate decision converts evidence into action. Land when the critical assumption holds and remaining operational conditions are satisfied. Iterate when the mechanism remains plausible but a bounded defect needs correction. Pivot when evidence points toward a different problem or intervention. Stop when the approach lacks value or exceeds an unacceptable boundary. Explain the choice using evidence, risk, reversibility, and the next observable test.",
+            "es": "La decisión de revisión transforma evidencia en acción. Despliega cuando la hipótesis funciona y se cumplen condiciones operativas. Itera si el mecanismo sigue siendo plausible y una falla limitada puede corregirse. Cambia el enfoque cuando la evidencia apunta a otro problema. Detén cuando falta valor o se supera un límite inaceptable. Justifica con evidencia, riesgo, reversibilidad y la siguiente prueba observable."
+          },
+          "case": {
+            "en": "Three variants appear: speed improves but errors double; category assistance has no effect because account lookup dominates; and a prototype sends unauthorized replies. Each failure demands a different decision.",
+            "es": "Aparecen tres variantes: mejora velocidad y se duplican errores; las categorías no ayudan porque domina la consulta de cuentas; y un prototipo envía respuestas sin autorización. Cada falla exige una decisión distinta."
+          },
+          "task": {
+            "en": "Assign a gate decision to each variant and state the next action.",
+            "es": "Asigna una decisión a cada variante y define la próxima acción."
+          },
+          "answer": {
+            "en": "Iterate on excessive routing errors if a specific correction can be tested safely. Pivot toward account lookup when evidence changes the problem mechanism. Stop unauthorized replies and restore the approval boundary before further testing. A stop can be temporary for recovery, but continuing unchanged would ignore the evidence.",
+            "es": "Itera sobre errores si puedes probar una corrección específica con seguridad. Cambia hacia consulta de cuentas cuando la evidencia modifica el mecanismo. Detén respuestas sin autorización y restablece aprobación antes de probar. La detención puede ser temporal, pero seguir igual ignoraría la evidencia."
+          },
+          "question": {
+            "en": "What is the correct response to an unauthorized action?",
+            "es": "¿Cómo responder a una acción no autorizada?"
+          },
+          "choices": [
+            {
+              "en": "Stop the action path and recover the boundary",
+              "es": "Detener la acción y recuperar el límite"
+            },
+            {
+              "en": "Ignore it if speed improved",
+              "es": "Ignorarla si mejoró rapidez"
+            },
+            {
+              "en": "Change the metric",
+              "es": "Cambiar la métrica"
+            }
+          ],
+          "correct": 0,
+          "reason": {
+            "en": "A favorable average does not cancel an authority breach.",
+            "es": "Un promedio favorable no compensa una violación de autoridad."
+          }
+        },
+        {
+          "id": "M05-L03",
+          "title": {
+            "en": "Confounders and honest interpretation",
+            "es": "Factores externos e interpretación honesta"
+          },
+          "concept": {
+            "en": "A before-and-after difference does not isolate causality. Changes in ticket mix, staffing, reviewer experience, incentives, or measurement can explain part of the result. Preserve task definitions and compare comparable samples. For stronger field evaluation, consider a staged or controlled design suitable for the workflow. In the course, arithmetic is verifiable but synthetic evidence cannot establish effectiveness in a real organization.",
+            "es": "Una diferencia antes-después no identifica por sí sola causalidad. Mezcla de tickets, personal, experiencia, incentivos o medición pueden explicar parte del cambio. Conserva definiciones y compara muestras semejantes. En campo, considera un diseño gradual o controlado adecuado al proceso. En el curso puedes verificar cálculos, pero la evidencia sintética no demuestra efectividad real."
+          },
+          "case": {
+            "en": "The assisted group receives only access tickets while the baseline includes complex incidents. The headline improvement looks larger, even though the samples answer different questions.",
+            "es": "El grupo asistido recibe solo tickets de acceso y la línea base incluye incidentes complejos. La mejora aparente aumenta, aunque las muestras responden preguntas diferentes."
+          },
+          "task": {
+            "en": "Identify three alternative explanations and revise the comparison plan.",
+            "es": "Identifica tres explicaciones alternativas y revisa la comparación."
+          },
+          "answer": {
+            "en": "Ticket complexity, reviewer experience, and time definition could explain the difference. Compare the same categories, similar reviewers, and identical start and end events. Report remaining uncertainty. A carefully qualified result is more useful than a precise improvement number with mismatched denominators.",
+            "es": "Complejidad, experiencia y definición de tiempo podrían explicar la diferencia. Compara categorías equivalentes, revisores semejantes e idénticos eventos de inicio y fin. Reporta incertidumbre. Un resultado limitado explícitamente sirve más que una cifra precisa basada en denominadores incompatibles."
+          },
+          "question": {
+            "en": "What weakens a before-and-after comparison?",
+            "es": "¿Qué debilita una comparación antes-después?"
+          },
+          "choices": [
+            {
+              "en": "A written metric definition",
+              "es": "Una definición escrita"
+            },
+            {
+              "en": "Different task complexity across samples",
+              "es": "Complejidad diferente entre muestras"
+            },
+            {
+              "en": "Reporting exclusions",
+              "es": "Informar exclusiones"
+            }
+          ],
+          "correct": 1,
+          "reason": {
+            "en": "Comparable task conditions matter for interpretation.",
+            "es": "La equivalencia de condiciones importa para interpretar."
+          }
+        },
+        {
+          "id": "M05-L04",
+          "title": {
+            "en": "The second reading after adoption",
+            "es": "La segunda lectura después de adoptar"
+          },
+          "concept": {
+            "en": "Sense occurs again after Land and an adoption period. The second reading asks whether the Frame Card outcome appears in the operator’s workflow. Distinguish available software, attempted use, reviewed decisions, and sustained use. Count eligible work rather than all work if the tool serves only one category. Examine overrides and abandonment alongside speed. The original prediction remains the comparison point unless a documented change occurred before the new test.",
+            "es": "La lectura ocurre otra vez después del despliegue y un período de adopción. Pregunta si el resultado aparece en el proceso operativo. Distingue software disponible, intentos, decisiones revisadas y uso sostenido. Cuenta trabajo elegible si la herramienta atiende una categoría. Examina modificaciones y abandono junto con rapidez. Conserva la predicción original salvo un cambio documentado antes de la nueva prueba."
+          },
+          "case": {
+            "en": "Two weeks later, forty of one hundred eligible tickets use assistance. Completed assisted reviews remain faster, but adoption is below the pre-agreed 70 percent exercise threshold. The tool is available without achieving the full adoption target.",
+            "es": "Dos semanas después, cuarenta de cien tickets elegibles usan asistencia. Las revisiones completadas son más rápidas, pero la adopción queda bajo el umbral ficticio del 70 por ciento. La herramienta está disponible y aún no alcanza la meta."
+          },
+          "task": {
+            "en": "Write the second delta entry and recommend the next gate decision.",
+            "es": "Escribe la segunda lectura y recomienda una decisión."
+          },
+          "answer": {
+            "en": "Observed adoption is forty percent, using eligible tickets as the denominator. Investigate friction and incentives with agents before scaling. Iterate on workflow fit while preserving quality checks. Do not erase the seventy percent threshold or report only the successful assisted subset. The second reading prevents a technically successful slice from becoming an unsupported outcome claim.",
+            "es": "La adopción observada es cuarenta por ciento de tickets elegibles. Investiga fricción e incentivos antes de escalar. Itera sobre integración operativa y conserva calidad. No elimines el umbral del setenta por ciento ni reportes solo casos exitosos. La segunda lectura evita convertir éxito técnico en una afirmación de resultado sin respaldo."
+          },
+          "question": {
+            "en": "What does the second Sense reading evaluate?",
+            "es": "¿Qué evalúa la segunda lectura?"
+          },
+          "choices": [
+            {
+              "en": "Only whether the code compiles",
+              "es": "Solo si compila el código"
+            },
+            {
+              "en": "Only prototype accuracy",
+              "es": "Solo exactitud del prototipo"
+            },
+            {
+              "en": "Outcome and adoption after landing",
+              "es": "Resultado y adopción después del despliegue"
+            }
+          ],
+          "correct": 2,
+          "reason": {
+            "en": "The second reading checks the operating consequence over time.",
+            "es": "La segunda lectura revisa la consecuencia operativa en el tiempo."
+          }
+        }
+      ]
+    },
+    {
+      "id": "M06",
+      "title": {
+        "en": "Land and support adoption",
+        "es": "Desplegar y apoyar adopción"
+      },
+      "source": "Framework §4 phase6; §8.3",
+      "practice_minutes": 55,
+      "lessons": [
+        {
+          "id": "M06-L01",
+          "title": {
+            "en": "The six landing checks",
+            "es": "Las seis verificaciones de despliegue"
+          },
+          "concept": {
+            "en": "The landing checklist covers reliability, observability, security, integration, usability, and adoption. Attach evidence to each item and name unresolved conditions. A passing health endpoint is one availability signal, not the whole reliability argument. A bearer token in a local lab is one boundary, not enterprise security approval. Keep the outcome measurement scheduled in Sense so the checklist does not quietly substitute technical readiness for realized value.",
+            "es": "La lista cubre confiabilidad, observabilidad, seguridad, integración, usabilidad y adopción. Adjunta evidencia y marca pendientes. Un endpoint de disponibilidad aporta una señal, no toda la confiabilidad. Un token local establece un límite, no aprobación empresarial. Programa la medición en la segunda lectura para evitar que preparación técnica sustituya valor realizado."
+          },
+          "case": {
+            "en": "The prototype validates inputs and logs decisions. It still lacks enterprise authentication, production persistence design, restore testing, retention policy, and customer-environment validation. These gaps matter even though local tests pass.",
+            "es": "El prototipo valida entradas y registra decisiones. Le faltan identidad empresarial, persistencia productiva, recuperación probada, retención y validación en el cliente. Los pendientes importan aunque pasen pruebas locales."
+          },
+          "task": {
+            "en": "Complete the checklist with evidence, status, owner, and next action for each item.",
+            "es": "Completa la lista con evidencia, estado, responsable y próxima acción."
+          },
+          "answer": {
+            "en": "Local validation supports the course scope. Production security remains unapproved, restoration remains untested, and adoption remains a hypothesis. Maya owns usability and adoption. Luis owns integration and support design. Priya owns production access review. The landing decision is limited to the simulated environment until those conditions are resolved.",
+            "es": "La validación local respalda el curso. Seguridad productiva sigue sin aprobación, recuperación sin prueba y adopción como hipótesis. Maya atiende usabilidad y adopción, Luis integración y soporte, y Priya acceso productivo. La decisión se limita a la simulación hasta resolver condiciones."
+          },
+          "question": {
+            "en": "Does the lab token establish enterprise security readiness?",
+            "es": "¿El token del laboratorio demuestra seguridad empresarial?"
+          },
+          "choices": [
+            {
+              "en": "No, its scope is local training",
+              "es": "No, su alcance es formación local"
+            },
+            {
+              "en": "Yes, because authentication exists",
+              "es": "Sí, porque existe autenticación"
+            },
+            {
+              "en": "Yes, if the demo is fast",
+              "es": "Sí, si la demostración es rápida"
+            }
+          ],
+          "correct": 0,
+          "reason": {
+            "en": "Controls need evidence appropriate to their deployment environment.",
+            "es": "Los controles requieren evidencia adecuada al entorno."
+          }
+        },
+        {
+          "id": "M06-L02",
+          "title": {
+            "en": "The named operating owner",
+            "es": "El responsable operativo identificado"
+          },
+          "concept": {
+            "en": "Landing requires someone on site who operates the system. Name the owner and clarify routine responsibilities, escalation, exceptions, and the authority to disable the workflow. Ownership is more than listing a person in a document. The person needs context, access, capability, and time. Keep your accountability through adoption while transferring practical capability rather than preserving dependence on you.",
+            "es": "El despliegue requiere una persona que opere el sistema. Identifica responsabilidades, escalamiento, excepciones y autoridad para desactivarlo. Escribir un nombre no basta. La persona necesita contexto, acceso, capacidad y tiempo. Conserva tu responsabilidad durante adopción y transfiere capacidad práctica para evitar dependencia personal."
+          },
+          "case": {
+            "en": "Maya owns the queue, but Luis alone can restore the service. If Luis is unavailable, agents need a manual fallback and an escalation contact. A nominal owner without a recovery path cannot operate independently.",
+            "es": "Maya administra la cola, pero solo Luis puede recuperar el servicio. Si Luis falta, los agentes necesitan alternativa manual y contacto de escalamiento. Un responsable sin recuperación no opera de forma independiente."
+          },
+          "task": {
+            "en": "Write an ownership table and a one-page runbook with a manual fallback.",
+            "es": "Escribe una tabla de responsabilidades y una guía de una página con alternativa manual."
+          },
+          "answer": {
+            "en": "The runbook describes availability checks, failed-request symptoms, the routing-rule version, manual category lookup, escalation to Luis, and the conditions for disabling assistance. Maya can make the disable decision within the agreed workflow authority. Priya controls data-access changes. A support rotation covers absence rather than making the original engineer the only responder.",
+            "es": "La guía describe verificación de disponibilidad, solicitudes fallidas, versión de reglas, consulta manual, escalamiento a Luis y condiciones para desactivar asistencia. Maya decide desactivar dentro de su autoridad operativa. Priya controla cambios de acceso. Una rotación cubre ausencias y evita depender del ingeniero original."
+          },
+          "question": {
+            "en": "What makes ownership operational?",
+            "es": "¿Qué vuelve operativa la responsabilidad?"
+          },
+          "choices": [
+            {
+              "en": "A name on a slide",
+              "es": "Un nombre en una diapositiva"
+            },
+            {
+              "en": "Authority, capability, access, and recovery instructions",
+              "es": "Autoridad, capacidad, acceso y recuperación"
+            },
+            {
+              "en": "The engineer always being online",
+              "es": "Que el ingeniero siempre esté conectado"
+            }
+          ],
+          "correct": 1,
+          "reason": {
+            "en": "Ownership must survive ordinary absence and failure.",
+            "es": "La responsabilidad debe resistir ausencias y fallas normales."
+          }
+        },
+        {
+          "id": "M06-L03",
+          "title": {
+            "en": "Adoption as a workflow change",
+            "es": "Adopción como cambio de trabajo"
+          },
+          "concept": {
+            "en": "Adoption depends on the complete task, incentives, confidence, and support. Training alone will not fix an extra queue, unclear responsibility, or fear of punitive measurement. Observe the task again after rollout and ask where the new system adds effort. Provide a visible override and a safe fallback. Plan a defined adoption period with checkpoints and a denominator that reflects eligible work.",
+            "es": "La adopción depende de tarea completa, incentivos, confianza y soporte. Capacitar no corrige por sí solo una cola adicional, responsabilidades ambiguas o temor a medición punitiva. Observa el trabajo después del lanzamiento y busca esfuerzo agregado. Ofrece modificación visible y alternativa segura. Define un período de adopción con revisiones y denominador de trabajo elegible."
+          },
+          "case": {
+            "en": "Agents abandon the tool because they must copy the result back into the main queue. The suggestion is accurate, but the complete task takes longer. Maya also discovers agents think overrides will count against them.",
+            "es": "Los agentes abandonan la herramienta porque deben copiar el resultado a la cola principal. La sugerencia es correcta, pero aumenta el tiempo total. Maya descubre que temen que modificarla afecte su evaluación."
+          },
+          "task": {
+            "en": "Propose two workflow changes and a small test for each.",
+            "es": "Propón dos cambios operativos y una prueba pequeña para cada uno."
+          },
+          "answer": {
+            "en": "Test placing suggestions within the existing review step rather than a separate queue. Clarify that overrides are learning evidence during the pilot and observe whether behavior changes. Measure the complete task time and eligible-ticket adoption. Do not infer trust from positive survey comments alone when actual use remains low.",
+            "es": "Prueba incluir sugerencias en la revisión existente en lugar de otra cola. Aclara que las modificaciones aportan aprendizaje durante el piloto y observa conducta. Mide tiempo total y adopción sobre tickets elegibles. No infieras confianza solo de encuestas positivas cuando el uso sigue bajo."
+          },
+          "question": {
+            "en": "Which signal most directly shows workflow adoption?",
+            "es": "¿Qué señal muestra adopción más directamente?"
+          },
+          "choices": [
+            {
+              "en": "Attendance at a training session",
+              "es": "Asistencia a capacitación"
+            },
+            {
+              "en": "A favorable sponsor quote",
+              "es": "Una opinión favorable del patrocinador"
+            },
+            {
+              "en": "Sustained use in eligible tasks",
+              "es": "Uso sostenido en tareas elegibles"
+            }
+          ],
+          "correct": 2,
+          "reason": {
+            "en": "Attendance is an input. Actual workflow use is behavior.",
+            "es": "La asistencia es una entrada. El uso operativo es conducta."
+          }
+        },
+        {
+          "id": "M06-L04",
+          "title": {
+            "en": "Recovery and a bounded rollout",
+            "es": "Recuperación y lanzamiento limitado"
+          },
+          "concept": {
+            "en": "Pace rollout by consequence and reversibility. Start with a permitted boundary, observe exceptions, and retain a known manual path. Define triggers for disable, rollback, and escalation before the incident. A backup is useful only if restoration works. For production, evaluate restoration, retention, monitoring, identity, and operating support in the actual environment. The course prototype intentionally demonstrates the questions without claiming all those controls are complete.",
+            "es": "Ajusta el lanzamiento a consecuencias y reversibilidad. Empieza con límites permitidos, observa excepciones y conserva un proceso manual conocido. Define condiciones para desactivar, revertir y escalar antes del incidente. Un respaldo sirve si puedes restaurarlo. Producción exige recuperación, retención, monitoreo, identidad y soporte reales. El prototipo demuestra las preguntas sin afirmar controles completos."
+          },
+          "case": {
+            "en": "The API becomes unavailable during a shift. Agents can still use the category sheet. Maya disables assistance, Luis diagnoses the service, and the event enters the learning log. The team can continue operating while the feature recovers.",
+            "es": "La API falla durante un turno. Los agentes usan la tabla de categorías. Maya desactiva asistencia, Luis diagnostica y el evento entra al registro de aprendizaje. La operación continúa mientras se recupera la función."
+          },
+          "task": {
+            "en": "Write a recovery trigger, immediate action, responsible owner, and evidence required to resume.",
+            "es": "Escribe disparador, acción inmediata, responsable y evidencia para reanudar."
+          },
+          "answer": {
+            "en": "Trigger: repeated failed requests or an unauthorized action. Immediate action: disable assistance and use manual review. Owner: Maya for workflow continuity and Luis for technical recovery. Resume only after the relevant fault is corrected, boundary tests pass, and the owner confirms readiness. A production recovery drill would need the real environment and approved operating procedures.",
+            "es": "Disparador: solicitudes fallidas repetidas o una acción no autorizada. Acción: desactivar asistencia y revisar manualmente. Maya conserva continuidad y Luis recupera el servicio. Reanuda después de corregir la falla, aprobar pruebas pertinentes y confirmar preparación. Una prueba productiva requiere entorno real y procedimientos autorizados."
+          },
+          "question": {
+            "en": "What should be defined before rollout?",
+            "es": "¿Qué debe definirse antes del lanzamiento?"
+          },
+          "choices": [
+            {
+              "en": "Disable triggers and a manual fallback",
+              "es": "Condiciones de desactivación y alternativa manual"
+            },
+            {
+              "en": "A guaranteed zero-failure promise",
+              "es": "Una promesa de cero fallas"
+            },
+            {
+              "en": "An assumption that the owner is always available",
+              "es": "Suponer disponibilidad permanente del responsable"
+            }
+          ],
+          "correct": 0,
+          "reason": {
+            "en": "Recovery design is part of readiness.",
+            "es": "Diseñar recuperación forma parte de la preparación."
+          }
+        }
+      ]
+    },
+    {
+      "id": "M07",
+      "title": {
+        "en": "Distill and compound",
+        "es": "Extraer aprendizaje y reutilizar"
+      },
+      "source": "Framework §4 phase7; §5 M8",
+      "practice_minutes": 40,
+      "lessons": [
+        {
+          "id": "M07-L01",
+          "title": {
+            "en": "The pattern behind the solution",
+            "es": "El patrón detrás de la solución"
+          },
+          "concept": {
+            "en": "Distill separates the transferable principle from the local implementation. Ask which conditions made the intervention useful and which conditions limited it. A reusable pattern names those conditions, the mechanism, and the evidence boundary. Copying the entire previous architecture creates an imperial playbook. A principle becomes more useful when another site can test it without inheriting assumptions that belonged only to the original environment.",
+            "es": "La extracción de aprendizaje separa el principio transferible de la implementación local. Pregunta qué condiciones hicieron útil la intervención y cuáles la limitaron. Un patrón describe condiciones, mecanismo y límites de evidencia. Copiar toda la arquitectura crea un método impuesto. Un principio ayuda cuando otro entorno puede probarlo sin heredar supuestos exclusivos del lugar original."
+          },
+          "case": {
+            "en": "Northstar benefited from reviewable category suggestions. A warehouse needs exception handling, not support queues. The reusable idea is embedding a reviewable suggestion in the existing decision step, while the category rule remains local.",
+            "es": "Northstar obtuvo utilidad de sugerencias revisables. Un almacén necesita manejar excepciones, no colas de soporte. La idea transferible es integrar la sugerencia en el paso de decisión existente. La regla de categorías sigue siendo local."
+          },
+          "task": {
+            "en": "Write one conditional pattern and name two conditions that require retesting elsewhere.",
+            "es": "Escribe un patrón condicionado y dos condiciones que deban probarse en otro entorno."
+          },
+          "answer": {
+            "en": "When repetitive classification consumes effort and operators retain decision authority, a suggestion embedded in the existing review step may reduce lookup work. Retest category stability and operator incentives at the new site. The course evidence supports this as a hypothesis for transfer, not a universal rule about AI deployment.",
+            "es": "Cuando clasificar repetidamente consume esfuerzo y el operador conserva autoridad, una sugerencia dentro de la revisión puede reducir consultas. Prueba estabilidad de categorías e incentivos en el nuevo lugar. La evidencia del curso respalda una hipótesis de transferencia, no una regla universal sobre IA."
+          },
+          "question": {
+            "en": "What should transfer first?",
+            "es": "¿Qué debería transferirse primero?"
+          },
+          "choices": [
+            {
+              "en": "Every service from the old architecture",
+              "es": "Todos los servicios anteriores"
+            },
+            {
+              "en": "The principle and its conditions",
+              "es": "El principio y sus condiciones"
+            },
+            {
+              "en": "The old customer’s permissions",
+              "es": "Los permisos del cliente anterior"
+            }
+          ],
+          "correct": 1,
+          "reason": {
+            "en": "Transfer the mechanism while rechecking context.",
+            "es": "Transfiere el mecanismo y verifica nuevamente el contexto."
+          }
+        },
+        {
+          "id": "M07-L02",
+          "title": {
+            "en": "A reusable technical primitive",
+            "es": "Un componente técnico reutilizable"
+          },
+          "concept": {
+            "en": "A primitive is a small reusable technical contribution with a clear contract. Separate stable behavior from customer-specific configuration. Input validation, correlation identifiers, and idempotent decision recording can generalize more easily than Northstar’s exact routing categories. Document inputs, outputs, failure behavior, tests, and assumptions. Reuse needs a maintainer and a version policy. A copied file without ownership may multiply defects rather than reduce future work.",
+            "es": "Un componente reutilizable tiene un contrato claro. Separa comportamiento estable de configuración específica. Validación, identificadores de correlación y decisiones sin duplicados pueden generalizar mejor que las categorías de Northstar. Documenta entradas, salidas, fallas, pruebas y supuestos. La reutilización requiere mantenimiento y versiones. Copiar archivos sin responsabilidad puede multiplicar defectos."
+          },
+          "case": {
+            "en": "The lab routing function contains category keywords. Its event-recording contract is more general: one suggestion identifier can receive only one saved decision. You can reuse that contract without adopting the same categories.",
+            "es": "La función de asignación contiene palabras por categoría. El contrato de eventos es más general: cada sugerencia admite una sola decisión. Puedes reutilizarlo sin copiar categorías."
+          },
+          "task": {
+            "en": "Extract a primitive proposal with interface, tests, owner, and local configuration.",
+            "es": "Propón un componente con interfaz, pruebas, responsable y configuración local."
+          },
+          "answer": {
+            "en": "Primitive: decision recording. Input: an existing suggestion identifier and an allowed chosen queue. Output: an auditable decision identifier. Failures: unknown suggestion, duplicate decision, or invalid queue. Tests cover each condition. Queue names remain configuration. Name a maintainer and record a version change when contract behavior changes.",
+            "es": "Componente: registro de decisiones. Entrada: identificador existente y cola permitida. Salida: identificador auditable. Fallas: sugerencia desconocida, decisión duplicada o cola inválida. Prueba cada condición. Los nombres de colas quedan como configuración. Identifica mantenedor y registra una nueva versión al cambiar comportamiento contractual."
+          },
+          "question": {
+            "en": "Which item is most reusable across domains?",
+            "es": "¿Qué elemento se reutiliza mejor entre dominios?"
+          },
+          "choices": [
+            {
+              "en": "Northstar’s sponsor name",
+              "es": "El nombre del patrocinador"
+            },
+            {
+              "en": "A fixed access-ticket keyword list",
+              "es": "La lista fija de palabras de acceso"
+            },
+            {
+              "en": "A tested decision-recording contract",
+              "es": "Un contrato probado de registro de decisiones"
+            }
+          ],
+          "correct": 2,
+          "reason": {
+            "en": "Stable contracts travel better than local assumptions.",
+            "es": "Los contratos estables se transfieren mejor que supuestos locales."
+          }
+        },
+        {
+          "id": "M07-L03",
+          "title": {
+            "en": "A product signal with evidence",
+            "es": "Una señal de producto con evidencia"
+          },
+          "concept": {
+            "en": "A product signal connects a field observation to a product decision. Record the affected workflow, frequency within the observed scope, current workaround, consequence, and evidence. Separate a local request from a repeated pattern across sites. Propose a product hypothesis and the next validation action. Avoid presenting the loudest stakeholder’s preference as market demand. Preserve disagreement and missing information so the product team can judge transferability.",
+            "es": "Una señal de producto conecta observación de campo con decisión de producto. Registra proceso, frecuencia dentro del alcance, alternativa actual, consecuencia y evidencia. Distingue solicitud local de patrón repetido en otros lugares. Propón hipótesis y próxima validación. Evita tratar la preferencia más insistente como demanda de mercado. Conserva desacuerdos y vacíos para evaluar transferencia."
+          },
+          "case": {
+            "en": "Agents abandon suggestions because copying back to the queue adds work. The product signal is a need for in-workflow review integration. One site provides evidence of friction, but not yet a general market priority.",
+            "es": "Los agentes abandonan sugerencias porque copiarlas agrega trabajo. La señal apunta a revisión integrada. Un lugar demuestra fricción, pero todavía no establece una prioridad general de mercado."
+          },
+          "task": {
+            "en": "Write a product-signal memo with observed evidence, hypothesis, and validation request.",
+            "es": "Escribe una nota de producto con evidencia, hipótesis y solicitud de validación."
+          },
+          "answer": {
+            "en": "Observed: forty percent of eligible tasks use assistance in the fictional follow-up; agents report duplicate entry. Hypothesis: an integrated review surface will increase adoption. Validation: observe the current task and test the integrated version on a bounded sample. Unknown: whether the same friction recurs at other customers. No market-size claim follows from this case.",
+            "es": "Observado: cuarenta por ciento de tareas elegibles usan asistencia; agentes reportan captura repetida. Hipótesis: integrar revisión aumentará adopción. Validación: observar la tarea y probar la versión integrada en una muestra limitada. Desconocido: repetición en otros clientes. El caso no respalda cifras de mercado."
+          },
+          "question": {
+            "en": "What distinguishes a product signal from a feature demand?",
+            "es": "¿Qué distingue una señal de una solicitud de función?"
+          },
+          "choices": [
+            {
+              "en": "Evidence about workflow and consequences",
+              "es": "Evidencia del trabajo y sus consecuencias"
+            },
+            {
+              "en": "Executive seniority",
+              "es": "Jerarquía ejecutiva"
+            },
+            {
+              "en": "A longer feature list",
+              "es": "Una lista más larga"
+            }
+          ],
+          "correct": 0,
+          "reason": {
+            "en": "Traceable observations help product teams decide.",
+            "es": "Las observaciones trazables ayudan a decidir."
+          }
+        },
+        {
+          "id": "M07-L04",
+          "title": {
+            "en": "Capability after you leave",
+            "es": "Capacidad después de retirarte"
+          },
+          "concept": {
+            "en": "The distill pack contains a pattern, primitive, playbook, product signal, site capability, and model update. Site capability requires operators who can execute and adapt the workflow without the original engineer. Test handover through a teach-back or recovery exercise. Documentation helps but does not prove capability. Keep a feedback system so new exceptions lead to updates after the engagement ends.",
+            "es": "El paquete contiene patrón, componente, método, señal de producto, capacidad local y cambio de interpretación. La capacidad exige operadores que ejecuten y adapten sin el ingeniero original. Prueba transferencia con explicación inversa o recuperación. Documentar ayuda, pero no demuestra capacidad. Conserva un sistema de retroalimentación para actualizar ante excepciones nuevas."
+          },
+          "case": {
+            "en": "Maya explains how to disable assistance, restore manual triage, inspect errors, and request a rule change. Luis can recover the service from the runbook. Their demonstration is stronger evidence than receiving a handover deck.",
+            "es": "Maya explica cómo desactivar, volver a revisión manual, examinar errores y pedir cambios. Luis recupera el servicio con la guía. La demostración aporta más evidencia que recibir una presentación de entrega."
+          },
+          "task": {
+            "en": "Complete the six-part distill pack and design a handover test.",
+            "es": "Completa las seis partes y diseña una prueba de transferencia."
+          },
+          "answer": {
+            "en": "Ask the operator to respond to one unavailable-service scenario without contacting you. Ask the maintainer to explain a rejected-input trace. Record what they can do, what remains unclear, and who will maintain the playbook. Model update: accurate suggestions need integration and trusted override handling to become useful. The next loop starts from that revised frame.",
+            "es": "Pide al operador responder a una indisponibilidad sin contactarte. Pide al mantenedor explicar una entrada rechazada. Registra capacidad, vacíos y responsable del método. Actualización: la exactitud necesita integración y modificaciones confiables para producir utilidad. El siguiente ciclo parte de ese encuadre revisado."
+          },
+          "question": {
+            "en": "Which evidence best supports successful handover?",
+            "es": "¿Qué evidencia respalda una transferencia exitosa?"
+          },
+          "choices": [
+            {
+              "en": "A long documentation folder",
+              "es": "Una carpeta extensa"
+            },
+            {
+              "en": "The original engineer remains the only responder",
+              "es": "El ingeniero original sigue siendo único contacto"
+            },
+            {
+              "en": "Operators complete a recovery exercise independently",
+              "es": "Los operadores recuperan de forma independiente"
+            }
+          ],
+          "correct": 2,
+          "reason": {
+            "en": "Demonstrated capability matters more than document volume.",
+            "es": "La capacidad demostrada importa más que el volumen documental."
+          }
+        }
+      ]
+    },
+    {
+      "id": "M08",
+      "title": {
+        "en": "Judgment under pressure",
+        "es": "Criterio bajo presión"
+      },
+      "source": "Framework §§5,7,8",
+      "practice_minutes": 50,
+      "lessons": [
+        {
+          "id": "M08-L01",
+          "title": {
+            "en": "A constraint changes mid-project",
+            "es": "Una restricción cambia durante el proyecto"
+          },
+          "concept": {
+            "en": "Constraint injection tests whether the delivery plan can adapt. Revisit the frame, uncertainty, authority, and smallest useful action when conditions change. A new restriction does not justify bypassing controls. Choose a permitted fallback and state which claims it can still test. Record the change, its effect on evidence, and the next gate. A synthetic fallback can test workflow design but cannot prove a production integration now unavailable.",
+            "es": "Una restricción nueva prueba la adaptación. Revisa encuadre, incertidumbre, autoridad y acción útil mínima. La restricción no justifica evadir controles. Elige una alternativa permitida y explica qué afirmaciones puede probar. Documenta el cambio, su efecto en evidencia y la próxima revisión. Una alternativa sintética prueba diseño de trabajo, pero no integración productiva inaccesible."
+          },
+          "case": {
+            "en": "Priya prohibits external model calls. Luis reports the customer API will be unavailable this week. The sponsor still wants progress. The rule-based synthetic prototype can continue testing review behavior.",
+            "es": "Priya prohíbe llamadas a modelos externos. Luis informa que la API no estará disponible esta semana. El patrocinador exige avance. El prototipo sintético con reglas permite seguir probando revisión."
+          },
+          "task": {
+            "en": "Revise the plan while preserving a useful experiment and an honest evidence boundary.",
+            "es": "Revisa el plan conservando aprendizaje útil y límites honestos de evidencia."
+          },
+          "answer": {
+            "en": "Use the local dataset and rules. Test usability, category logic, validation, and logging. Mark production integration and model benefit untested. Keep a future integration gate with Luis and Priya. This fallback creates progress without pretending it exercised the blocked customer systems.",
+            "es": "Usa datos y reglas locales. Prueba usabilidad, categorías, validación y registros. Marca integración productiva y beneficio del modelo como pendientes. Conserva una revisión futura con Luis y Priya. La alternativa permite avanzar sin afirmar uso de sistemas bloqueados."
+          },
+          "question": {
+            "en": "What can a synthetic fallback prove?",
+            "es": "¿Qué puede probar una alternativa sintética?"
+          },
+          "choices": [
+            {
+              "en": "Selected behavior within the simulation",
+              "es": "Conducta seleccionada en la simulación"
+            },
+            {
+              "en": "Customer API readiness",
+              "es": "Preparación de la API del cliente"
+            },
+            {
+              "en": "Production access approval",
+              "es": "Aprobación de acceso productivo"
+            }
+          ],
+          "correct": 0,
+          "reason": {
+            "en": "The fallback’s scope governs its claims.",
+            "es": "El alcance de la alternativa determina sus afirmaciones."
+          }
+        },
+        {
+          "id": "M08-L02",
+          "title": {
+            "en": "One decision for three audiences",
+            "es": "Una decisión para tres audiencias"
+          },
+          "concept": {
+            "en": "Translation preserves truth while changing the level of detail. Operators need task consequences and recovery. Engineers need contracts, failure modes, and dependencies. Executives need the decision, evidence, risk, and next commitment. Every version should keep the same authority boundary and uncertainty. Compress the messy context into one page. If one audience hears a stronger promise than another, the translation has changed the decision rather than clarified it.",
+            "es": "La traducción conserva la verdad y cambia detalle. Operadores necesitan consecuencias y recuperación. Ingenieros requieren contratos, fallas y dependencias. Ejecutivos necesitan decisión, evidencia, riesgo y compromiso siguiente. Todas las versiones deben conservar autoridad e incertidumbre. Resume en una página. Si una audiencia recibe una promesa mayor, cambiaste la decisión en lugar de aclararla."
+          },
+          "case": {
+            "en": "The system generates reviewable routing suggestions using synthetic data. It has not been approved for production. That limit must appear in the executive summary as clearly as in the engineering note.",
+            "es": "El sistema genera sugerencias revisables con datos sintéticos. No tiene aprobación productiva. Ese límite debe aparecer claramente tanto en el resumen ejecutivo como en la nota técnica."
+          },
+          "task": {
+            "en": "Write a three-sentence explanation for an operator, engineer, and executive.",
+            "es": "Escribe tres frases para operador, ingeniero y ejecutivo."
+          },
+          "answer": {
+            "en": "Operator: review the queue suggestion, override when needed, and save your choice; use manual triage if unavailable. Engineer: the local API validates input, keeps review separate, and records correlated events; production controls remain pending. Executive: the synthetic test supports a bounded pilot hypothesis; authorize the next access review rather than claiming customer savings.",
+            "es": "Operador: revisa, modifica y guarda; utiliza clasificación manual ante indisponibilidad. Ingeniero: la API local valida, separa revisión y registra eventos correlacionados; faltan controles productivos. Ejecutivo: la prueba sintética respalda una hipótesis limitada; autoriza revisión de acceso y evita afirmar ahorro de clientes."
+          },
+          "question": {
+            "en": "What must remain constant across audiences?",
+            "es": "¿Qué debe mantenerse entre audiencias?"
+          },
+          "choices": [
+            {
+              "en": "Every technical detail",
+              "es": "Cada detalle técnico"
+            },
+            {
+              "en": "The facts, limits, and decision",
+              "es": "Hechos, límites y decisión"
+            },
+            {
+              "en": "The same word count",
+              "es": "La misma cantidad de palabras"
+            }
+          ],
+          "correct": 1,
+          "reason": {
+            "en": "Compression changes emphasis, not evidence.",
+            "es": "Resumir cambia énfasis, no evidencia."
+          }
+        },
+        {
+          "id": "M08-L03",
+          "title": {
+            "en": "Failure-mode diagnosis",
+            "es": "Diagnóstico de modos de falla"
+          },
+          "concept": {
+            "en": "Diagnose behavior before attaching a label. The framework names eleven failures, including parachuting, going native, silent assumptions, moving goalposts, fragile prototypes, bespoke loops, and hero dependency. Use the symptom to select a counter and an observable test. External review helps preserve critical distance after immersion. Do not classify disagreement as going native simply because a colleague challenges your proposed solution.",
+            "es": "Diagnostica conducta antes de etiquetar. El marco describe once fallas, como llegar con respuestas prefabricadas, perder distancia crítica, supuestos silenciosos, cambiar metas, prototipos frágiles, trabajo siempre a medida y dependencia personal. Usa el síntoma para elegir respuesta y prueba. La revisión externa conserva criterio después de inmersión. El desacuerdo por sí solo no indica pérdida de distancia."
+          },
+          "case": {
+            "en": "The team removes the quality threshold after errors appear. A prototype runs without an owner. Every rule change depends on the original engineer. Each symptom maps to a different failure mode.",
+            "es": "El equipo elimina el límite de calidad tras ver errores. Un prototipo funciona sin responsable. Cada cambio depende del ingeniero original. Son síntomas de fallas diferentes."
+          },
+          "task": {
+            "en": "Name each failure, its counter, and evidence that the counter worked.",
+            "es": "Identifica falla, respuesta y evidencia de que funcionó."
+          },
+          "answer": {
+            "en": "Moving goalposts: restore the timestamped threshold and publish the complete result. Fragile prototype: hold landing until an owner and support conditions exist. Hero dependency: teach the maintainer and test an independent rule update. The correction needs behavior evidence, not merely a newly written policy.",
+            "es": "Cambio de metas: restaura el umbral fechado y publica el resultado completo. Prototipo frágil: detén despliegue hasta tener responsable y soporte. Dependencia personal: capacita al mantenedor y prueba un cambio independiente. La corrección requiere conducta observable, además de documentos."
+          },
+          "question": {
+            "en": "Which symptom indicates moving goalposts?",
+            "es": "¿Qué síntoma indica cambiar metas?"
+          },
+          "choices": [
+            {
+              "en": "Writing a prediction before acting",
+              "es": "Escribir antes de actuar"
+            },
+            {
+              "en": "Rejecting malformed input",
+              "es": "Rechazar entrada inválida"
+            },
+            {
+              "en": "Changing success criteria after seeing results",
+              "es": "Cambiar éxito después de ver resultados"
+            }
+          ],
+          "correct": 2,
+          "reason": {
+            "en": "Post-result threshold changes distort the experiment.",
+            "es": "Cambiar umbrales después distorsiona el experimento."
+          }
+        },
+        {
+          "id": "M08-L04",
+          "title": {
+            "en": "Practice and the growth ladder",
+            "es": "Práctica y progresión"
+          },
+          "concept": {
+            "en": "The ladder progresses through apprentice, builder, deployment owner, multiplier, and system designer. Its exit tests concern observable work in context. Course completion does not automatically satisfy those tests. Use the daily, weekly, monthly, and quarterly cadence as a development aid. Select a manageable practice commitment, collect evidence, and seek feedback. Real workplace practice should respect data access, customer confidentiality, operating authority, and applicable procedures.",
+            "es": "La progresión incluye aprendiz, constructor, responsable de despliegue, multiplicador y diseñador de sistemas. Sus pruebas exigen trabajo observable en contexto. Completar el curso no las satisface automáticamente. Usa la cadencia diaria, semanal, mensual y trimestral como apoyo. Elige una práctica manejable, reúne evidencia y busca comentarios. El trabajo real debe respetar acceso, confidencialidad, autoridad y procedimientos."
+          },
+          "case": {
+            "en": "A learner finishes the prototype and calls themselves a deployment owner. They have not worked with real users or performed an outcome reading after production adoption. Their portfolio demonstrates simulated practice, with field evidence still pending.",
+            "es": "Una persona termina el prototipo y se declara responsable de despliegue. No ha trabajado con usuarios reales ni revisado resultados tras adopción productiva. El portafolio demuestra práctica simulada y aún falta evidencia de campo."
+          },
+          "task": {
+            "en": "Write a 30-day practice plan with one user observation, one prediction, and one review of evidence.",
+            "es": "Escribe un plan de treinta días con observación, predicción y revisión de evidencia."
+          },
+          "answer": {
+            "en": "Week one: observe a permitted workflow and map the actual decision. Week two: co-author a small frame with its owner. Week three: run an authorized bounded experiment with a written prediction. Week four: compare results and identify one reusable lesson. If workplace access is unavailable, use a second simulation and label it accordingly.",
+            "es": "Semana uno: observa un proceso permitido y su decisión. Semana dos: escribe un encuadre pequeño con el responsable. Semana tres: realiza experimento autorizado y predicción previa. Semana cuatro: compara y extrae aprendizaje reutilizable. Si no hay acceso laboral, utiliza otra simulación y descríbela como tal."
+          },
+          "question": {
+            "en": "Does course completion establish the deployment-owner stage?",
+            "es": "¿Completar el curso demuestra la etapa de responsable de despliegue?"
+          },
+          "choices": [
+            {
+              "en": "No, the stage requires field evidence",
+              "es": "No, requiere evidencia de campo"
+            },
+            {
+              "en": "Yes, after watching videos",
+              "es": "Sí, tras ver videos"
+            },
+            {
+              "en": "Yes, if the self-rating is high",
+              "es": "Sí, con autoevaluación alta"
+            }
+          ],
+          "correct": 0,
+          "reason": {
+            "en": "Keep educational achievement separate from verified career capability.",
+            "es": "Distingue aprendizaje de capacidad profesional verificada."
+          }
+        }
+      ]
+    },
+    {
+      "id": "M09",
+      "title": {
+        "en": "Capstone engagement",
+        "es": "Proyecto integrador"
+      },
+      "source": "Framework §§4,7,8,9",
+      "practice_minutes": 125,
+      "lessons": [
+        {
+          "id": "M09-L01",
+          "title": {
+            "en": "A fresh ambiguous engagement",
+            "es": "Un nuevo encargo ambiguo"
+          },
+          "concept": {
+            "en": "The capstone transfers the loop to Harbor Maintenance. A sponsor asks for an AI assistant to route maintenance requests. The workflow includes urgent conditions, missing asset identifiers, duplicate requests, and a supervisor who owns priority decisions. Keep safety procedures authoritative and do not automate operational control. Your first task is discovery and framing. The capstone uses synthetic records and evaluates how well you preserve evidence and authority while building a usable path.",
+            "es": "El proyecto aplica el ciclo a Harbor Maintenance. Un patrocinador pide IA para asignar solicitudes. Hay urgencias, activos faltantes, duplicados y un supervisor responsable de prioridades. Los procedimientos de seguridad conservan autoridad. No automatices control operativo. Primero descubre y encuadra. El proyecto usa registros sintéticos y evalúa evidencia, autoridad y un flujo útil."
+          },
+          "case": {
+            "en": "The sponsor wants automated closure. The supervisor needs faster review and refuses automatic priority changes. Historical records include duplicates and missing asset IDs. These differences must appear in your Site Map.",
+            "es": "El patrocinador quiere cierre automático. El supervisor busca revisión más rápida y rechaza cambios automáticos de prioridad. Los registros contienen duplicados y activos faltantes. Incluye estas diferencias en el mapa."
+          },
+          "task": {
+            "en": "Use the capstone brief and staged evidence pack. Submit a Site Map and Frame Card before opening later results.",
+            "es": "Usa el encargo y la evidencia por etapas. Entrega mapa y encuadre antes de ver resultados posteriores."
+          },
+          "answer": {
+            "en": "A defensible frame targets supervisor review time while preserving authorized priority and closure decisions. Missing identifiers require a clarification path. Duplicate detection supports the reviewer but does not silently delete a request. Any urgent safety text routes to human assessment under existing procedures. Record these as design boundaries before implementation.",
+            "es": "Un encuadre defendible reduce revisión del supervisor manteniendo sus decisiones de prioridad y cierre. Identificadores faltantes requieren aclaración. Detectar duplicados ayuda y no elimina solicitudes en silencio. Las urgencias pasan a revisión humana según procedimientos existentes. Documenta límites antes de implementar."
+          },
+          "question": {
+            "en": "Who retains maintenance priority authority?",
+            "es": "¿Quién conserva autoridad sobre prioridad?"
+          },
+          "choices": [
+            {
+              "en": "The ticket text",
+              "es": "El texto de la solicitud"
+            },
+            {
+              "en": "The authorized supervisor",
+              "es": "El supervisor autorizado"
+            },
+            {
+              "en": "The fastest routing rule",
+              "es": "La regla más rápida"
+            }
+          ],
+          "correct": 1,
+          "reason": {
+            "en": "The tool assists review without assuming operating authority.",
+            "es": "La herramienta apoya sin asumir autoridad operativa."
+          }
+        },
+        {
+          "id": "M09-L02",
+          "title": {
+            "en": "Build, predict, and inject a constraint",
+            "es": "Construir, predecir e incorporar una restricción"
+          },
+          "concept": {
+            "en": "Adapt the lab contract to maintenance requests while preserving validation, human review, and auditable decisions. State the key uncertainty and prediction first. Implement only the smallest complete path that addresses it. Then apply the constraint card: an integration is unavailable and external model calls are prohibited. Demonstrate the permitted fallback and explain which evidence remains unavailable. Your implementation may use rules or an approved optional model, but the comparison must justify any added complexity.",
+            "es": "Adapta el laboratorio a mantenimiento conservando validación, revisión humana y decisiones auditables. Escribe incertidumbre y predicción primero. Implementa solo el flujo útil mínimo. Aplica después la restricción: una integración falla y se prohíben modelos externos. Demuestra alternativa permitida y evidencia faltante. Puedes usar reglas o un modelo opcional aprobado, justificando complejidad adicional."
+          },
+          "case": {
+            "en": "The integration fails just before the review. A local fixture preserves the input contract. It demonstrates review behavior but cannot establish live integration reliability. Your decision record should say both.",
+            "es": "La integración falla antes de revisar. Un archivo local conserva el contrato de entrada. Demuestra revisión, pero no confiabilidad de integración real. Registra ambas cosas."
+          },
+          "task": {
+            "en": "Submit working code, test evidence, a timestamped prediction, and a revised decision after the constraint.",
+            "es": "Entrega código, pruebas, predicción fechada y decisión revisada ante la restricción."
+          },
+          "answer": {
+            "en": "The fallback uses synthetic fixtures, validates asset identifiers, flags urgent text for the supervisor, and saves reviewed decisions. Prediction and evidence remain separate. The record names live integration as untested and preserves the original safety boundary. A good submission explains why these controls address the case rather than merely listing features.",
+            "es": "La alternativa usa datos sintéticos, valida activos, marca urgencias para supervisor y guarda decisiones revisadas. Predicción y evidencia quedan separadas. El registro marca integración real sin probar y conserva seguridad. Una buena entrega explica cómo los controles responden al caso, además de enumerarlos."
+          },
+          "question": {
+            "en": "What must the fallback report preserve?",
+            "es": "¿Qué debe conservar el informe de la alternativa?"
+          },
+          "choices": [
+            {
+              "en": "The claim that integration passed",
+              "es": "La afirmación de integración aprobada"
+            },
+            {
+              "en": "Only the favorable screenshots",
+              "es": "Solo capturas favorables"
+            },
+            {
+              "en": "The distinction between tested and untested behavior",
+              "es": "La diferencia entre probado y pendiente"
+            }
+          ],
+          "correct": 2,
+          "reason": {
+            "en": "Fallbacks change the evidence boundary.",
+            "es": "Las alternativas cambian el alcance de evidencia."
+          }
+        },
+        {
+          "id": "M09-L03",
+          "title": {
+            "en": "The portfolio and scoring rubric",
+            "es": "El portafolio y la rúbrica"
+          },
+          "concept": {
+            "en": "Submit a coherent portfolio rather than disconnected templates. The Site Map should support the Frame Card, the prediction should match its outcome, the build should test the critical uncertainty, and the delta log should compare against the prediction. Include the landing checklist, ownership plan, second reading, distill pack, and one-page decision memo. Score seven dimensions using observable criteria. A high aggregate score cannot compensate for an unauthorized action or fabricated evidence.",
+            "es": "Entrega un portafolio coherente. El mapa respalda encuadre, la predicción corresponde al resultado, la construcción prueba incertidumbre y el registro compara predicción. Incluye lista de despliegue, responsables, segunda lectura, aprendizaje y memo. Evalúa siete dimensiones con criterios observables. Una puntuación total alta no compensa acciones no autorizadas ni evidencia inventada."
+          },
+          "case": {
+            "en": "One submission has beautiful slides but no written prediction. Another has a modest prototype and clear evidence connecting every decision. Presentation quality supports readability, while the rubric evaluates delivery reasoning and behavior.",
+            "es": "Una entrega tiene diapositivas atractivas sin predicción. Otra tiene prototipo modesto y evidencia conectada a decisiones. La presentación ayuda a leer, pero la rúbrica evalúa criterio y conducta de entrega."
+          },
+          "task": {
+            "en": "Score your portfolio using the rubric, then check every safety and evidence gate separately.",
+            "es": "Evalúa tu portafolio y revisa por separado cada condición de seguridad y evidencia."
+          },
+          "answer": {
+            "en": "Use zero for absent evidence, one for description, two for partial demonstration, three for a coherent supported result, and four for strong demonstration with limitations and transfer. The proposed pass threshold is seventy percent plus all mandatory gates. This is an educational scoring design, not an accredited competency standard.",
+            "es": "Usa cero para ausencia, uno para descripción, dos para demostración parcial, tres para resultado coherente y respaldado, y cuatro para demostración sólida con límites y transferencia. La aprobación propuesta es setenta por ciento más todas las condiciones obligatorias. Es evaluación educativa, no estándar acreditado."
+          },
+          "question": {
+            "en": "Can a high score offset invented evidence?",
+            "es": "¿Una puntuación alta compensa evidencia inventada?"
+          },
+          "choices": [
+            {
+              "en": "No, evidence integrity is a mandatory gate",
+              "es": "No, la integridad es obligatoria"
+            },
+            {
+              "en": "Yes, if the prototype works",
+              "es": "Sí, si funciona el prototipo"
+            },
+            {
+              "en": "Yes, if the slides are polished",
+              "es": "Sí, con buenas diapositivas"
+            }
+          ],
+          "correct": 0,
+          "reason": {
+            "en": "Mandatory gates remain separate from the aggregate score.",
+            "es": "Las condiciones obligatorias son independientes del total."
+          }
+        },
+        {
+          "id": "M09-L04",
+          "title": {
+            "en": "A field extension and the next loop",
+            "es": "Aplicación de campo y siguiente ciclo"
+          },
+          "concept": {
+            "en": "The final lesson turns simulated practice into a bounded development plan. Identify a real workflow you may observe, the owner who can agree the frame, and the permissions needed for any experiment. Preserve confidentiality and authoritative operating procedures. Translate the loop into the domain while keeping the evidence discipline. The source’s O&G examples are draft translations, so do not infer WITSML compliance, safety approval, or real operational performance from this course.",
+            "es": "La última lección convierte práctica simulada en un plan limitado. Identifica proceso real observable, responsable que acuerde el encuadre y permisos necesarios. Conserva confidencialidad y procedimientos autorizados. Traduce el ciclo al dominio manteniendo disciplina de evidencia. Los ejemplos de petróleo y gas son borradores. El curso no demuestra cumplimiento WITSML, aprobación de seguridad ni desempeño operativo real."
+          },
+          "case": {
+            "en": "In remote operations, a data-quality review may be a suitable first workflow. An agent that changes drilling parameters creates a different authority and consequence boundary. The same loop can guide investigation without granting the same action rights.",
+            "es": "En operaciones remotas, revisar calidad de datos puede ser un inicio adecuado. Un agente que modifica parámetros de perforación tiene otra autoridad y consecuencia. El ciclo orienta investigación sin otorgar derechos de acción iguales."
+          },
+          "task": {
+            "en": "Write your next-loop proposal with owner, permitted observation, smallest action, metric, and stop condition.",
+            "es": "Escribe la propuesta del próximo ciclo con responsable, observación permitida, acción mínima, métrica y detención."
+          },
+          "answer": {
+            "en": "Propose observing one approved data-review task and testing a reviewable exception summary with synthetic or explicitly permitted data. Retain human judgment and authoritative procedures. Name the operational owner and define success before acting. Treat real deployment evidence as the next learning objective, not something this simulated portfolio already established.",
+            "es": "Propón observar una revisión autorizada y probar un resumen revisable con datos sintéticos o permitidos. Conserva criterio humano y procedimientos. Identifica responsable y define éxito antes de actuar. La evidencia real es el próximo objetivo de aprendizaje, no algo demostrado por el portafolio simulado."
+          },
+          "question": {
+            "en": "What does domain translation change?",
+            "es": "¿Qué cambia la adaptación de dominio?"
+          },
+          "choices": [
+            {
+              "en": "It grants automatic operating permission",
+              "es": "Otorga permiso operativo automático"
+            },
+            {
+              "en": "Vocabulary and context, while permissions still need verification",
+              "es": "Vocabulario y contexto; los permisos requieren verificación"
+            },
+            {
+              "en": "It proves standards compliance",
+              "es": "Demuestra cumplimiento de estándares"
+            }
+          ],
+          "correct": 1,
+          "reason": {
+            "en": "A transferable method does not imply transferable authority.",
+            "es": "Un método transferible no implica autoridad transferible."
+          }
+        }
+      ]
+    }
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "synthetic": true
+}

@@ -1,0 +1,110 @@
+1
+00:00:00,000 --> 00:00:06,187
+The Frame Card outcome names a user, a workflow,
+its current condition, a desired condition, a
+
+2
+00:00:06,257 --> 00:00:07,814
+metric, and constraints.
+
+3
+00:00:07,884 --> 00:00:09,697
+Co-author it with the operator.
+
+4
+00:00:09,767 --> 00:00:14,183
+Use a measure the operator recognizes
+and define its denominator.
+
+5
+00:00:14,253 --> 00:00:18,435
+Separate desired outcome from the
+technology proposed to achieve it.
+
+6
+00:00:18,505 --> 00:00:21,982
+A frame that says deploy
+AI specifies a solution.
+
+7
+00:00:22,052 --> 00:00:27,471
+A frame that says reduce review time while
+preserving routing quality leaves room to choose
+
+8
+00:00:27,541 --> 00:00:29,717
+the simplest useful intervention.
+
+9
+00:00:29,787 --> 00:00:35,205
+The fictional baseline is a median of 20
+minutes across twelve simulated reviews.
+
+10
+00:00:35,275 --> 00:00:41,761
+The team proposes a median no greater than 14
+minutes for an equivalent assisted sample, with
+
+11
+00:00:41,831 --> 00:00:44,263
+at most one misroute per twelve decisions.
+
+12
+00:00:44,333 --> 00:00:48,130
+These are exercise thresholds
+agreed before reading results.
+
+13
+00:00:48,200 --> 00:00:52,979
+Pause the video and complete this exercise
+before opening the worked response.
+
+14
+00:00:53,049 --> 00:00:57,870
+Write the outcome line and define review
+time, sample size, and routing error.
+
+15
+00:00:57,940 --> 00:01:04,127
+For support agents, improve ticket review from
+a median of 20 to at most 14 minutes, measured
+
+16
+00:01:04,197 --> 00:01:09,957
+on twelve comparable simulated tasks, while
+keeping human approval and no more than one wrong
+
+17
+00:01:10,027 --> 00:01:15,509
+queue. Review time starts when the reviewer
+opens the ticket and ends at a saved decision.
+
+18
+00:01:15,579 --> 00:01:20,529
+Wrong queue means disagreement with the
+case reference label after adjudication.
+
+19
+00:01:20,599 --> 00:01:22,732
+Which frame preserves solution choice?
+
+20
+00:01:22,802 --> 00:01:24,893
+A. Deploy an AI agent B.
+
+21
+00:01:24,963 --> 00:01:28,611
+Reduce defined review time
+under quality constraints C.
+
+22
+00:01:28,681 --> 00:01:30,174
+Use the newest model.
+
+23
+00:01:30,244 --> 00:01:31,716
+The best answer is B.
+
+24
+00:01:31,786 --> 00:01:34,922
+An outcome frame allows competing interventions.

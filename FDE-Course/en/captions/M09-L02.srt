@@ -1,0 +1,119 @@
+1
+00:00:00,000 --> 00:00:05,845
+Adapt the lab contract to maintenance requests
+while preserving validation, human review, and
+
+2
+00:00:05,915 --> 00:00:07,366
+auditable decisions.
+
+3
+00:00:07,436 --> 00:00:10,231
+State the key uncertainty and prediction first.
+
+4
+00:00:10,301 --> 00:00:13,842
+Implement only the smallest
+complete path that addresses it.
+
+5
+00:00:13,912 --> 00:00:19,736
+Then apply the constraint card: an integration
+is unavailable and external model calls are
+
+6
+00:00:19,806 --> 00:00:25,673
+prohibited. Demonstrate the permitted fallback
+and explain which evidence remains unavailable.
+
+7
+00:00:25,743 --> 00:00:31,268
+Your implementation may use rules or an
+approved optional model, but the comparison must
+
+8
+00:00:31,338 --> 00:00:33,493
+justify any added complexity.
+
+9
+00:00:33,563 --> 00:00:36,315
+The integration fails just before the review.
+
+10
+00:00:36,385 --> 00:00:39,243
+A local fixture preserves the input contract.
+
+11
+00:00:39,313 --> 00:00:44,711
+It demonstrates review behavior but cannot
+establish live integration reliability.
+
+12
+00:00:44,781 --> 00:00:46,807
+Your decision record should say both.
+
+13
+00:00:46,877 --> 00:00:51,656
+Pause the video and complete this exercise
+before opening the worked response.
+
+14
+00:00:51,726 --> 00:00:57,827
+Submit working code, test evidence, a timestamped
+prediction, and a revised decision after the
+
+15
+00:00:57,897 --> 00:00:58,964
+constraint.
+
+16
+00:00:59,034 --> 00:01:05,349
+The fallback uses synthetic fixtures, validates
+asset identifiers, flags urgent text for the
+
+17
+00:01:05,419 --> 00:01:08,107
+supervisor, and saves reviewed decisions.
+
+18
+00:01:08,177 --> 00:01:10,459
+Prediction and evidence remain separate.
+
+19
+00:01:10,529 --> 00:01:16,311
+The record names live integration as untested
+and preserves the original safety boundary.
+
+20
+00:01:16,381 --> 00:01:21,543
+A good submission explains why these controls
+address the case rather than merely listing
+
+21
+00:01:21,613 --> 00:01:22,659
+features.
+
+22
+00:01:22,729 --> 00:01:24,862
+What must the fallback report preserve?
+
+23
+00:01:24,932 --> 00:01:27,492
+A. The claim that integration passed B.
+
+24
+00:01:27,562 --> 00:01:29,738
+Only the favorable screenshots C.
+
+25
+00:01:29,808 --> 00:01:33,243
+The distinction between
+tested and untested behavior.
+
+26
+00:01:33,313 --> 00:01:34,721
+The best answer is C.
+
+27
+00:01:34,791 --> 00:01:37,009
+Fallbacks change the evidence boundary.

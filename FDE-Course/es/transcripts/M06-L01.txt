@@ -1,0 +1,9 @@
+La lista cubre confiabilidad, observabilidad, seguridad, integración, usabilidad y adopción. Adjunta evidencia y marca pendientes. Un endpoint de disponibilidad aporta una señal, no toda la confiabilidad. Un token local establece un límite, no aprobación empresarial. Programa la medición en la segunda lectura para evitar que preparación técnica sustituya valor realizado.
+
+El prototipo valida entradas y registra decisiones. Le faltan identidad empresarial, persistencia productiva, recuperación probada, retención y validación en el cliente. Los pendientes importan aunque pasen pruebas locales.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Completa la lista con evidencia, estado, responsable y próxima acción.
+
+La validación local respalda el curso. Seguridad productiva sigue sin aprobación, recuperación sin prueba y adopción como hipótesis. Maya atiende usabilidad y adopción, Luis integración y soporte, y Priya acceso productivo. La decisión se limita a la simulación hasta resolver condiciones.
+
+¿El token del laboratorio demuestra seguridad empresarial? A. No, su alcance es formación local B. Sí, porque existe autenticación C. Sí, si la demostración es rápida. La mejor respuesta es A. Los controles requieren evidencia adecuada al entorno.

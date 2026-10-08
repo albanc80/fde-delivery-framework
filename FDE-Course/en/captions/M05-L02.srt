@@ -1,0 +1,99 @@
+1
+00:00:00,000 --> 00:00:03,051
+The gate decision converts evidence into action.
+
+2
+00:00:03,121 --> 00:00:08,795
+Land when the critical assumption holds and
+remaining operational conditions are satisfied.
+
+3
+00:00:08,865 --> 00:00:13,964
+Iterate when the mechanism remains plausible
+but a bounded defect needs correction.
+
+4
+00:00:14,034 --> 00:00:17,938
+Pivot when evidence points toward a
+different problem or intervention.
+
+5
+00:00:18,008 --> 00:00:22,424
+Stop when the approach lacks value
+or exceeds an unacceptable boundary.
+
+6
+00:00:22,494 --> 00:00:28,126
+Explain the choice using evidence, risk,
+reversibility, and the next observable test.
+
+7
+00:00:28,196 --> 00:00:33,871
+Three variants appear: speed improves but
+errors double; category assistance has no effect
+
+8
+00:00:33,941 --> 00:00:38,911
+because account lookup dominates; and
+a prototype sends unauthorized replies.
+
+9
+00:00:38,981 --> 00:00:41,328
+Each failure demands a different decision.
+
+10
+00:00:41,398 --> 00:00:46,177
+Pause the video and complete this exercise
+before opening the worked response.
+
+11
+00:00:46,247 --> 00:00:50,321
+Assign a gate decision to each
+variant and state the next action.
+
+12
+00:00:50,391 --> 00:00:55,447
+Iterate on excessive routing errors if a
+specific correction can be tested safely.
+
+13
+00:00:55,517 --> 00:00:59,848
+Pivot toward account lookup when
+evidence changes the problem mechanism.
+
+14
+00:00:59,918 --> 00:01:05,230
+Stop unauthorized replies and restore the
+approval boundary before further testing.
+
+15
+00:01:05,300 --> 00:01:10,847
+A stop can be temporary for recovery, but
+continuing unchanged would ignore the evidence.
+
+16
+00:01:10,917 --> 00:01:14,095
+What is the correct response
+to an unauthorized action?
+
+17
+00:01:14,165 --> 00:01:17,643
+A. Stop the action path
+and recover the boundary B.
+
+18
+00:01:17,713 --> 00:01:19,633
+Ignore it if speed improved C.
+
+19
+00:01:19,703 --> 00:01:21,025
+Change the metric.
+
+20
+00:01:21,095 --> 00:01:22,546
+The best answer is A.
+
+21
+00:01:22,616 --> 00:01:26,136
+A favorable average does not
+cancel an authority breach.

@@ -1,0 +1,9 @@
+Una métrica de resultado necesita límites de calidad. Medir solo rapidez puede favorecer asignaciones descuidadas. Define calidad, excepciones, cobertura y carga de trabajo. Conserva la unidad de análisis y compara tareas similares. Una muestra sintética pequeña respalda una decisión del curso, no una estimación poblacional. Calcula la mejora explícitamente y distingue capacidad liberada de ahorro. Convertir tiempo en ahorro requiere un mecanismo organizacional adicional.
+
+Pasar de 20 a 12 minutos representa ocho minutos menos por revisión y una reducción del 40 por ciento en la mediana de la muestra. No demuestra una reducción del 40 por ciento en costos de personal. Una segunda asignación incorrecta ya supera el límite permitido en la muestra de doce tareas.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Calcula la mejora relativa y escribe una afirmación respaldada y otra que la evidencia no permite.
+
+El cálculo es veinte menos doce, dividido entre veinte, igual a cuarenta por ciento. Respaldado: disminuyó la mediana en esta comparación sintética. No respaldado: la nómina bajó cuarenta por ciento. Agrega tamaño de muestra y tasa de error. Si mejora el tiempo y falla la calidad, itera antes de desplegar.
+
+¿Qué demuestra directamente el tiempo liberado? A. Una reducción garantizada de nómina B. Capacidad de tiempo en el alcance medido C. Exactitud universal del modelo. La mejor respuesta es B. El beneficio financiero es otra afirmación y necesita evidencia.

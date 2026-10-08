@@ -1,0 +1,9 @@
+El paquete contiene patrón, componente, método, señal de producto, capacidad local y cambio de interpretación. La capacidad exige operadores que ejecuten y adapten sin el ingeniero original. Prueba transferencia con explicación inversa o recuperación. Documentar ayuda, pero no demuestra capacidad. Conserva un sistema de retroalimentación para actualizar ante excepciones nuevas.
+
+Maya explica cómo desactivar, volver a revisión manual, examinar errores y pedir cambios. Luis recupera el servicio con la guía. La demostración aporta más evidencia que recibir una presentación de entrega.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Completa las seis partes y diseña una prueba de transferencia.
+
+Pide al operador responder a una indisponibilidad sin contactarte. Pide al mantenedor explicar una entrada rechazada. Registra capacidad, vacíos y responsable del método. Actualización: la exactitud necesita integración y modificaciones confiables para producir utilidad. El siguiente ciclo parte de ese encuadre revisado.
+
+¿Qué evidencia respalda una transferencia exitosa? A. Una carpeta extensa B. El ingeniero original sigue siendo único contacto C. Los operadores recuperan de forma independiente. La mejor respuesta es C. La capacidad demostrada importa más que el volumen documental.

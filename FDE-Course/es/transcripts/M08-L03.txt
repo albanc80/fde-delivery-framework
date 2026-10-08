@@ -1,0 +1,9 @@
+Diagnostica conducta antes de etiquetar. El marco describe once fallas, como llegar con respuestas prefabricadas, perder distancia crítica, supuestos silenciosos, cambiar metas, prototipos frágiles, trabajo siempre a medida y dependencia personal. Usa el síntoma para elegir respuesta y prueba. La revisión externa conserva criterio después de inmersión. El desacuerdo por sí solo no indica pérdida de distancia.
+
+El equipo elimina el límite de calidad tras ver errores. Un prototipo funciona sin responsable. Cada cambio depende del ingeniero original. Son síntomas de fallas diferentes.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Identifica falla, respuesta y evidencia de que funcionó.
+
+Cambio de metas: restaura el umbral fechado y publica el resultado completo. Prototipo frágil: detén despliegue hasta tener responsable y soporte. Dependencia personal: capacita al mantenedor y prueba un cambio independiente. La corrección requiere conducta observable, además de documentos.
+
+¿Qué síntoma indica cambiar metas? A. Escribir antes de actuar B. Rechazar entrada inválida C. Cambiar éxito después de ver resultados. La mejor respuesta es C. Cambiar umbrales después distorsiona el experimento.

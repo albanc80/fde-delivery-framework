@@ -1,0 +1,97 @@
+1
+00:00:00,000 --> 00:00:04,885
+Adoption depends on the complete task,
+incentives, confidence, and support.
+
+2
+00:00:04,955 --> 00:00:10,715
+Training alone will not fix an extra queue,
+unclear responsibility, or fear of punitive
+
+3
+00:00:10,785 --> 00:00:16,375
+measurement. Observe the task again after
+rollout and ask where the new system adds effort.
+
+4
+00:00:16,445 --> 00:00:19,346
+Provide a visible override and a safe fallback.
+
+5
+00:00:19,416 --> 00:00:25,624
+Plan a defined adoption period with checkpoints
+and a denominator that reflects eligible work.
+
+6
+00:00:25,694 --> 00:00:30,473
+Agents abandon the tool because they must
+copy the result back into the main queue.
+
+7
+00:00:30,543 --> 00:00:34,297
+The suggestion is accurate, but
+the complete task takes longer.
+
+8
+00:00:34,367 --> 00:00:38,698
+Maya also discovers agents think
+overrides will count against them.
+
+9
+00:00:38,768 --> 00:00:43,547
+Pause the video and complete this exercise
+before opening the worked response.
+
+10
+00:00:43,617 --> 00:00:47,222
+Propose two workflow changes
+and a small test for each.
+
+11
+00:00:47,292 --> 00:00:52,305
+Test placing suggestions within the existing
+review step rather than a separate queue.
+
+12
+00:00:52,375 --> 00:00:57,794
+Clarify that overrides are learning evidence
+during the pilot and observe whether behavior
+
+13
+00:00:57,864 --> 00:01:02,387
+changes. Measure the complete task
+time and eligible-ticket adoption.
+
+14
+00:01:02,457 --> 00:01:08,195
+Do not infer trust from positive survey
+comments alone when actual use remains low.
+
+15
+00:01:08,265 --> 00:01:11,188
+Which signal most directly
+shows workflow adoption?
+
+16
+00:01:11,258 --> 00:01:13,647
+A. Attendance at a training session B.
+
+17
+00:01:13,717 --> 00:01:15,659
+A favorable sponsor quote C.
+
+18
+00:01:15,729 --> 00:01:18,075
+Sustained use in eligible tasks.
+
+19
+00:01:18,145 --> 00:01:19,553
+The best answer is C.
+
+20
+00:01:19,623 --> 00:01:21,223
+Attendance is an input.
+
+21
+00:01:21,293 --> 00:01:23,661
+Actual workflow use is behavior.

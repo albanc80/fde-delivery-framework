@@ -1,0 +1,9 @@
+The landing checklist covers reliability, observability, security, integration, usability, and adoption. Attach evidence to each item and name unresolved conditions. A passing health endpoint is one availability signal, not the whole reliability argument. A bearer token in a local lab is one boundary, not enterprise security approval. Keep the outcome measurement scheduled in Sense so the checklist does not quietly substitute technical readiness for realized value.
+
+The prototype validates inputs and logs decisions. It still lacks enterprise authentication, production persistence design, restore testing, retention policy, and customer-environment validation. These gaps matter even though local tests pass.
+
+Pause the video and complete this exercise before opening the worked response. Complete the checklist with evidence, status, owner, and next action for each item.
+
+Local validation supports the course scope. Production security remains unapproved, restoration remains untested, and adoption remains a hypothesis. Maya owns usability and adoption. Luis owns integration and support design. Priya owns production access review. The landing decision is limited to the simulated environment until those conditions are resolved.
+
+Does the lab token establish enterprise security readiness? A. No, its scope is local training B. Yes, because authentication exists C. Yes, if the demo is fast. The best answer is A. Controls need evidence appropriate to their deployment environment.

@@ -1,0 +1,116 @@
+1
+00:00:00,000 --> 00:00:05,163
+Before the slice runs, write the result you
+expect, the metric, the date, and the evidence
+
+2
+00:00:05,233 --> 00:00:06,662
+that would change your view.
+
+3
+00:00:06,732 --> 00:00:11,425
+The prediction belongs to the experiment,
+not a reconstructed success story.
+
+4
+00:00:11,495 --> 00:00:15,549
+Establish a comparison baseline
+with the same task definition.
+
+5
+00:00:15,619 --> 00:00:20,717
+Evaluate rules before adding a model
+so you can identify incremental value.
+
+6
+00:00:20,787 --> 00:00:23,966
+For this lab, functional
+tests establish behavior.
+
+7
+00:00:24,036 --> 00:00:29,177
+They do not establish reduced review time
+until a timed task comparison occurs.
+
+8
+00:00:29,247 --> 00:00:35,157
+You predict at most 14 minutes median review
+time and no more than one misroute in twelve
+
+9
+00:00:35,227 --> 00:00:36,571
+equivalent tasks.
+
+10
+00:00:36,641 --> 00:00:40,886
+The lab test suite passes, but the
+team has not timed any reviewers.
+
+11
+00:00:40,956 --> 00:00:43,793
+These two evidence sets
+answer different questions.
+
+12
+00:00:43,863 --> 00:00:48,642
+Pause the video and complete this exercise
+before opening the worked response.
+
+13
+00:00:48,712 --> 00:00:54,259
+Write the prediction, run the tests, and state
+exactly what a passing result establishes.
+
+14
+00:00:54,329 --> 00:01:00,899
+Passing tests establish the specified local
+API, validation, rule, audit, and approval
+
+15
+00:01:00,969 --> 00:01:07,860
+behavior. They do not establish operator trust,
+adoption, latency in a customer environment, or a causal
+
+16
+00:01:07,930 --> 00:01:09,295
+productivity gain.
+
+17
+00:01:09,365 --> 00:01:12,501
+Keep the performance
+prediction open until measured.
+
+18
+00:01:12,571 --> 00:01:19,078
+An optional model comparison should reuse the
+labeled evaluation set and include cost, errors,
+
+19
+00:01:19,148 --> 00:01:20,983
+fallback, and review effort.
+
+20
+00:01:21,053 --> 00:01:24,978
+Does a passing functional test
+prove the outcome metric improved?
+
+21
+00:01:25,048 --> 00:01:26,989
+A. Yes, automatically B.
+
+22
+00:01:27,059 --> 00:01:28,937
+Only with a modern model C.
+
+23
+00:01:29,007 --> 00:01:31,161
+No, outcome measurement is separate.
+
+24
+00:01:31,231 --> 00:01:32,639
+The best answer is C.
+
+25
+00:01:32,709 --> 00:01:35,440
+Match each claim to the
+test that can establish it.

@@ -1,0 +1,15 @@
+{
+  "synthetic": true,
+  "eligible": 12,
+  "excluded_inputs": 2,
+  "exclusion_reasons": [
+    "closed",
+    "older_than_7_days"
+  ],
+  "predicted_max_median_minutes": 14,
+  "max_wrong_final_queue": 1,
+  "adoption_target": 0.7,
+  "eligible_follow_up": 100,
+  "assisted_follow_up": 40,
+  "limits": "Fictional independent review sample. Not automatically measured by prototype."
+}

@@ -1,0 +1,9 @@
+A forward deployed engineer works close to the people who bear the consequences of a system. The responsibility extends from understanding an ambiguous request to helping the operation adopt a useful change. Technical work remains essential. The difference is the boundary of ownership: a deployed feature is an intermediate milestone. An outcome requires observable workflow change, a responsible operator, and evidence collected after adoption. Keep these boundaries visible when stakeholders celebrate a successful demonstration.
+
+Northstar Support asks for an AI assistant. Twenty agents handle access, billing, and incident tickets. A polished demo receives applause, but agents still copy tickets into a spreadsheet. The deployer has delivered software while the operating workflow remains unchanged.
+
+Pause the video and complete this exercise before opening the worked response. Write one statement describing the delivery milestone and another describing the operating outcome. Name who could verify each.
+
+Delivery: the authorized reviewer can load a ticket and inspect a routing suggestion. Outcome: agents use that suggestion in their actual queue, with lower review time and no increase in misrouting. The engineering lead verifies delivery. Maya, the support lead, owns adoption evidence. A screenshot supports the first statement; a defined observation period and review records support the second.
+
+Which evidence best supports an adopted outcome? A. A successful demo B. Observed workflow use and predefined outcome measures C. A completed code review. The best answer is B. A demo and a code review show intermediate delivery evidence. Adoption requires behavior and operating measures.

@@ -1,0 +1,13 @@
+task_id,category,baseline_minutes,assisted_minutes,wrong_final_queue,synthetic
+T001,access,15,8,0,True
+T002,access,17,9,0,True
+T003,access,18,10,0,True
+T004,access,19,11,0,True
+T005,access,19,11,0,True
+T006,access,20,12,1,True
+T007,access,20,12,0,True
+T008,access,21,13,0,True
+T009,access,22,13,0,True
+T010,access,23,14,0,True
+T011,access,24,15,0,True
+T012,access,25,16,0,True

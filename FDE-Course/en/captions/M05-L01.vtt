@@ -1,0 +1,85 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.859
+Sense compares reality with
+the written prediction.
+
+00:00:02.929 --> 00:00:08.177
+The first reading occurs after the thin slice
+and asks whether the critical assumption holds.
+
+00:00:08.247 --> 00:00:12.855
+Use the metric definition and
+thresholds agreed before the experiment.
+
+00:00:12.925 --> 00:00:15.826
+Include failures, exclusions, and exceptions.
+
+00:00:15.896 --> 00:00:20.867
+An improvement on a selected subset may
+disappear when failed tasks are restored.
+
+00:00:20.937 --> 00:00:26.078
+Write the result in a delta log: predicted,
+observed, model update, and decision.
+
+00:00:26.148 --> 00:00:31.119
+The twelve-task assisted sample has a
+median of 12 minutes and one wrong queue.
+
+00:00:31.189 --> 00:00:34.111
+It meets the fictional speed
+and quality thresholds.
+
+00:00:34.181 --> 00:00:39.579
+Two additional unusable tickets were rejected
+before review and must be reported as
+
+00:00:39.649 --> 00:00:40.843
+exclusions.
+
+00:00:40.913 --> 00:00:45.692
+Pause the video and complete this exercise
+before opening the worked response.
+
+00:00:45.762 --> 00:00:50.690
+Write a delta entry that includes the
+sample denominator and excluded records.
+
+00:00:50.760 --> 00:00:55.133
+Predicted: median no greater than
+14 with at most one misroute.
+
+00:00:55.203 --> 00:01:01.710
+Observed: median 12, one misroute across twelve
+eligible tasks, plus two rejected inputs.
+
+00:01:01.780 --> 00:01:06.047
+Update: routing assistance is
+promising within eligible tasks.
+
+00:01:06.117 --> 00:01:10.597
+Decision: prepare a controlled landing
+only after checklist gaps close.
+
+00:01:10.667 --> 00:01:14.549
+Do not generalize this synthetic
+result to all support work.
+
+00:01:14.619 --> 00:01:17.222
+What should the report do with rejected inputs?
+
+00:01:17.292 --> 00:01:18.572
+A. Hide them B.
+
+00:01:18.642 --> 00:01:21.095
+Include them as successful reviews C.
+
+00:01:21.165 --> 00:01:23.661
+Report their count and exclusion reason.
+
+00:01:23.731 --> 00:01:25.139
+The best answer is C.
+
+00:01:25.209 --> 00:01:28.196
+Coverage and exclusions affect interpretation.

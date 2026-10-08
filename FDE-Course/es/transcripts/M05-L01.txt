@@ -1,0 +1,9 @@
+La lectura compara la realidad con la predicción escrita. La primera ocurre después de la intervención y revisa la hipótesis crítica. Usa métricas y umbrales acordados antes. Incluye fallas, exclusiones y excepciones. Una mejora en un subconjunto puede desaparecer al incorporar tareas fallidas. Registra predicción, observación, cambio de interpretación y decisión.
+
+La muestra asistida de doce tareas tiene mediana de 12 minutos y una cola incorrecta. Cumple los umbrales ficticios. Dos tickets inutilizables fueron rechazados antes de la revisión y deben reportarse como exclusiones.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Escribe una entrada de diferencias con el denominador y las exclusiones.
+
+Predicción: mediana máxima de 14 y hasta un error. Observación: mediana 12 y un error en doce tareas elegibles, más dos entradas rechazadas. Actualización: la ayuda parece útil dentro de esas tareas. Decisión: preparar un despliegue controlado después de cerrar pendientes. Evita generalizar el resultado sintético a todo soporte.
+
+¿Cómo debe reportar entradas rechazadas? A. Ocultarlas B. Contarlas como revisiones exitosas C. Informar cantidad y motivo de exclusión. La mejor respuesta es C. La cobertura y las exclusiones afectan la interpretación.

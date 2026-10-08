@@ -1,0 +1,434 @@
+[
+  {
+    "id": "M01-L01",
+    "question": "¿Qué evidencia respalda mejor un resultado adoptado?",
+    "options": [
+      "Una demostración exitosa",
+      "Uso observado y métricas definidas de antemano",
+      "Una revisión de código completada"
+    ],
+    "answer_index": 1,
+    "explanation": "La demostración y la revisión de código muestran avances de entrega. La adopción exige conducta observable y métricas operativas.",
+    "source": "Framework §§3,5,6,8"
+  },
+  {
+    "id": "M01-L02",
+    "question": "¿Qué decisión respeta el límite de permisos?",
+    "options": [
+      "Enviar respuestas porque el patrocinador exige rapidez",
+      "Usar datos productivos sin informar a seguridad",
+      "Probar una sugerencia revisable con datos permitidos"
+    ],
+    "answer_index": 2,
+    "explanation": "La rapidez no amplía la autoridad. El experimento permitido puede producir evidencia útil.",
+    "source": "Framework §§3,5,6,8"
+  },
+  {
+    "id": "M01-L03",
+    "question": "¿Qué fortalece una afirmación de capacidad?",
+    "options": [
+      "Una autoevaluación alta",
+      "Una conducta que otra persona puede verificar",
+      "Memorizar el marco"
+    ],
+    "answer_index": 1,
+    "explanation": "La observación independiente es más sólida que la confianza personal.",
+    "source": "Framework §§3,5,6,8"
+  },
+  {
+    "id": "M01-L04",
+    "question": "¿Cómo debes describir los números del caso?",
+    "options": [
+      "Referencias industriales verificadas",
+      "Mejoras de productividad garantizadas",
+      "Datos ficticios para un ejercicio"
+    ],
+    "answer_index": 2,
+    "explanation": "El caso es una simulación educativa. Sus valores no constituyen evidencia comercial.",
+    "source": "Framework §§3,5,6,8"
+  },
+  {
+    "id": "M02-L01",
+    "question": "¿Qué resultado corresponde al reconocimiento?",
+    "options": [
+      "Una decisión provisional y preguntas",
+      "Una arquitectura definitiva",
+      "Una cifra prometida de ahorro"
+    ],
+    "answer_index": 0,
+    "explanation": "El reconocimiento aporta una hipótesis inicial para investigar.",
+    "source": "Framework §4 phases1–2; §5 M1–M3"
+  },
+  {
+    "id": "M02-L02",
+    "question": "¿Por qué revisar los pasos posteriores a la herramienta?",
+    "options": [
+      "Para agregar funciones",
+      "Para identificar trabajo desplazado y efectos posteriores",
+      "Para evitar hablar con operadores"
+    ],
+    "answer_index": 1,
+    "explanation": "El pensamiento sistémico examina la consecuencia en el proceso completo.",
+    "source": "Framework §4 phases1–2; §5 M1–M3"
+  },
+  {
+    "id": "M02-L03",
+    "question": "¿Qué demuestra un turno observado?",
+    "options": [
+      "La conducta de ese turno",
+      "Que todos actúan siempre igual",
+      "Que la responsable miente"
+    ],
+    "answer_index": 0,
+    "explanation": "Ajusta el alcance de la afirmación a la evidencia.",
+    "source": "Framework §4 phases1–2; §5 M1–M3"
+  },
+  {
+    "id": "M02-L04",
+    "question": "¿Qué debe aparecer en un campo pendiente?",
+    "options": [
+      "Una respuesta inventada plausible",
+      "Nada, para aparentar un mapa completo",
+      "Desconocido, responsable y acción de verificación"
+    ],
+    "answer_index": 2,
+    "explanation": "La incertidumbre visible permite actuar sobre el mapa.",
+    "source": "Framework §4 phases1–2; §5 M1–M3"
+  },
+  {
+    "id": "M03-L01",
+    "question": "¿Qué encuadre permite elegir la solución?",
+    "options": [
+      "Desplegar un agente de IA",
+      "Reducir el tiempo definido bajo restricciones de calidad",
+      "Usar el modelo más reciente"
+    ],
+    "answer_index": 1,
+    "explanation": "Un encuadre de resultado permite comparar intervenciones.",
+    "source": "Framework §4 phase3; §8.1"
+  },
+  {
+    "id": "M03-L02",
+    "question": "¿Cuándo debes definir evidencia que refute la apuesta?",
+    "options": [
+      "Antes del experimento",
+      "Después de ver los resultados",
+      "Solo si lo pide el patrocinador"
+    ],
+    "answer_index": 0,
+    "explanation": "El compromiso previo reduce el cambio oportunista de criterios.",
+    "source": "Framework §4 phase3; §8.1"
+  },
+  {
+    "id": "M03-L03",
+    "question": "¿Qué demuestra directamente el tiempo liberado?",
+    "options": [
+      "Una reducción garantizada de nómina",
+      "Capacidad de tiempo en el alcance medido",
+      "Exactitud universal del modelo"
+    ],
+    "answer_index": 1,
+    "explanation": "El beneficio financiero es otra afirmación y necesita evidencia.",
+    "source": "Framework §4 phase3; §8.1"
+  },
+  {
+    "id": "M03-L04",
+    "question": "¿Qué hacer con expectativas contradictorias?",
+    "options": [
+      "Resolverlas o hacerlas visibles antes de ejecutar",
+      "Ocultarlas en notas técnicas",
+      "Prometer ambos resultados"
+    ],
+    "answer_index": 0,
+    "explanation": "Las diferencias de alcance son una dependencia de entrega.",
+    "source": "Framework §4 phase3; §8.1"
+  },
+  {
+    "id": "M04-L01",
+    "question": "¿Qué hace completo al flujo mínimo?",
+    "options": [
+      "Muchos servicios",
+      "Una entrada que llega a una salida revisada",
+      "Un diagrama atractivo"
+    ],
+    "answer_index": 1,
+    "explanation": "La integridad se refiere al flujo útil; lo mínimo se refiere al alcance.",
+    "source": "Framework §4 phase4; §5 M4,M5,M7"
+  },
+  {
+    "id": "M04-L02",
+    "question": "¿Puede un ticket ampliar permisos del sistema?",
+    "options": [
+      "Sí, si parece urgente",
+      "Sí, si menciona al patrocinador",
+      "No, sigue siendo una entrada no confiable"
+    ],
+    "answer_index": 2,
+    "explanation": "El contenido y la autoridad son distintos.",
+    "source": "Framework §4 phase4; §5 M4,M5,M7"
+  },
+  {
+    "id": "M04-L03",
+    "question": "¿Qué evento demuestra una elección registrada?",
+    "options": [
+      "Sugerencia creada",
+      "Decisión guardada",
+      "Disponibilidad confirmada"
+    ],
+    "answer_index": 1,
+    "explanation": "Distingue generación, revisión y resultados operativos.",
+    "source": "Framework §4 phase4; §5 M4,M5,M7"
+  },
+  {
+    "id": "M04-L04",
+    "question": "¿Una prueba funcional aprobada demuestra mejora del resultado?",
+    "options": [
+      "Sí, automáticamente",
+      "Solo con un modelo moderno",
+      "No, la medición del resultado es independiente"
+    ],
+    "answer_index": 2,
+    "explanation": "Vincula cada afirmación con la prueba que puede respaldarla.",
+    "source": "Framework §4 phase4; §5 M4,M5,M7"
+  },
+  {
+    "id": "M05-L01",
+    "question": "¿Cómo debe reportar entradas rechazadas?",
+    "options": [
+      "Ocultarlas",
+      "Contarlas como revisiones exitosas",
+      "Informar cantidad y motivo de exclusión"
+    ],
+    "answer_index": 2,
+    "explanation": "La cobertura y las exclusiones afectan la interpretación.",
+    "source": "Framework §4 phase5; §8.2 learning"
+  },
+  {
+    "id": "M05-L02",
+    "question": "¿Cómo responder a una acción no autorizada?",
+    "options": [
+      "Detener la acción y recuperar el límite",
+      "Ignorarla si mejoró rapidez",
+      "Cambiar la métrica"
+    ],
+    "answer_index": 0,
+    "explanation": "Un promedio favorable no compensa una violación de autoridad.",
+    "source": "Framework §4 phase5; §8.2 learning"
+  },
+  {
+    "id": "M05-L03",
+    "question": "¿Qué debilita una comparación antes-después?",
+    "options": [
+      "Una definición escrita",
+      "Complejidad diferente entre muestras",
+      "Informar exclusiones"
+    ],
+    "answer_index": 1,
+    "explanation": "La equivalencia de condiciones importa para interpretar.",
+    "source": "Framework §4 phase5; §8.2 learning"
+  },
+  {
+    "id": "M05-L04",
+    "question": "¿Qué evalúa la segunda lectura?",
+    "options": [
+      "Solo si compila el código",
+      "Solo exactitud del prototipo",
+      "Resultado y adopción después del despliegue"
+    ],
+    "answer_index": 2,
+    "explanation": "La segunda lectura revisa la consecuencia operativa en el tiempo.",
+    "source": "Framework §4 phase5; §8.2 learning"
+  },
+  {
+    "id": "M06-L01",
+    "question": "¿El token del laboratorio demuestra seguridad empresarial?",
+    "options": [
+      "No, su alcance es formación local",
+      "Sí, porque existe autenticación",
+      "Sí, si la demostración es rápida"
+    ],
+    "answer_index": 0,
+    "explanation": "Los controles requieren evidencia adecuada al entorno.",
+    "source": "Framework §4 phase6; §8.3"
+  },
+  {
+    "id": "M06-L02",
+    "question": "¿Qué vuelve operativa la responsabilidad?",
+    "options": [
+      "Un nombre en una diapositiva",
+      "Autoridad, capacidad, acceso y recuperación",
+      "Que el ingeniero siempre esté conectado"
+    ],
+    "answer_index": 1,
+    "explanation": "La responsabilidad debe resistir ausencias y fallas normales.",
+    "source": "Framework §4 phase6; §8.3"
+  },
+  {
+    "id": "M06-L03",
+    "question": "¿Qué señal muestra adopción más directamente?",
+    "options": [
+      "Asistencia a capacitación",
+      "Una opinión favorable del patrocinador",
+      "Uso sostenido en tareas elegibles"
+    ],
+    "answer_index": 2,
+    "explanation": "La asistencia es una entrada. El uso operativo es conducta.",
+    "source": "Framework §4 phase6; §8.3"
+  },
+  {
+    "id": "M06-L04",
+    "question": "¿Qué debe definirse antes del lanzamiento?",
+    "options": [
+      "Condiciones de desactivación y alternativa manual",
+      "Una promesa de cero fallas",
+      "Suponer disponibilidad permanente del responsable"
+    ],
+    "answer_index": 0,
+    "explanation": "Diseñar recuperación forma parte de la preparación.",
+    "source": "Framework §4 phase6; §8.3"
+  },
+  {
+    "id": "M07-L01",
+    "question": "¿Qué debería transferirse primero?",
+    "options": [
+      "Todos los servicios anteriores",
+      "El principio y sus condiciones",
+      "Los permisos del cliente anterior"
+    ],
+    "answer_index": 1,
+    "explanation": "Transfiere el mecanismo y verifica nuevamente el contexto.",
+    "source": "Framework §4 phase7; §5 M8"
+  },
+  {
+    "id": "M07-L02",
+    "question": "¿Qué elemento se reutiliza mejor entre dominios?",
+    "options": [
+      "El nombre del patrocinador",
+      "La lista fija de palabras de acceso",
+      "Un contrato probado de registro de decisiones"
+    ],
+    "answer_index": 2,
+    "explanation": "Los contratos estables se transfieren mejor que supuestos locales.",
+    "source": "Framework §4 phase7; §5 M8"
+  },
+  {
+    "id": "M07-L03",
+    "question": "¿Qué distingue una señal de una solicitud de función?",
+    "options": [
+      "Evidencia del trabajo y sus consecuencias",
+      "Jerarquía ejecutiva",
+      "Una lista más larga"
+    ],
+    "answer_index": 0,
+    "explanation": "Las observaciones trazables ayudan a decidir.",
+    "source": "Framework §4 phase7; §5 M8"
+  },
+  {
+    "id": "M07-L04",
+    "question": "¿Qué evidencia respalda una transferencia exitosa?",
+    "options": [
+      "Una carpeta extensa",
+      "El ingeniero original sigue siendo único contacto",
+      "Los operadores recuperan de forma independiente"
+    ],
+    "answer_index": 2,
+    "explanation": "La capacidad demostrada importa más que el volumen documental.",
+    "source": "Framework §4 phase7; §5 M8"
+  },
+  {
+    "id": "M08-L01",
+    "question": "¿Qué puede probar una alternativa sintética?",
+    "options": [
+      "Conducta seleccionada en la simulación",
+      "Preparación de la API del cliente",
+      "Aprobación de acceso productivo"
+    ],
+    "answer_index": 0,
+    "explanation": "El alcance de la alternativa determina sus afirmaciones.",
+    "source": "Framework §§5,7,8"
+  },
+  {
+    "id": "M08-L02",
+    "question": "¿Qué debe mantenerse entre audiencias?",
+    "options": [
+      "Cada detalle técnico",
+      "Hechos, límites y decisión",
+      "La misma cantidad de palabras"
+    ],
+    "answer_index": 1,
+    "explanation": "Resumir cambia énfasis, no evidencia.",
+    "source": "Framework §§5,7,8"
+  },
+  {
+    "id": "M08-L03",
+    "question": "¿Qué síntoma indica cambiar metas?",
+    "options": [
+      "Escribir antes de actuar",
+      "Rechazar entrada inválida",
+      "Cambiar éxito después de ver resultados"
+    ],
+    "answer_index": 2,
+    "explanation": "Cambiar umbrales después distorsiona el experimento.",
+    "source": "Framework §§5,7,8"
+  },
+  {
+    "id": "M08-L04",
+    "question": "¿Completar el curso demuestra la etapa de responsable de despliegue?",
+    "options": [
+      "No, requiere evidencia de campo",
+      "Sí, tras ver videos",
+      "Sí, con autoevaluación alta"
+    ],
+    "answer_index": 0,
+    "explanation": "Distingue aprendizaje de capacidad profesional verificada.",
+    "source": "Framework §§5,7,8"
+  },
+  {
+    "id": "M09-L01",
+    "question": "¿Quién conserva autoridad sobre prioridad?",
+    "options": [
+      "El texto de la solicitud",
+      "El supervisor autorizado",
+      "La regla más rápida"
+    ],
+    "answer_index": 1,
+    "explanation": "La herramienta apoya sin asumir autoridad operativa.",
+    "source": "Framework §§4,7,8,9"
+  },
+  {
+    "id": "M09-L02",
+    "question": "¿Qué debe conservar el informe de la alternativa?",
+    "options": [
+      "La afirmación de integración aprobada",
+      "Solo capturas favorables",
+      "La diferencia entre probado y pendiente"
+    ],
+    "answer_index": 2,
+    "explanation": "Las alternativas cambian el alcance de evidencia.",
+    "source": "Framework §§4,7,8,9"
+  },
+  {
+    "id": "M09-L03",
+    "question": "¿Una puntuación alta compensa evidencia inventada?",
+    "options": [
+      "No, la integridad es obligatoria",
+      "Sí, si funciona el prototipo",
+      "Sí, con buenas diapositivas"
+    ],
+    "answer_index": 0,
+    "explanation": "Las condiciones obligatorias son independientes del total.",
+    "source": "Framework §§4,7,8,9"
+  },
+  {
+    "id": "M09-L04",
+    "question": "¿Qué cambia la adaptación de dominio?",
+    "options": [
+      "Otorga permiso operativo automático",
+      "Vocabulario y contexto; los permisos requieren verificación",
+      "Demuestra cumplimiento de estándares"
+    ],
+    "answer_index": 1,
+    "explanation": "Un método transferible no implica autoridad transferible.",
+    "source": "Framework §§4,7,8,9"
+  }
+]

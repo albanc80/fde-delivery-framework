@@ -1,0 +1,9 @@
+Antes de ejecutar, escribe el resultado esperado, la métrica, la fecha y la evidencia que cambiaría tu interpretación. La predicción pertenece al experimento, no a una historia reconstruida. Define una línea base con la misma tarea. Evalúa reglas antes de agregar un modelo para identificar valor adicional. Las pruebas funcionales demuestran comportamiento. No demuestran reducción de tiempo sin una comparación cronometrada.
+
+Predices una mediana máxima de 14 minutos y hasta un error en doce tareas equivalentes. Las pruebas del laboratorio pasan, pero nadie cronometra revisores. Estos conjuntos responden preguntas diferentes.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Escribe la predicción, ejecuta las pruebas y explica qué demuestra un resultado aprobado.
+
+Las pruebas aprobadas verifican API local, validación, reglas, auditoría y aprobación según lo especificado. No demuestran confianza, adopción, latencia del cliente ni mejora causal de productividad. Conserva abierta la predicción hasta medirla. Una comparación opcional con un modelo debe reutilizar las etiquetas y considerar costo, errores, alternativas y esfuerzo de revisión.
+
+¿Una prueba funcional aprobada demuestra mejora del resultado? A. Sí, automáticamente B. Solo con un modelo moderno C. No, la medición del resultado es independiente. La mejor respuesta es C. Vincula cada afirmación con la prueba que puede respaldarla.

@@ -1,0 +1,48 @@
+{
+  "synthetic": true,
+  "language": "en",
+  "workflow_owner": "Elena",
+  "baseline_median_minutes": 18,
+  "authorized_actions": [
+    "suggest",
+    "review",
+    "record"
+  ],
+  "prohibited_actions": [
+    "change_equipment",
+    "auto_close",
+    "change_priority_without_supervisor"
+  ],
+  "requests": [
+    {
+      "id": "H001",
+      "asset_id": "P-01",
+      "text": "Pump vibration / Vibración de bomba",
+      "reference": "mechanical"
+    },
+    {
+      "id": "H002",
+      "asset_id": "",
+      "text": "Power fault / Falla eléctrica",
+      "reference": "manual"
+    },
+    {
+      "id": "H003",
+      "asset_id": "V-02",
+      "text": "Routine inspection / Inspección rutinaria",
+      "reference": "inspection"
+    },
+    {
+      "id": "H004",
+      "asset_id": "P-01",
+      "text": "Duplicate possible / Posible duplicado",
+      "reference": "manual"
+    },
+    {
+      "id": "H005",
+      "asset_id": "M-04",
+      "text": "Urgent safety concern / Urgencia de seguridad",
+      "reference": "manual"
+    }
+  ]
+}

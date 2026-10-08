@@ -1,0 +1,9 @@
+Pace rollout by consequence and reversibility. Start with a permitted boundary, observe exceptions, and retain a known manual path. Define triggers for disable, rollback, and escalation before the incident. A backup is useful only if restoration works. For production, evaluate restoration, retention, monitoring, identity, and operating support in the actual environment. The course prototype intentionally demonstrates the questions without claiming all those controls are complete.
+
+The API becomes unavailable during a shift. Agents can still use the category sheet. Maya disables assistance, Luis diagnoses the service, and the event enters the learning log. The team can continue operating while the feature recovers.
+
+Pause the video and complete this exercise before opening the worked response. Write a recovery trigger, immediate action, responsible owner, and evidence required to resume.
+
+Trigger: repeated failed requests or an unauthorized action. Immediate action: disable assistance and use manual review. Owner: Maya for workflow continuity and Luis for technical recovery. Resume only after the relevant fault is corrected, boundary tests pass, and the owner confirms readiness. A production recovery drill would need the real environment and approved operating procedures.
+
+What should be defined before rollout? A. Disable triggers and a manual fallback B. A guaranteed zero-failure promise C. An assumption that the owner is always available. The best answer is A. Recovery design is part of readiness.

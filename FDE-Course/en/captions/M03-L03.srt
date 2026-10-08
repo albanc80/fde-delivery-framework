@@ -1,0 +1,114 @@
+1
+00:00:00,000 --> 00:00:03,093
+An outcome measure needs companion guardrails.
+
+2
+00:00:03,163 --> 00:00:06,129
+Review speed alone can reward careless routing.
+
+3
+00:00:06,199 --> 00:00:10,572
+Define quality, exceptions, coverage,
+and workload as appropriate.
+
+4
+00:00:10,642 --> 00:00:14,482
+Keep the analysis unit consistent
+and compare similar tasks.
+
+5
+00:00:14,552 --> 00:00:19,629
+A small synthetic sample supports a course
+decision, not a population estimate.
+
+6
+00:00:19,699 --> 00:00:25,758
+Calculate improvement transparently and state
+whether it represents capacity, cost, or another
+
+7
+00:00:25,828 --> 00:00:32,143
+benefit. Time released becomes cash savings only
+through an additional organizational mechanism.
+
+8
+00:00:32,213 --> 00:00:38,314
+A change from 20 to 12 minutes is eight minutes
+less per review and a 40 percent reduction in
+
+9
+00:00:38,384 --> 00:00:39,728
+the sample median.
+
+10
+00:00:39,798 --> 00:00:43,723
+It does not establish a 40 percent
+reduction in staffing cost.
+
+11
+00:00:43,793 --> 00:00:48,167
+Two wrong queues in twelve tasks would
+violate the case quality threshold.
+
+12
+00:00:48,237 --> 00:00:53,015
+Pause the video and complete this exercise
+before opening the worked response.
+
+13
+00:00:53,085 --> 00:00:59,016
+Calculate relative improvement and write one
+supported claim and one claim the evidence cannot
+
+14
+00:00:59,086 --> 00:01:00,110
+support.
+
+15
+00:01:00,180 --> 00:01:05,748
+The calculation is twenty minus twelve,
+divided by twenty, which equals forty percent.
+
+16
+00:01:05,818 --> 00:01:09,829
+Supported: median review time
+fell in this synthetic comparison.
+
+17
+00:01:09,899 --> 00:01:12,907
+Unsupported: payroll fell by forty percent.
+
+18
+00:01:12,977 --> 00:01:15,899
+Add sample size and error rate to the report.
+
+19
+00:01:15,969 --> 00:01:20,300
+If time falls but errors exceed the
+guardrail, iterate rather than land.
+
+20
+00:01:20,370 --> 00:01:23,485
+What does released review
+time establish directly?
+
+21
+00:01:23,555 --> 00:01:26,392
+A. A guaranteed reduction in payroll B.
+
+22
+00:01:26,462 --> 00:01:28,937
+Time capacity in the measured scope C.
+
+23
+00:01:29,007 --> 00:01:30,948
+Universal model accuracy.
+
+24
+00:01:31,018 --> 00:01:32,490
+The best answer is B.
+
+25
+00:01:32,560 --> 00:01:36,720
+Financial realization is a
+separate claim requiring evidence.

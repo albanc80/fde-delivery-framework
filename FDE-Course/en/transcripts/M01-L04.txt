@@ -1,0 +1,9 @@
+This course uses fictional evidence and a local prototype. You will practice a complete delivery loop while maintaining the distinction between simulated and field evidence. Each lesson produces something that feeds the next decision. Keep a dated journal, store your first prediction before examining later evidence, and separate your submission from the worked solution. Completion can demonstrate learning in this environment. Production competence also requires experience with real constraints, users, ownership, and consequences.
+
+Northstar has a fictional baseline of 20 minutes per ticket review. A later sample reports 12 minutes. These values exist for practicing measurement and judgment. They are neither market benchmarks nor promises about AI productivity.
+
+Pause the video and complete this exercise before opening the worked response. Create a dated learning journal with headings for evidence, assumptions, predictions, observed results, and decisions.
+
+A useful first entry says: known within the case, twenty agents handle three ticket categories. Assumed, routing suggestions will save review time. Unknown, whether agents will use them consistently. Next action, observe a simulated review and test one end-to-end suggestion. No real customer outcome has been established. Preserve this entry when later evidence changes your view.
+
+How should you describe the sample numbers? A. Verified industry benchmarks B. Guaranteed productivity gains C. Fictional data for an exercise. The best answer is C. The case is an educational simulation. Do not convert its values into commercial proof.

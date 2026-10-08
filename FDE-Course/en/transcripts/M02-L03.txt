@@ -1,0 +1,9 @@
+Tag important claims by evidence status. Known means supported within the available evidence and scope. Assumed means temporarily used to proceed. Unknown means material information remains missing. Attach a source and date to known claims. Identify a test and owner for important assumptions. Conflicting accounts stay visible until you understand differences in context or authority. The observed-versus-reported distinction helps investigation, but one observation does not establish universal behavior.
+
+Maya says everyone uses the category sheet. A shift observation shows three agents using private notes instead. API documents describe a current endpoint, but Luis says its production permissions are still pending.
+
+Pause the video and complete this exercise before opening the worked response. Tag four claims and identify the next test for the largest uncertainty.
+
+Known in this observed shift: three agents used private notes. Reported: Maya believes the sheet is universal. Unknown: usage across other shifts. Known from Luis: production access is pending, subject to confirmation by Priya. Next test: observe another shift and compare category sources. Avoid rewriting the statement as nobody uses the sheet.
+
+What does one observed shift establish? A. The behavior observed in that shift B. All agents always act that way C. The manager is dishonest. The best answer is A. Keep the claim proportional to its evidence.

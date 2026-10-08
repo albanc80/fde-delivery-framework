@@ -1,0 +1,9 @@
+La inmersión sigue el trabajo real. Rastrea un elemento desde su origen hasta la decisión e identifica traspasos, captura repetida, espera y excepciones. Pide al operador una demostración y realiza una versión permitida de la tarea. Observa lo que sucede antes y después de la solución. Una integración puede funcionar y agregar otra cola o confirmación. Documenta el proceso completo para evitar que una mejora local esconda trabajo adicional.
+
+Un agente lee el ticket, consulta la cuenta, revisa una tabla de categorías, asigna la cola y registra el motivo. Copiar toma dos minutos, pero esperar un permiso puede tomar un día. Son problemas que requieren intervenciones distintas.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Representa el proceso en pasos. Marca una demora, un traspaso, una captura duplicada y una excepción.
+
+El mapa incluye recepción, consulta de cuenta, selección de categoría, asignación y registro. La espera de permisos pertenece al gobierno del acceso. La consulta repetida de categorías pertenece a la ayuda de asignación. Conserva ambos problemas y prueba primero una incertidumbre. Una herramienta que reduce consultas no puede afirmar que eliminó la demora de permisos.
+
+¿Por qué revisar los pasos posteriores a la herramienta? A. Para agregar funciones B. Para identificar trabajo desplazado y efectos posteriores C. Para evitar hablar con operadores. La mejor respuesta es B. El pensamiento sistémico examina la consecuencia en el proceso completo.

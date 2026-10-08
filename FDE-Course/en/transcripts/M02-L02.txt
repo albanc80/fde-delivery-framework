@@ -1,0 +1,9 @@
+Immerse follows actual work. Trace one item from origin to decision and identify handoffs, re-entry, waiting, and exception handling. Ask an operator to show the task and attempt a permitted version yourself. Observe what happens before and after the proposed solution. An integration can succeed technically while adding another queue or another confirmation step. Capture the entire workflow boundary so local improvement does not hide additional work elsewhere.
+
+An agent reads a ticket, looks up the account, checks a category sheet, assigns a queue, and records the reason. Copying takes two minutes, but waiting for permission can take a day. The two delays require different interventions.
+
+Pause the video and complete this exercise before opening the worked response. Draw the workflow as ordered steps. Mark a delay, a handoff, a duplicate entry, and an exception.
+
+The working map includes intake, account lookup, category selection, queue assignment, and decision recording. A permission delay belongs to access governance. Repeated category lookup belongs to routing assistance. Keep both visible, but test one uncertainty first. A tool that saves lookup time should not claim it removed the permission delay.
+
+Why trace the steps after the new tool? A. To add more features B. To identify displaced work and downstream effects C. To avoid talking to operators. The best answer is B. Systems thinking checks the complete workflow consequence.

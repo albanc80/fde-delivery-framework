@@ -1,0 +1,9 @@
+Clasifica las afirmaciones importantes según su evidencia. Conocido significa respaldado dentro del alcance disponible. Supuesto significa aceptado provisionalmente para avanzar. Desconocido significa información relevante faltante. Agrega fuente y fecha a lo conocido. Define prueba y responsable para los supuestos importantes. Mantén visibles las versiones contradictorias hasta comprender sus contextos. Observar conducta ayuda a investigar, pero una observación no demuestra comportamiento universal.
+
+Maya afirma que todos usan la tabla de categorías. En un turno observas que tres agentes usan notas privadas. La documentación describe un endpoint vigente, pero Luis indica que sus permisos productivos siguen pendientes.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Clasifica cuatro afirmaciones y define la próxima prueba para la incertidumbre principal.
+
+Conocido en el turno observado: tres agentes usaron notas privadas. Reportado: Maya considera universal el uso de la tabla. Desconocido: conducta en otros turnos. Reportado por Luis: falta acceso productivo, pendiente de confirmar con Priya. Próxima prueba: observar otro turno y comparar fuentes de categorías. Evita concluir que nadie utiliza la tabla.
+
+¿Qué demuestra un turno observado? A. La conducta de ese turno B. Que todos actúan siempre igual C. Que la responsable miente. La mejor respuesta es A. Ajusta el alcance de la afirmación a la evidencia.

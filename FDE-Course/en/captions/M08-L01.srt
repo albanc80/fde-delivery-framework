@@ -1,0 +1,109 @@
+1
+00:00:00,000 --> 00:00:03,776
+Constraint injection tests whether
+the delivery plan can adapt.
+
+2
+00:00:03,846 --> 00:00:09,691
+Revisit the frame, uncertainty, authority, and
+smallest useful action when conditions change.
+
+3
+00:00:09,761 --> 00:00:13,324
+A new restriction does not
+justify bypassing controls.
+
+4
+00:00:13,394 --> 00:00:17,277
+Choose a permitted fallback and
+state which claims it can still test.
+
+5
+00:00:17,347 --> 00:00:20,909
+Record the change, its effect
+on evidence, and the next gate.
+
+6
+00:00:20,979 --> 00:00:26,569
+A synthetic fallback can test workflow design
+but cannot prove a production integration now
+
+7
+00:00:26,639 --> 00:00:27,727
+unavailable.
+
+8
+00:00:27,797 --> 00:00:30,165
+Priya prohibits external model calls.
+
+9
+00:00:30,235 --> 00:00:34,480
+Luis reports the customer API
+will be unavailable this week.
+
+10
+00:00:34,550 --> 00:00:36,491
+The sponsor still wants progress.
+
+11
+00:00:36,561 --> 00:00:41,191
+The rule-based synthetic prototype
+can continue testing review behavior.
+
+12
+00:00:41,261 --> 00:00:46,039
+Pause the video and complete this exercise
+before opening the worked response.
+
+13
+00:00:46,109 --> 00:00:51,635
+Revise the plan while preserving a useful
+experiment and an honest evidence boundary.
+
+14
+00:00:51,705 --> 00:00:53,945
+Use the local dataset and rules.
+
+15
+00:00:54,015 --> 00:00:57,812
+Test usability, category
+logic, validation, and logging.
+
+16
+00:00:57,882 --> 00:01:01,615
+Mark production integration
+and model benefit untested.
+
+17
+00:01:01,685 --> 00:01:04,843
+Keep a future integration
+gate with Luis and Priya.
+
+18
+00:01:04,913 --> 00:01:10,523
+This fallback creates progress without pretending
+it exercised the blocked customer systems.
+
+19
+00:01:10,593 --> 00:01:12,620
+What can a synthetic fallback prove?
+
+20
+00:01:12,690 --> 00:01:15,847
+A. Selected behavior within the simulation B.
+
+21
+00:01:15,917 --> 00:01:17,901
+Customer API readiness C.
+
+22
+00:01:17,971 --> 00:01:19,678
+Production access approval.
+
+23
+00:01:19,748 --> 00:01:21,199
+The best answer is A.
+
+24
+00:01:21,269 --> 00:01:23,509
+The fallback’s scope governs its claims.

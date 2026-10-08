@@ -1,0 +1,113 @@
+1
+00:00:00,000 --> 00:00:05,227
+The ladder progresses through apprentice,
+builder, deployment owner, multiplier, and system
+
+2
+00:00:05,297 --> 00:00:09,649
+designer. Its exit tests concern
+observable work in context.
+
+3
+00:00:09,719 --> 00:00:13,601
+Course completion does not
+automatically satisfy those tests.
+
+4
+00:00:13,671 --> 00:00:18,429
+Use the daily, weekly, monthly, and
+quarterly cadence as a development aid.
+
+5
+00:00:18,499 --> 00:00:23,128
+Select a manageable practice commitment,
+collect evidence, and seek feedback.
+
+6
+00:00:23,198 --> 00:00:29,193
+Real workplace practice should respect data
+access, customer confidentiality, operating
+
+7
+00:00:29,263 --> 00:00:31,695
+authority, and applicable procedures.
+
+8
+00:00:31,765 --> 00:00:35,925
+A learner finishes the prototype and
+calls themselves a deployment owner.
+
+9
+00:00:35,995 --> 00:00:40,731
+They have not worked with real users or
+performed an outcome reading after production
+
+10
+00:00:40,801 --> 00:00:46,987
+adoption. Their portfolio demonstrates simulated
+practice, with field evidence still pending.
+
+11
+00:00:47,057 --> 00:00:51,836
+Pause the video and complete this exercise
+before opening the worked response.
+
+12
+00:00:51,906 --> 00:00:58,071
+Write a 30-day practice plan with one user
+observation, one prediction, and one review of
+
+13
+00:00:58,141 --> 00:00:59,187
+evidence.
+
+14
+00:00:59,257 --> 00:01:03,353
+Week one: observe a permitted
+workflow and map the actual decision.
+
+15
+00:01:03,423 --> 00:01:06,388
+Week two: co-author a
+small frame with its owner.
+
+16
+00:01:06,458 --> 00:01:10,959
+Week three: run an authorized bounded
+experiment with a written prediction.
+
+17
+00:01:11,029 --> 00:01:14,997
+Week four: compare results and
+identify one reusable lesson.
+
+18
+00:01:15,067 --> 00:01:20,678
+If workplace access is unavailable, use a
+second simulation and label it accordingly.
+
+19
+00:01:20,748 --> 00:01:24,332
+Does course completion establish
+the deployment- owner stage?
+
+20
+00:01:24,402 --> 00:01:27,367
+A. No, the stage requires field evidence B.
+
+21
+00:01:27,437 --> 00:01:29,528
+Yes, after watching videos C.
+
+22
+00:01:29,598 --> 00:01:31,667
+Yes, if the self-rating is high.
+
+23
+00:01:31,737 --> 00:01:33,188
+The best answer is A.
+
+24
+00:01:33,258 --> 00:01:37,759
+Keep educational achievement separate
+from verified career capability.

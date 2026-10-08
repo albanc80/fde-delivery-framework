@@ -1,0 +1,118 @@
+1
+00:00:00,000 --> 00:00:01,749
+Immerse follows actual work.
+
+2
+00:00:01,819 --> 00:00:08,305
+Trace one item from origin to decision and
+identify handoffs, re-entry, waiting, and exception
+
+3
+00:00:08,375 --> 00:00:13,580
+handling. Ask an operator to show the task
+and attempt a permitted version yourself.
+
+4
+00:00:13,650 --> 00:00:17,191
+Observe what happens before and
+after the proposed solution.
+
+5
+00:00:17,261 --> 00:00:22,467
+An integration can succeed technically while
+adding another queue or another confirmation
+
+6
+00:00:22,537 --> 00:00:28,446
+step. Capture the entire workflow boundary so
+local improvement does not hide additional work
+
+7
+00:00:28,516 --> 00:00:29,476
+elsewhere.
+
+8
+00:00:29,546 --> 00:00:35,029
+An agent reads a ticket, looks up the account,
+checks a category sheet, assigns a queue, and
+
+9
+00:00:35,099 --> 00:00:36,379
+records the reason.
+
+10
+00:00:36,449 --> 00:00:40,331
+Copying takes two minutes, but
+waiting for permission can take a day.
+
+11
+00:00:40,401 --> 00:00:43,068
+The two delays require different interventions.
+
+12
+00:00:43,138 --> 00:00:47,917
+Pause the video and complete this exercise
+before opening the worked response.
+
+13
+00:00:47,987 --> 00:00:50,013
+Draw the workflow as ordered steps.
+
+14
+00:00:50,083 --> 00:00:53,923
+Mark a delay, a handoff, a
+duplicate entry, and an exception.
+
+15
+00:00:53,993 --> 00:00:59,455
+The working map includes intake, account lookup,
+category selection, queue assignment, and
+
+16
+00:00:59,525 --> 00:01:00,911
+decision recording.
+
+17
+00:01:00,981 --> 00:01:03,947
+A permission delay belongs to access governance.
+
+18
+00:01:04,017 --> 00:01:07,750
+Repeated category lookup
+belongs to routing assistance.
+
+19
+00:01:07,820 --> 00:01:11,041
+Keep both visible, but
+test one uncertainty first.
+
+20
+00:01:11,111 --> 00:01:15,762
+A tool that saves lookup time should not
+claim it removed the permission delay.
+
+21
+00:01:15,832 --> 00:01:18,008
+Why trace the steps after the new tool?
+
+22
+00:01:18,078 --> 00:01:19,870
+A. To add more features B.
+
+23
+00:01:19,940 --> 00:01:23,353
+To identify displaced work
+and downstream effects C.
+
+24
+00:01:23,423 --> 00:01:25,450
+To avoid talking to operators.
+
+25
+00:01:25,520 --> 00:01:26,992
+The best answer is B.
+
+26
+00:01:27,062 --> 00:01:30,497
+Systems thinking checks the
+complete workflow consequence.

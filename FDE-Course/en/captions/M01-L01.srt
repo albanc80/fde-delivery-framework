@@ -1,0 +1,131 @@
+1
+00:00:00,000 --> 00:00:05,483
+A forward deployed engineer works close to the
+people who bear the consequences of a system.
+
+2
+00:00:05,553 --> 00:00:11,398
+The responsibility extends from understanding
+an ambiguous request to helping the operation
+
+3
+00:00:11,468 --> 00:00:13,153
+adopt a useful change.
+
+4
+00:00:13,223 --> 00:00:15,229
+Technical work remains essential.
+
+5
+00:00:15,299 --> 00:00:21,144
+The difference is the boundary of ownership: a
+deployed feature is an intermediate milestone.
+
+6
+00:00:21,214 --> 00:00:27,657
+An outcome requires observable workflow change,
+a responsible operator, and evidence collected
+
+7
+00:00:27,727 --> 00:00:29,007
+after adoption.
+
+8
+00:00:29,077 --> 00:00:34,239
+Keep these boundaries visible when stakeholders
+celebrate a successful demonstration.
+
+9
+00:00:34,309 --> 00:00:37,211
+Northstar Support asks for an AI assistant.
+
+10
+00:00:37,281 --> 00:00:40,971
+Twenty agents handle access,
+billing, and incident tickets.
+
+11
+00:00:41,041 --> 00:00:46,119
+A polished demo receives applause, but
+agents still copy tickets into a spreadsheet.
+
+12
+00:00:46,189 --> 00:00:51,117
+The deployer has delivered software while
+the operating workflow remains unchanged.
+
+13
+00:00:51,187 --> 00:00:55,965
+Pause the video and complete this exercise
+before opening the worked response.
+
+14
+00:00:56,035 --> 00:01:01,433
+Write one statement describing the delivery
+milestone and another describing the operating
+
+15
+00:01:01,503 --> 00:01:03,828
+outcome. Name who could verify each.
+
+16
+00:01:03,898 --> 00:01:09,445
+Delivery: the authorized reviewer can load
+a ticket and inspect a routing suggestion.
+
+17
+00:01:09,515 --> 00:01:15,019
+Outcome: agents use that suggestion in their
+actual queue, with lower review time and no
+
+18
+00:01:15,089 --> 00:01:16,646
+increase in misrouting.
+
+19
+00:01:16,716 --> 00:01:19,340
+The engineering lead verifies delivery.
+
+20
+00:01:19,410 --> 00:01:22,461
+Maya, the support lead, owns adoption evidence.
+
+21
+00:01:22,531 --> 00:01:28,504
+A screenshot supports the first statement; a
+defined observation period and review records
+
+22
+00:01:28,574 --> 00:01:29,875
+support the second.
+
+23
+00:01:29,945 --> 00:01:32,761
+Which evidence best supports an adopted outcome?
+
+24
+00:01:32,831 --> 00:01:34,815
+A. A successful demo B.
+
+25
+00:01:34,885 --> 00:01:38,512
+Observed workflow use and
+predefined outcome measures C.
+
+26
+00:01:38,582 --> 00:01:40,225
+A completed code review.
+
+27
+00:01:40,295 --> 00:01:41,767
+The best answer is B.
+
+28
+00:01:41,837 --> 00:01:45,847
+A demo and a code review show
+intermediate delivery evidence.
+
+29
+00:01:45,917 --> 00:01:49,117
+Adoption requires behavior
+and operating measures.

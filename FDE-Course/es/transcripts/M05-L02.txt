@@ -1,0 +1,9 @@
+La decisión de revisión transforma evidencia en acción. Despliega cuando la hipótesis funciona y se cumplen condiciones operativas. Itera si el mecanismo sigue siendo plausible y una falla limitada puede corregirse. Cambia el enfoque cuando la evidencia apunta a otro problema. Detén cuando falta valor o se supera un límite inaceptable. Justifica con evidencia, riesgo, reversibilidad y la siguiente prueba observable.
+
+Aparecen tres variantes: mejora velocidad y se duplican errores; las categorías no ayudan porque domina la consulta de cuentas; y un prototipo envía respuestas sin autorización. Cada falla exige una decisión distinta.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Asigna una decisión a cada variante y define la próxima acción.
+
+Itera sobre errores si puedes probar una corrección específica con seguridad. Cambia hacia consulta de cuentas cuando la evidencia modifica el mecanismo. Detén respuestas sin autorización y restablece aprobación antes de probar. La detención puede ser temporal, pero seguir igual ignoraría la evidencia.
+
+¿Cómo responder a una acción no autorizada? A. Detener la acción y recuperar el límite B. Ignorarla si mejoró rapidez C. Cambiar la métrica. La mejor respuesta es A. Un promedio favorable no compensa una violación de autoridad.

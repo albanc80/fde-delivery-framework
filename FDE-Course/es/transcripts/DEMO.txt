@@ -1,0 +1,9 @@
+Esta demostración utiliza la aplicación local real del laboratorio Northstar. Iníciala con Docker Compose, abre revisión e ingresa el token de formación de la guía. Los datos son sintéticos. Las reglas permiten comprender la línea base. La aplicación no tiene un canal para enviar mensajes a clientes.
+
+Un token incorrecto produce una respuesta no autorizada. El límite se aplica antes de clasificar. Un ticket no puede otorgar permisos mediante instrucciones. Este control local demuestra la pregunta de autoridad. Identidad empresarial y aprobación de datos productivos necesitan una implementación independiente.
+
+Con el token permitido, el ticket recibe una sugerencia de acceso. La respuesta incluye identificador, explicación y revisión humana requerida. Todavía no existe una decisión operativa registrada. Examina el texto y la cola antes de continuar.
+
+El revisor cambia la sugerencia a manual y guarda la decisión. El registro conserva cola elegida e identificador de sugerencia. Guardar de nuevo no debe duplicar la decisión. No se envía mensaje. Una modificación puede aportar aprendizaje si se comprende su motivo.
+
+Las métricas distinguen sugerencias de decisiones. El tiempo aparece sin medir y la adopción sin demostrar. Son límites honestos. Para evaluar el encuadre, define comparación cronometrada y un período de uso elegible. El comportamiento funcional y el resultado adoptado requieren evidencia diferente.

@@ -1,0 +1,116 @@
+1
+00:00:00,000 --> 00:00:03,499
+Sense occurs again after
+Land and an adoption period.
+
+2
+00:00:03,569 --> 00:00:08,731
+The second reading asks whether the Frame Card
+outcome appears in the operator’s workflow.
+
+3
+00:00:08,801 --> 00:00:14,177
+Distinguish available software, attempted
+use, reviewed decisions, and sustained use.
+
+4
+00:00:14,247 --> 00:00:19,218
+Count eligible work rather than all work
+if the tool serves only one category.
+
+5
+00:00:19,288 --> 00:00:22,595
+Examine overrides and
+abandonment alongside speed.
+
+6
+00:00:22,665 --> 00:00:28,467
+The original prediction remains the comparison
+point unless a documented change occurred
+
+7
+00:00:28,537 --> 00:00:29,881
+before the new test.
+
+8
+00:00:29,951 --> 00:00:34,325
+Two weeks later, forty of one hundred
+eligible tickets use assistance.
+
+9
+00:00:34,395 --> 00:00:40,496
+Completed assisted reviews remain faster, but
+adoption is below the pre-agreed 70 percent
+
+10
+00:00:40,566 --> 00:00:42,102
+exercise threshold.
+
+11
+00:00:42,172 --> 00:00:45,991
+The tool is available without
+achieving the full adoption target.
+
+12
+00:00:46,061 --> 00:00:50,839
+Pause the video and complete this exercise
+before opening the worked response.
+
+13
+00:00:50,909 --> 00:00:54,771
+Write the second delta entry and
+recommend the next gate decision.
+
+14
+00:00:54,841 --> 00:01:00,131
+Observed adoption is forty percent, using
+eligible tickets as the denominator.
+
+15
+00:01:00,201 --> 00:01:04,148
+Investigate friction and incentives
+with agents before scaling.
+
+16
+00:01:04,218 --> 00:01:07,610
+Iterate on workflow fit while
+preserving quality checks.
+
+17
+00:01:07,680 --> 00:01:13,504
+Do not erase the seventy percent threshold or
+report only the successful assisted subset.
+
+18
+00:01:13,574 --> 00:01:18,182
+The second reading prevents a technically
+successful slice from becoming an unsupported
+
+19
+00:01:18,252 --> 00:01:19,489
+outcome claim.
+
+20
+00:01:19,559 --> 00:01:21,863
+What does the second Sense reading evaluate?
+
+21
+00:01:21,933 --> 00:01:24,365
+A. Only whether the code compiles B.
+
+22
+00:01:24,435 --> 00:01:26,483
+Only prototype accuracy C.
+
+23
+00:01:26,553 --> 00:01:28,836
+Outcome and adoption after landing.
+
+24
+00:01:28,906 --> 00:01:30,314
+The best answer is C.
+
+25
+00:01:30,384 --> 00:01:33,925
+The second reading checks the
+operating consequence over time.

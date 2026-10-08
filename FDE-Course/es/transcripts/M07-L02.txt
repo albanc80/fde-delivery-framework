@@ -1,0 +1,9 @@
+Un componente reutilizable tiene un contrato claro. Separa comportamiento estable de configuración específica. Validación, identificadores de correlación y decisiones sin duplicados pueden generalizar mejor que las categorías de Northstar. Documenta entradas, salidas, fallas, pruebas y supuestos. La reutilización requiere mantenimiento y versiones. Copiar archivos sin responsabilidad puede multiplicar defectos.
+
+La función de asignación contiene palabras por categoría. El contrato de eventos es más general: cada sugerencia admite una sola decisión. Puedes reutilizarlo sin copiar categorías.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Propón un componente con interfaz, pruebas, responsable y configuración local.
+
+Componente: registro de decisiones. Entrada: identificador existente y cola permitida. Salida: identificador auditable. Fallas: sugerencia desconocida, decisión duplicada o cola inválida. Prueba cada condición. Los nombres de colas quedan como configuración. Identifica mantenedor y registra una nueva versión al cambiar comportamiento contractual.
+
+¿Qué elemento se reutiliza mejor entre dominios? A. El nombre del patrocinador B. La lista fija de palabras de acceso C. Un contrato probado de registro de decisiones. La mejor respuesta es C. Los contratos estables se transfieren mejor que supuestos locales.

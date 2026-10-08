@@ -1,0 +1,9 @@
+El proyecto aplica el ciclo a Harbor Maintenance. Un patrocinador pide IA para asignar solicitudes. Hay urgencias, activos faltantes, duplicados y un supervisor responsable de prioridades. Los procedimientos de seguridad conservan autoridad. No automatices control operativo. Primero descubre y encuadra. El proyecto usa registros sintéticos y evalúa evidencia, autoridad y un flujo útil.
+
+El patrocinador quiere cierre automático. El supervisor busca revisión más rápida y rechaza cambios automáticos de prioridad. Los registros contienen duplicados y activos faltantes. Incluye estas diferencias en el mapa.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Usa el encargo y la evidencia por etapas. Entrega mapa y encuadre antes de ver resultados posteriores.
+
+Un encuadre defendible reduce revisión del supervisor manteniendo sus decisiones de prioridad y cierre. Identificadores faltantes requieren aclaración. Detectar duplicados ayuda y no elimina solicitudes en silencio. Las urgencias pasan a revisión humana según procedimientos existentes. Documenta límites antes de implementar.
+
+¿Quién conserva autoridad sobre prioridad? A. El texto de la solicitud B. El supervisor autorizado C. La regla más rápida. La mejor respuesta es B. La herramienta apoya sin asumir autoridad operativa.

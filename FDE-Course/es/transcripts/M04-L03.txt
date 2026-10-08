@@ -1,0 +1,9 @@
+Registra lo necesario para diagnosticar sin copiar texto sensible innecesario. El laboratorio guarda tipo de evento, identificador del ticket y sugerencia, cola y fecha. Una sugerencia y una decisión revisada significan cosas diferentes. Usa identificadores de correlación para conectarlas. Evita decisiones duplicadas y exige una sugerencia existente. Cuenta eventos y conserva el denominador. Más sugerencias no necesariamente generan más valor.
+
+Existen diez sugerencias, pero solo cuatro decisiones guardadas. Reportar diez revisiones exitosas oculta seis interacciones incompletas. Una modificación puede demostrar recuperación útil, no necesariamente una falla.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Genera una sugerencia, cambia su cola y guarda la decisión. Intenta guardarla de nuevo y revisa eventos.
+
+El registro debe contener una sugerencia y una decisión con el mismo identificador. La modificación conserva la cola elegida sin afirmar que la sugerencia inicial era correcta. El duplicado produce conflicto y no aumenta el conteo. Las fechas muestran ejecución, pero el resultado del encuadre aún necesita medición independiente.
+
+¿Qué evento demuestra una elección registrada? A. Sugerencia creada B. Decisión guardada C. Disponibilidad confirmada. La mejor respuesta es B. Distingue generación, revisión y resultados operativos.

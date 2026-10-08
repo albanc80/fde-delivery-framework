@@ -1,0 +1,9 @@
+Diagnose behavior before attaching a label. The framework names eleven failures, including parachuting, going native, silent assumptions, moving goalposts, fragile prototypes, bespoke loops, and hero dependency. Use the symptom to select a counter and an observable test. External review helps preserve critical distance after immersion. Do not classify disagreement as going native simply because a colleague challenges your proposed solution.
+
+The team removes the quality threshold after errors appear. A prototype runs without an owner. Every rule change depends on the original engineer. Each symptom maps to a different failure mode.
+
+Pause the video and complete this exercise before opening the worked response. Name each failure, its counter, and evidence that the counter worked.
+
+Moving goalposts: restore the timestamped threshold and publish the complete result. Fragile prototype: hold landing until an owner and support conditions exist. Hero dependency: teach the maintainer and test an independent rule update. The correction needs behavior evidence, not merely a newly written policy.
+
+Which symptom indicates moving goalposts? A. Writing a prediction before acting B. Rejecting malformed input C. Changing success criteria after seeing results. The best answer is C. Post-result threshold changes distort the experiment.

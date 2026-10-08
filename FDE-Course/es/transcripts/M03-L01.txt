@@ -1,0 +1,9 @@
+La declaración del resultado identifica usuario, proceso, situación actual, condición deseada, métrica y restricciones. Escríbela con el operador. Utiliza una medida que reconozca y define su denominador. Separa el resultado de la tecnología propuesta. Desplegar IA describe una solución. Reducir el tiempo de revisión manteniendo la calidad deja espacio para elegir la intervención útil más sencilla.
+
+La línea base ficticia es una mediana de 20 minutos en doce revisiones. El equipo propone una mediana máxima de 14 minutos para una muestra asistida equivalente y hasta un error en doce decisiones. Son umbrales del ejercicio acordados antes de leer resultados.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Escribe la declaración y define tiempo de revisión, tamaño de muestra y error de asignación.
+
+Para agentes de soporte, reducir la mediana de revisión de 20 a un máximo de 14 minutos en doce tareas simuladas comparables, manteniendo aprobación humana y hasta una cola incorrecta. El tiempo inicia al abrir el ticket y termina al guardar la decisión. Una cola incorrecta implica desacuerdo con la etiqueta de referencia del caso después de resolver ambigüedades.
+
+¿Qué encuadre permite elegir la solución? A. Desplegar un agente de IA B. Reducir el tiempo definido bajo restricciones de calidad C. Usar el modelo más reciente. La mejor respuesta es B. Un encuadre de resultado permite comparar intervenciones.

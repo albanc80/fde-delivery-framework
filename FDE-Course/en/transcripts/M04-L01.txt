@@ -1,0 +1,9 @@
+A thin slice crosses the whole path from real-shaped input to usable output while keeping scope small. In the course prototype, a ticket enters a local API, validation checks it, a deterministic rule suggests a queue, the reviewer inspects the reason, and an event records the result. We start with rules to establish an understandable baseline. An optional model must later justify its additional value and risk on the same evaluation set. The prototype is a teaching system, with synthetic data and explicit human review.
+
+An architecture diagram with five services tests no operating assumption by itself. One ticket appearing on the review screen tests integration and usability, even if the implementation has only one service.
+
+Pause the video and complete this exercise before opening the worked response. Run the lab with Docker Compose. Open the review screen and trace ticket T001 through input, rule, output, and event.
+
+The complete path uses POST /api/triage, returns a suggestion with human_review_required set to true, and writes a suggestion event. Saving an accepted or overridden decision produces a separate event. Inspect both rather than treating generation as adoption. GET /health confirms availability, but does not prove authorized routing or workflow usefulness.
+
+What makes the slice complete? A. Many services B. A working input-to-reviewed-output path C. An attractive architecture diagram. The best answer is B. Completeness concerns the value path, while thinness concerns scope.

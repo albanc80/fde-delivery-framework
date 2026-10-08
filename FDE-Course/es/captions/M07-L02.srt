@@ -1,0 +1,113 @@
+1
+00:00:00,000 --> 00:00:03,200
+Un componente reutilizable
+tiene un contrato claro.
+
+2
+00:00:03,270 --> 00:00:06,982
+Separa comportamiento estable
+de configuración específica.
+
+3
+00:00:07,052 --> 00:00:12,364
+Validación, identificadores de correlación y
+decisiones sin duplicados pueden generalizar
+
+4
+00:00:12,434 --> 00:00:14,610
+mejor que las categorías de Northstar.
+
+5
+00:00:14,680 --> 00:00:18,243
+Documenta entradas, salidas,
+fallas, pruebas y supuestos.
+
+6
+00:00:18,313 --> 00:00:21,513
+La reutilización requiere
+mantenimiento y versiones.
+
+7
+00:00:21,583 --> 00:00:25,316
+Copiar archivos sin responsabilidad
+puede multiplicar defectos.
+
+8
+00:00:25,386 --> 00:00:28,778
+La función de asignación
+contiene palabras por categoría.
+
+9
+00:00:28,848 --> 00:00:34,075
+El contrato de eventos es más general:
+cada sugerencia admite una sola decisión.
+
+10
+00:00:34,145 --> 00:00:36,918
+Puedes reutilizarlo sin copiar categorías.
+
+11
+00:00:36,988 --> 00:00:42,023
+Pausa el video y completa el ejercicio
+antes de consultar la respuesta comentada.
+
+12
+00:00:42,093 --> 00:00:46,701
+Propón un componente con interfaz,
+pruebas, responsable y configuración local.
+
+13
+00:00:46,771 --> 00:00:48,989
+Componente: registro de decisiones.
+
+14
+00:00:49,059 --> 00:00:52,302
+Entrada: identificador
+existente y cola permitida.
+
+15
+00:00:52,372 --> 00:00:54,527
+Salida: identificador auditable.
+
+16
+00:00:54,597 --> 00:00:58,842
+Fallas: sugerencia desconocida,
+decisión duplicada o cola inválida.
+
+17
+00:00:58,912 --> 00:01:00,384
+Prueba cada condición.
+
+18
+00:01:00,454 --> 00:01:03,227
+Los nombres de colas quedan como configuración.
+
+19
+00:01:03,297 --> 00:01:08,588
+Identifica mantenedor y registra una nueva
+versión al cambiar comportamiento contractual.
+
+20
+00:01:08,658 --> 00:01:11,581
+¿Qué elemento se reutiliza mejor entre dominios?
+
+21
+00:01:11,651 --> 00:01:13,720
+A. El nombre del patrocinador B.
+
+22
+00:01:13,790 --> 00:01:16,286
+La lista fija de palabras de acceso C.
+
+23
+00:01:16,356 --> 00:01:19,215
+Un contrato probado de registro de decisiones.
+
+24
+00:01:19,285 --> 00:01:21,034
+La mejor respuesta es C.
+
+25
+00:01:21,104 --> 00:01:25,179
+Los contratos estables se transfieren
+mejor que supuestos locales.

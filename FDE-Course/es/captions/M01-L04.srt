@@ -1,0 +1,131 @@
+1
+00:00:00,000 --> 00:00:03,861
+Este curso utiliza evidencia
+ficticia y un prototipo local.
+
+2
+00:00:03,931 --> 00:00:08,987
+Practicarás un ciclo completo de entrega
+manteniendo la diferencia entre simulación y
+
+3
+00:00:09,057 --> 00:00:10,423
+evidencia de campo.
+
+4
+00:00:10,493 --> 00:00:13,949
+Cada lección produce un elemento
+para la siguiente decisión.
+
+5
+00:00:14,019 --> 00:00:19,480
+Conserva un diario fechado, escribe tu predicción
+antes de consultar evidencia posterior y
+
+6
+00:00:19,550 --> 00:00:22,259
+separa tu entrega de la solución comentada.
+
+7
+00:00:22,329 --> 00:00:25,892
+Completar el curso demuestra
+aprendizaje en este entorno.
+
+8
+00:00:25,962 --> 00:00:31,381
+La competencia productiva exige experiencia
+con restricciones, usuarios y consecuencias
+
+9
+00:00:31,451 --> 00:00:32,219
+reales.
+
+10
+00:00:32,289 --> 00:00:36,470
+Northstar tiene una línea base
+ficticia de 20 minutos por revisión.
+
+11
+00:00:36,540 --> 00:00:39,441
+Una muestra posterior registra 12 minutos.
+
+12
+00:00:39,511 --> 00:00:42,861
+Estos valores permiten
+practicar medición y criterio.
+
+13
+00:00:42,931 --> 00:00:46,941
+No son referencias de mercado ni
+promesas de productividad con IA.
+
+14
+00:00:47,011 --> 00:00:52,046
+Pausa el video y completa el ejercicio
+antes de consultar la respuesta comentada.
+
+15
+00:00:52,116 --> 00:00:57,215
+Crea un diario fechado con secciones de
+evidencia, supuestos, predicciones, resultados
+
+16
+00:00:57,285 --> 00:00:58,970
+observados y decisiones.
+
+17
+00:00:59,040 --> 00:01:04,437
+Una primera entrada útil dice: conocido
+dentro del caso, veinte agentes manejan tres
+
+18
+00:01:04,507 --> 00:01:08,475
+categorías. Supuesto, las
+sugerencias reducirán la revisión.
+
+19
+00:01:08,545 --> 00:01:12,065
+Desconocido, si los agentes
+las usarán consistentemente.
+
+20
+00:01:12,135 --> 00:01:17,746
+Próxima acción, observar una revisión simulada
+y probar una sugerencia de extremo a extremo.
+
+21
+00:01:17,816 --> 00:01:20,717
+Todavía no existe un resultado real de cliente.
+
+22
+00:01:20,787 --> 00:01:24,627
+Conserva esta entrada cuando la
+evidencia cambie tu interpretación.
+
+23
+00:01:24,697 --> 00:01:27,236
+¿Cómo debes describir los números del caso?
+
+24
+00:01:27,306 --> 00:01:30,271
+A. Referencias industriales verificadas B.
+
+25
+00:01:30,341 --> 00:01:32,816
+Mejoras de productividad garantizadas C.
+
+26
+00:01:32,886 --> 00:01:35,062
+Datos ficticios para un ejercicio.
+
+27
+00:01:35,132 --> 00:01:36,881
+La mejor respuesta es C.
+
+28
+00:01:36,951 --> 00:01:39,383
+El caso es una simulación educativa.
+
+29
+00:01:39,453 --> 00:01:42,504
+Sus valores no constituyen evidencia comercial.

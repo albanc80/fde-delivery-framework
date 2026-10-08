@@ -1,0 +1,9 @@
+Este curso utiliza evidencia ficticia y un prototipo local. Practicarás un ciclo completo de entrega manteniendo la diferencia entre simulación y evidencia de campo. Cada lección produce un elemento para la siguiente decisión. Conserva un diario fechado, escribe tu predicción antes de consultar evidencia posterior y separa tu entrega de la solución comentada. Completar el curso demuestra aprendizaje en este entorno. La competencia productiva exige experiencia con restricciones, usuarios y consecuencias reales.
+
+Northstar tiene una línea base ficticia de 20 minutos por revisión. Una muestra posterior registra 12 minutos. Estos valores permiten practicar medición y criterio. No son referencias de mercado ni promesas de productividad con IA.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Crea un diario fechado con secciones de evidencia, supuestos, predicciones, resultados observados y decisiones.
+
+Una primera entrada útil dice: conocido dentro del caso, veinte agentes manejan tres categorías. Supuesto, las sugerencias reducirán la revisión. Desconocido, si los agentes las usarán consistentemente. Próxima acción, observar una revisión simulada y probar una sugerencia de extremo a extremo. Todavía no existe un resultado real de cliente. Conserva esta entrada cuando la evidencia cambie tu interpretación.
+
+¿Cómo debes describir los números del caso? A. Referencias industriales verificadas B. Mejoras de productividad garantizadas C. Datos ficticios para un ejercicio. La mejor respuesta es C. El caso es una simulación educativa. Sus valores no constituyen evidencia comercial.

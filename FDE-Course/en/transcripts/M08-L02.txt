@@ -1,0 +1,9 @@
+Translation preserves truth while changing the level of detail. Operators need task consequences and recovery. Engineers need contracts, failure modes, and dependencies. Executives need the decision, evidence, risk, and next commitment. Every version should keep the same authority boundary and uncertainty. Compress the messy context into one page. If one audience hears a stronger promise than another, the translation has changed the decision rather than clarified it.
+
+The system generates reviewable routing suggestions using synthetic data. It has not been approved for production. That limit must appear in the executive summary as clearly as in the engineering note.
+
+Pause the video and complete this exercise before opening the worked response. Write a three-sentence explanation for an operator, engineer, and executive.
+
+Operator: review the queue suggestion, override when needed, and save your choice; use manual triage if unavailable. Engineer: the local API validates input, keeps review separate, and records correlated events; production controls remain pending. Executive: the synthetic test supports a bounded pilot hypothesis; authorize the next access review rather than claiming customer savings.
+
+What must remain constant across audiences? A. Every technical detail B. The facts, limits, and decision C. The same word count. The best answer is B. Compression changes emphasis, not evidence.

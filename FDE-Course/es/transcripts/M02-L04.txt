@@ -1,0 +1,9 @@
+El mapa del entorno reúne decisión, personas, proceso, tecnología, datos, restricciones, incentivos e historia. El reconocimiento crea la versión cero. La inmersión la verifica y produce la versión uno. Registra el estado de verificación y conserva los vacíos. Examina los incentivos: automatizar puede eliminar trabajo visible y aumentar responsabilidad o preocupación laboral. El mapa orienta decisiones. Destaca las dependencias del experimento y quién puede resolverlas.
+
+Los agentes temen que una clasificación más rápida se convierta en una meta individual. Maya busca asignación confiable. Priya necesita límites de datos. Luis requiere una alternativa documentada. Estos intereses condicionan la adopción.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Completa los ocho campos del mapa. Marca lo pendiente como desconocido y agrega una acción.
+
+El mapa identifica a Maya como responsable del proceso, Priya como autorizadora y Luis como mantenedor de la API. Registra datos sintéticos como límite del curso, aprobación humana como condición, notas privadas como conducta observada y permisos productivos como asunto pendiente. La próxima acción es revisar el encuadre con operadores antes de integrar producción.
+
+¿Qué debe aparecer en un campo pendiente? A. Una respuesta inventada plausible B. Nada, para aparentar un mapa completo C. Desconocido, responsable y acción de verificación. La mejor respuesta es C. La incertidumbre visible permite actuar sobre el mapa.

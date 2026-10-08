@@ -1,0 +1,9 @@
+The capstone transfers the loop to Harbor Maintenance. A sponsor asks for an AI assistant to route maintenance requests. The workflow includes urgent conditions, missing asset identifiers, duplicate requests, and a supervisor who owns priority decisions. Keep safety procedures authoritative and do not automate operational control. Your first task is discovery and framing. The capstone uses synthetic records and evaluates how well you preserve evidence and authority while building a usable path.
+
+The sponsor wants automated closure. The supervisor needs faster review and refuses automatic priority changes. Historical records include duplicates and missing asset IDs. These differences must appear in your Site Map.
+
+Pause the video and complete this exercise before opening the worked response. Use the capstone brief and staged evidence pack. Submit a Site Map and Frame Card before opening later results.
+
+A defensible frame targets supervisor review time while preserving authorized priority and closure decisions. Missing identifiers require a clarification path. Duplicate detection supports the reviewer but does not silently delete a request. Any urgent safety text routes to human assessment under existing procedures. Record these as design boundaries before implementation.
+
+Who retains maintenance priority authority? A. The ticket text B. The authorized supervisor C. The fastest routing rule. The best answer is B. The tool assists review without assuming operating authority.

@@ -1,0 +1,119 @@
+1
+00:00:00,000 --> 00:00:05,376
+The eight capabilities cover discovery,
+signal extraction, systems thinking, technical
+
+2
+00:00:05,446 --> 00:00:10,374
+breadth, delivery judgment, translation and
+trust, shipped learning, and ownership and
+
+3
+00:00:10,444 --> 00:00:13,729
+compounding. Treat these
+as observable behaviors.
+
+4
+00:00:13,799 --> 00:00:19,559
+A portfolio should show the problem you clarified,
+a complete working path, a consequential
+
+5
+00:00:19,629 --> 00:00:24,280
+trade-off, a prediction made before
+action, and a reusable contribution.
+
+6
+00:00:24,350 --> 00:00:27,443
+Self-ratings identify practice priorities.
+
+7
+00:00:27,513 --> 00:00:32,015
+They do not independently verify
+readiness or replace evidence from work.
+
+8
+00:00:32,085 --> 00:00:37,077
+You can implement APIs quickly but have
+never observed users after rollout.
+
+9
+00:00:37,147 --> 00:00:42,203
+Another learner writes strong discovery
+notes but cannot get data to a usable screen.
+
+10
+00:00:42,273 --> 00:00:47,862
+Both have a specific practice gap, rather than
+one overall score that explains everything.
+
+11
+00:00:47,932 --> 00:00:52,711
+Pause the video and complete this exercise
+before opening the worked response.
+
+12
+00:00:52,781 --> 00:00:54,658
+Choose your weakest capability.
+
+13
+00:00:54,728 --> 00:01:00,189
+Define a behavior that another person could
+observe and a course artifact that demonstrates
+
+14
+00:01:00,259 --> 00:01:00,878
+it.
+
+15
+00:01:00,948 --> 00:01:06,452
+For adoption ownership, the behavior is scheduling
+and conducting an outcome reading with the
+
+16
+00:01:06,522 --> 00:01:07,781
+operating owner.
+
+17
+00:01:07,851 --> 00:01:14,059
+The artifact is a dated adoption record with
+actual usage, exception handling, and a decision.
+
+18
+00:01:14,129 --> 00:01:19,867
+For technical breadth, demonstrate the input-to-
+output flow and diagnose a failed request.
+
+19
+00:01:19,937 --> 00:01:25,697
+The capability equation in the source is a
+teaching heuristic, not a validated numerical
+
+20
+00:01:25,767 --> 00:01:27,154
+performance formula.
+
+21
+00:01:27,224 --> 00:01:29,443
+What makes a capability claim stronger?
+
+22
+00:01:29,513 --> 00:01:31,411
+A. A high self-rating B.
+
+23
+00:01:31,481 --> 00:01:34,020
+A behavior someone else can verify C.
+
+24
+00:01:34,090 --> 00:01:35,690
+Memorizing the framework.
+
+25
+00:01:35,760 --> 00:01:37,232
+The best answer is B.
+
+26
+00:01:37,302 --> 00:01:41,035
+Independent observation is
+stronger than confidence alone.

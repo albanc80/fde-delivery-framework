@@ -1,0 +1,6 @@
+{
+  "synthetic": true,
+  "integration_available": false,
+  "external_model_calls_allowed": false,
+  "permitted_fallback": "local synthetic fixture with unchanged human authority"
+}

@@ -1,0 +1,103 @@
+1
+00:00:00,000 --> 00:00:05,696
+El paquete contiene patrón, componente, método,
+señal de producto, capacidad local y cambio de
+
+2
+00:00:05,766 --> 00:00:06,875
+interpretación.
+
+3
+00:00:06,945 --> 00:00:11,767
+La capacidad exige operadores que ejecuten
+y adapten sin el ingeniero original.
+
+4
+00:00:11,837 --> 00:00:15,591
+Prueba transferencia con
+explicación inversa o recuperación.
+
+5
+00:00:15,661 --> 00:00:18,605
+Documentar ayuda, pero no demuestra capacidad.
+
+6
+00:00:18,675 --> 00:00:23,262
+Conserva un sistema de retroalimentación
+para actualizar ante excepciones nuevas.
+
+7
+00:00:23,332 --> 00:00:28,836
+Maya explica cómo desactivar, volver a revisión
+manual, examinar errores y pedir cambios.
+
+8
+00:00:28,906 --> 00:00:31,381
+Luis recupera el servicio con la guía.
+
+9
+00:00:31,451 --> 00:00:36,165
+La demostración aporta más evidencia
+que recibir una presentación de entrega.
+
+10
+00:00:36,235 --> 00:00:41,270
+Pausa el video y completa el ejercicio
+antes de consultar la respuesta comentada.
+
+11
+00:00:41,340 --> 00:00:45,137
+Completa las seis partes y diseña
+una prueba de transferencia.
+
+12
+00:00:45,207 --> 00:00:49,047
+Pide al operador responder a una
+indisponibilidad sin contactarte.
+
+13
+00:00:49,117 --> 00:00:52,339
+Pide al mantenedor explicar
+una entrada rechazada.
+
+14
+00:00:52,409 --> 00:00:55,779
+Registra capacidad, vacíos
+y responsable del método.
+
+15
+00:00:55,849 --> 00:01:01,353
+Actualización: la exactitud necesita integración
+y modificaciones confiables para producir
+
+16
+00:01:01,423 --> 00:01:04,922
+utilidad. El siguiente ciclo
+parte de ese encuadre revisado.
+
+17
+00:01:04,992 --> 00:01:08,128
+¿Qué evidencia respalda
+una transferencia exitosa?
+
+18
+00:01:08,198 --> 00:01:09,947
+A. Una carpeta extensa B.
+
+19
+00:01:10,017 --> 00:01:13,239
+El ingeniero original sigue
+siendo único contacto C.
+
+20
+00:01:13,309 --> 00:01:16,466
+Los operadores recuperan de forma independiente.
+
+21
+00:01:16,536 --> 00:01:18,285
+La mejor respuesta es C.
+
+22
+00:01:18,355 --> 00:01:22,110
+La capacidad demostrada importa
+más que el volumen documental.

@@ -1,0 +1,9 @@
+El despliegue requiere una persona que opere el sistema. Identifica responsabilidades, escalamiento, excepciones y autoridad para desactivarlo. Escribir un nombre no basta. La persona necesita contexto, acceso, capacidad y tiempo. Conserva tu responsabilidad durante adopción y transfiere capacidad práctica para evitar dependencia personal.
+
+Maya administra la cola, pero solo Luis puede recuperar el servicio. Si Luis falta, los agentes necesitan alternativa manual y contacto de escalamiento. Un responsable sin recuperación no opera de forma independiente.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Escribe una tabla de responsabilidades y una guía de una página con alternativa manual.
+
+La guía describe verificación de disponibilidad, solicitudes fallidas, versión de reglas, consulta manual, escalamiento a Luis y condiciones para desactivar asistencia. Maya decide desactivar dentro de su autoridad operativa. Priya controla cambios de acceso. Una rotación cubre ausencias y evita depender del ingeniero original.
+
+¿Qué vuelve operativa la responsabilidad? A. Un nombre en una diapositiva B. Autoridad, capacidad, acceso y recuperación C. Que el ingeniero siempre esté conectado. La mejor respuesta es B. La responsabilidad debe resistir ausencias y fallas normales.

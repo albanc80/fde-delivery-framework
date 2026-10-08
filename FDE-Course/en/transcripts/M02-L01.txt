@@ -1,0 +1,9 @@
+Recon starts with hypotheses and questions. Convert the request into the decision it creates. Identify who can decide, who experiences consequences, who knows the workflow, and who benefits. These roles often belong to different people. Find previous attempts before proposing a solution. Distinguish physical constraints from political conditions and habits. A habit may change. A permission requirement still governs your action even when it is organizational rather than physical.
+
+A sponsor says, build AI. Maya says, reduce repeated triage. Luis owns the ticket API. Priya approves data access. Agents explain why the previous automation failed: it sent plausible but incorrect replies and increased their checking work.
+
+Pause the video and complete this exercise before opening the worked response. Write a draft decision statement and five discovery questions. Keep the proposed solution provisional.
+
+Decision: should Northstar test routing assistance to reduce review effort while preserving human approval? Ask where review time accumulates, how categories are chosen, what caused prior errors, who can authorize data, and how success will be observed. This draft can change during immersion. It is narrower and more testable than a commitment to an AI assistant.
+
+Which is a useful Recon output? A. A provisional decision and questions B. A fixed architecture C. A promised savings figure. The best answer is A. Recon supplies a starting hypothesis for field investigation.

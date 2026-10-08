@@ -1,0 +1,132 @@
+1
+00:00:00,000 --> 00:00:03,648
+This course uses fictional
+evidence and a local prototype.
+
+2
+00:00:03,718 --> 00:00:08,838
+You will practice a complete delivery loop while
+maintaining the distinction between simulated
+
+3
+00:00:08,908 --> 00:00:10,295
+and field evidence.
+
+4
+00:00:10,365 --> 00:00:13,799
+Each lesson produces something
+that feeds the next decision.
+
+5
+00:00:13,869 --> 00:00:19,203
+Keep a dated journal, store your first
+prediction before examining later evidence, and
+
+6
+00:00:19,273 --> 00:00:21,769
+separate your submission
+from the worked solution.
+
+7
+00:00:21,839 --> 00:00:25,273
+Completion can demonstrate
+learning in this environment.
+
+8
+00:00:25,343 --> 00:00:31,573
+Production competence also requires experience
+with real constraints, users, ownership, and
+
+9
+00:00:31,643 --> 00:00:32,859
+consequences.
+
+10
+00:00:32,929 --> 00:00:37,174
+Northstar has a fictional baseline
+of 20 minutes per ticket review.
+
+11
+00:00:37,244 --> 00:00:39,548
+A later sample reports 12 minutes.
+
+12
+00:00:39,618 --> 00:00:43,095
+These values exist for practicing
+measurement and judgment.
+
+13
+00:00:43,165 --> 00:00:47,944
+They are neither market benchmarks
+nor promises about AI productivity.
+
+14
+00:00:48,014 --> 00:00:52,793
+Pause the video and complete this exercise
+before opening the worked response.
+
+15
+00:00:52,863 --> 00:00:58,644
+Create a dated learning journal with headings
+for evidence, assumptions, predictions, observed
+
+16
+00:00:58,714 --> 00:01:00,207
+results, and decisions.
+
+17
+00:01:00,277 --> 00:01:05,504
+A useful first entry says: known within
+the case, twenty agents handle three ticket
+
+18
+00:01:05,574 --> 00:01:10,075
+categories. Assumed, routing
+suggestions will save review time.
+
+19
+00:01:10,145 --> 00:01:13,303
+Unknown, whether agents
+will use them consistently.
+
+20
+00:01:13,373 --> 00:01:18,535
+Next action, observe a simulated review
+and test one end-to-end suggestion.
+
+21
+00:01:18,605 --> 00:01:21,507
+No real customer outcome has been established.
+
+22
+00:01:21,577 --> 00:01:25,054
+Preserve this entry when later
+evidence changes your view.
+
+23
+00:01:25,124 --> 00:01:27,257
+How should you describe the sample numbers?
+
+24
+00:01:27,327 --> 00:01:29,802
+A. Verified industry benchmarks B.
+
+25
+00:01:29,872 --> 00:01:32,048
+Guaranteed productivity gains C.
+
+26
+00:01:32,118 --> 00:01:34,230
+Fictional data for an exercise.
+
+27
+00:01:34,300 --> 00:01:35,708
+The best answer is C.
+
+28
+00:01:35,778 --> 00:01:38,487
+The case is an educational simulation.
+
+29
+00:01:38,557 --> 00:01:41,459
+Do not convert its values into commercial proof.

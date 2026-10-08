@@ -1,0 +1,125 @@
+1
+00:00:00,000 --> 00:00:05,760
+The framework gives six postures: own the
+outcome, stay close to reality, act to learn, know
+
+2
+00:00:05,830 --> 00:00:09,585
+what you know, trade off on purpose,
+and leave capability behind.
+
+3
+00:00:09,655 --> 00:00:11,617
+Apply them to an actual choice.
+
+4
+00:00:11,687 --> 00:00:17,213
+Ask whose result matters, what you observed,
+which experiment reduces uncertainty, which
+
+5
+00:00:17,283 --> 00:00:22,701
+claims remain assumptions, what risk you are
+accepting, and what will remain useful when you
+
+6
+00:00:22,771 --> 00:00:29,086
+leave. A principle becomes practical when it
+changes scope, evidence, authority, or sequencing.
+
+7
+00:00:29,156 --> 00:00:32,249
+The sponsor requests
+automatic replies this Friday.
+
+8
+00:00:32,319 --> 00:00:38,058
+You have permission to analyze synthetic tickets
+but no authority to send customer messages.
+
+9
+00:00:38,128 --> 00:00:41,371
+Maya agrees to test
+suggestions with human review.
+
+10
+00:00:41,441 --> 00:00:45,089
+The security reviewer has not
+assessed production data access.
+
+11
+00:00:45,159 --> 00:00:49,937
+Pause the video and complete this exercise
+before opening the worked response.
+
+12
+00:00:50,007 --> 00:00:51,799
+Select a Friday deliverable.
+
+13
+00:00:51,869 --> 00:00:56,179
+Explain its learning value, authority
+boundary, and reusable output.
+
+14
+00:00:56,249 --> 00:01:01,241
+Deliver one synthetic ticket flowing through
+a routing rule, a review screen, and an
+
+15
+00:01:01,311 --> 00:01:02,761
+observable decision.
+
+16
+00:01:02,831 --> 00:01:05,498
+Record a prediction about review usefulness.
+
+17
+00:01:05,568 --> 00:01:07,125
+Do not send messages.
+
+18
+00:01:07,195 --> 00:01:10,566
+Keep the data validation
+and audit helper reusable.
+
+19
+00:01:10,636 --> 00:01:16,439
+This accepts limited scope and avoids committing
+the organization to an unreviewed action
+
+20
+00:01:16,509 --> 00:01:20,882
+channel. It also creates a measurable
+question for the next experiment.
+
+21
+00:01:20,952 --> 00:01:23,235
+Which choice respects the permission boundary?
+
+22
+00:01:23,305 --> 00:01:26,910
+A. Send replies because the
+sponsor requested speed B.
+
+23
+00:01:26,980 --> 00:01:30,095
+Use production data without telling security C.
+
+24
+00:01:30,165 --> 00:01:33,322
+Test a reviewable suggestion
+with permitted data.
+
+25
+00:01:33,392 --> 00:01:34,800
+The best answer is C.
+
+26
+00:01:34,870 --> 00:01:36,897
+Speed does not expand authority.
+
+27
+00:01:36,967 --> 00:01:40,252
+The permitted experiment still
+produces useful evidence.

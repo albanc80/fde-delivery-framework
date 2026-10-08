@@ -1,0 +1,91 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.483
+Una intervención mínima recorre todo el flujo,
+desde una entrada representativa hasta una
+
+00:00:05.553 --> 00:00:07.814
+salida útil, con alcance limitado.
+
+00:00:07.884 --> 00:00:13.388
+En el prototipo, un ticket entra a una API
+local, pasa validaciones, una regla determinista
+
+00:00:13.458 --> 00:00:18.301
+sugiere una cola, el revisor examina el
+motivo y un evento registra el resultado.
+
+00:00:18.371 --> 00:00:21.976
+Usamos reglas para establecer
+una línea base comprensible.
+
+00:00:22.046 --> 00:00:26.611
+Un modelo opcional deberá justificar
+valor y riesgo en la misma evaluación.
+
+00:00:26.681 --> 00:00:31.375
+El prototipo es didáctico, con datos
+sintéticos y revisión humana explícita.
+
+00:00:31.445 --> 00:00:36.330
+Un diagrama con cinco servicios no prueba
+por sí solo una hipótesis operativa.
+
+00:00:36.400 --> 00:00:41.563
+Mostrar un ticket en la pantalla de revisión
+prueba integración y utilidad, aunque exista un
+
+00:00:41.633 --> 00:00:42.699
+solo servicio.
+
+00:00:42.769 --> 00:00:47.804
+Pausa el video y completa el ejercicio
+antes de consultar la respuesta comentada.
+
+00:00:47.874 --> 00:00:50.562
+Ejecuta el laboratorio con Docker Compose.
+
+00:00:50.632 --> 00:00:54.493
+Rastrea T001 por entrada,
+regla, salida y evento.
+
+00:00:54.563 --> 00:01:01.966
+El flujo usa POST /api/triage, devuelve una
+sugerencia con human_review_required en true y
+
+00:01:02.036 --> 00:01:03.423
+registra un evento.
+
+00:01:03.493 --> 00:01:07.461
+Guardar una decisión aceptada o
+modificada genera otro evento.
+
+00:01:07.531 --> 00:01:11.307
+Examina ambos. Generar una
+sugerencia no demuestra adopción.
+
+00:01:11.377 --> 00:01:17.606
+GET /health confirma disponibilidad, pero no
+demuestra asignación autorizada ni utilidad
+
+00:01:17.676 --> 00:01:18.636
+operativa.
+
+00:01:18.706 --> 00:01:20.903
+¿Qué hace completo al flujo mínimo?
+
+00:01:20.973 --> 00:01:22.595
+A. Muchos servicios B.
+
+00:01:22.665 --> 00:01:25.715
+Una entrada que llega a una salida revisada C.
+
+00:01:25.785 --> 00:01:27.300
+Un diagrama atractivo.
+
+00:01:27.370 --> 00:01:29.119
+La mejor respuesta es B.
+
+00:01:29.189 --> 00:01:33.648
+La integridad se refiere al flujo
+útil; lo mínimo se refiere al alcance.

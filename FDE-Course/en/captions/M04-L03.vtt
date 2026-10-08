@@ -1,0 +1,90 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.205
+Log enough to diagnose the path without
+copying unnecessary sensitive text.
+
+00:00:05.275 --> 00:00:11.206
+The lab records event type, ticket identifier,
+suggestion identifier, queue, and timestamp.
+
+00:00:11.276 --> 00:00:14.668
+A suggestion and a reviewed
+decision have different meanings.
+
+00:00:14.738 --> 00:00:18.066
+Keep correlation identifiers
+so you can connect them.
+
+00:00:18.136 --> 00:00:23.661
+Prevent duplicate decisions and require the
+decision to reference an existing suggestion.
+
+00:00:23.731 --> 00:00:27.529
+Metrics should count events honestly
+and retain their denominator.
+
+00:00:27.599 --> 00:00:31.865
+More suggestions do not necessarily
+mean more operating value.
+
+00:00:31.935 --> 00:00:35.733
+Ten suggestions exist, but
+only four decisions were saved.
+
+00:00:35.803 --> 00:00:40.347
+Reporting ten successful reviews
+hides six incomplete interactions.
+
+00:00:40.417 --> 00:00:45.601
+One override may indicate a useful
+recovery path rather than a system failure.
+
+00:00:45.671 --> 00:00:50.449
+Pause the video and complete this exercise
+before opening the worked response.
+
+00:00:50.519 --> 00:00:56.727
+Generate a suggestion, override its queue, save
+the decision, then attempt a duplicate save.
+
+00:00:56.797 --> 00:00:58.056
+Inspect events.
+
+00:00:58.126 --> 00:01:03.950
+The log should contain one suggestion and one
+decision with the same suggestion identifier.
+
+00:01:04.020 --> 00:01:09.844
+The override records the chosen queue without
+pretending the original suggestion was correct.
+
+00:01:09.914 --> 00:01:14.650
+The duplicate request returns a conflict
+and does not increase decision count.
+
+00:01:14.720 --> 00:01:19.989
+Event timestamps show execution, but a separate
+measurement design is still needed for the
+
+00:01:20.059 --> 00:01:21.510
+Frame Card outcome.
+
+00:01:21.580 --> 00:01:24.289
+Which event proves a reviewer recorded a choice?
+
+00:01:24.359 --> 00:01:26.301
+A. Suggestion created B.
+
+00:01:26.371 --> 00:01:27.821
+Decision saved C.
+
+00:01:27.891 --> 00:01:29.257
+Health check passed.
+
+00:01:29.327 --> 00:01:30.799
+The best answer is B.
+
+00:01:30.869 --> 00:01:34.197
+Separate generation, review,
+and operating outcomes.

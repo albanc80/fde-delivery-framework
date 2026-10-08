@@ -1,0 +1,9 @@
+Adapta el laboratorio a mantenimiento conservando validación, revisión humana y decisiones auditables. Escribe incertidumbre y predicción primero. Implementa solo el flujo útil mínimo. Aplica después la restricción: una integración falla y se prohíben modelos externos. Demuestra alternativa permitida y evidencia faltante. Puedes usar reglas o un modelo opcional aprobado, justificando complejidad adicional.
+
+La integración falla antes de revisar. Un archivo local conserva el contrato de entrada. Demuestra revisión, pero no confiabilidad de integración real. Registra ambas cosas.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Entrega código, pruebas, predicción fechada y decisión revisada ante la restricción.
+
+La alternativa usa datos sintéticos, valida activos, marca urgencias para supervisor y guarda decisiones revisadas. Predicción y evidencia quedan separadas. El registro marca integración real sin probar y conserva seguridad. Una buena entrega explica cómo los controles responden al caso, además de enumerarlos.
+
+¿Qué debe conservar el informe de la alternativa? A. La afirmación de integración aprobada B. Solo capturas favorables C. La diferencia entre probado y pendiente. La mejor respuesta es C. Las alternativas cambian el alcance de evidencia.

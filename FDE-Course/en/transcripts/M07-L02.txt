@@ -1,0 +1,9 @@
+A primitive is a small reusable technical contribution with a clear contract. Separate stable behavior from customer-specific configuration. Input validation, correlation identifiers, and idempotent decision recording can generalize more easily than Northstar’s exact routing categories. Document inputs, outputs, failure behavior, tests, and assumptions. Reuse needs a maintainer and a version policy. A copied file without ownership may multiply defects rather than reduce future work.
+
+The lab routing function contains category keywords. Its event-recording contract is more general: one suggestion identifier can receive only one saved decision. You can reuse that contract without adopting the same categories.
+
+Pause the video and complete this exercise before opening the worked response. Extract a primitive proposal with interface, tests, owner, and local configuration.
+
+Primitive: decision recording. Input: an existing suggestion identifier and an allowed chosen queue. Output: an auditable decision identifier. Failures: unknown suggestion, duplicate decision, or invalid queue. Tests cover each condition. Queue names remain configuration. Name a maintainer and record a version change when contract behavior changes.
+
+Which item is most reusable across domains? A. Northstar’s sponsor name B. A fixed access-ticket keyword list C. A tested decision-recording contract. The best answer is C. Stable contracts travel better than local assumptions.

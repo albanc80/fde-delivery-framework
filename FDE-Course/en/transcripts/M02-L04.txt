@@ -1,0 +1,9 @@
+The Site Map joins decision, people, process, technology, data, constraints, incentives, and history. Recon creates version zero. Immerse checks it and produces version one. Include verification status rather than filling gaps with plausible detail. Incentives deserve explicit attention: automation may remove visible work while increasing accountability or perceived job risk. The map is a decision aid, so emphasize dependencies that affect the proposed experiment and who can resolve them.
+
+Agents fear that faster triage will become an individual performance target. Maya wants reliable routing. Priya needs a data boundary. Luis needs a documented fallback. These interests shape adoption even if the same software works for everyone.
+
+Pause the video and complete this exercise before opening the worked response. Complete all eight Site Map fields. Leave unresolved facts explicitly unknown and attach a next action.
+
+The completed map names Maya as workflow owner, Priya as access approver, and Luis as API maintainer. It records synthetic data as the course boundary, human approval as a fixed experimental condition, private notes as an observed behavior, and production permissions as unresolved. The next action is an operator review of the frame before any production integration.
+
+What belongs in an unresolved field? A. A plausible invented answer B. Nothing, so the map looks complete C. Unknown, owner, and verification action. The best answer is C. Visible uncertainty makes the map actionable.

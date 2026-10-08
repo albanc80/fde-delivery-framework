@@ -1,0 +1,9 @@
+Un ingeniero de despliegue trabaja cerca de quienes viven las consecuencias de un sistema. Su responsabilidad abarca desde comprender una solicitud ambigua hasta ayudar a la operación a adoptar un cambio útil. El trabajo técnico sigue siendo esencial. La diferencia está en el alcance de la responsabilidad: una función desplegada es un hito intermedio. Un resultado requiere un cambio observable en el trabajo, un responsable operativo y evidencia posterior a la adopción. Mantén claros estos límites cuando una demostración reciba aprobación.
+
+Northstar Support solicita un asistente de IA. Veinte agentes atienden tickets de acceso, facturación e incidentes. Una demostración recibe aplausos, pero los agentes siguen copiando los tickets a una hoja de cálculo. Se entregó software y el proceso operativo continúa igual.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Escribe una declaración del hito de entrega y otra del resultado operativo. Identifica quién puede verificar cada una.
+
+Entrega: el revisor autorizado puede cargar un ticket y examinar una sugerencia de asignación. Resultado: los agentes usan la sugerencia en su cola real, reducen el tiempo de revisión y mantienen la calidad. El líder técnico verifica la entrega. Maya, responsable de soporte, verifica la adopción. Una captura respalda la primera afirmación; un período de observación definido y registros de revisión respaldan la segunda.
+
+¿Qué evidencia respalda mejor un resultado adoptado? A. Una demostración exitosa B. Uso observado y métricas definidas de antemano C. Una revisión de código completada. La mejor respuesta es B. La demostración y la revisión de código muestran avances de entrega. La adopción exige conducta observable y métricas operativas.

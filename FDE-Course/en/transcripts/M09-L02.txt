@@ -1,0 +1,9 @@
+Adapt the lab contract to maintenance requests while preserving validation, human review, and auditable decisions. State the key uncertainty and prediction first. Implement only the smallest complete path that addresses it. Then apply the constraint card: an integration is unavailable and external model calls are prohibited. Demonstrate the permitted fallback and explain which evidence remains unavailable. Your implementation may use rules or an approved optional model, but the comparison must justify any added complexity.
+
+The integration fails just before the review. A local fixture preserves the input contract. It demonstrates review behavior but cannot establish live integration reliability. Your decision record should say both.
+
+Pause the video and complete this exercise before opening the worked response. Submit working code, test evidence, a timestamped prediction, and a revised decision after the constraint.
+
+The fallback uses synthetic fixtures, validates asset identifiers, flags urgent text for the supervisor, and saves reviewed decisions. Prediction and evidence remain separate. The record names live integration as untested and preserves the original safety boundary. A good submission explains why these controls address the case rather than merely listing features.
+
+What must the fallback report preserve? A. The claim that integration passed B. Only the favorable screenshots C. The distinction between tested and untested behavior. The best answer is C. Fallbacks change the evidence boundary.

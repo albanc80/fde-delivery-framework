@@ -1,0 +1,105 @@
+1
+00:00:00,000 --> 00:00:02,923
+Diagnose behavior before attaching a label.
+
+2
+00:00:02,993 --> 00:00:08,795
+The framework names eleven failures, including
+parachuting, going native, silent assumptions,
+
+3
+00:00:08,865 --> 00:00:13,900
+moving goalposts, fragile prototypes,
+bespoke loops, and hero dependency.
+
+4
+00:00:13,970 --> 00:00:17,725
+Use the symptom to select a
+counter and an observable test.
+
+5
+00:00:17,795 --> 00:00:21,848
+External review helps preserve
+critical distance after immersion.
+
+6
+00:00:21,918 --> 00:00:27,443
+Do not classify disagreement as going native
+simply because a colleague challenges your
+
+7
+00:00:27,513 --> 00:00:28,857
+proposed solution.
+
+8
+00:00:28,927 --> 00:00:32,511
+The team removes the quality
+threshold after errors appear.
+
+9
+00:00:32,581 --> 00:00:34,885
+A prototype runs without an owner.
+
+10
+00:00:34,955 --> 00:00:38,347
+Every rule change depends
+on the original engineer.
+
+11
+00:00:38,417 --> 00:00:40,977
+Each symptom maps to a different failure mode.
+
+12
+00:00:41,047 --> 00:00:45,826
+Pause the video and complete this exercise
+before opening the worked response.
+
+13
+00:00:45,896 --> 00:00:49,992
+Name each failure, its counter, and
+evidence that the counter worked.
+
+14
+00:00:50,062 --> 00:00:55,246
+Moving goalposts: restore the timestamped
+threshold and publish the complete result.
+
+15
+00:00:55,316 --> 00:01:00,521
+Fragile prototype: hold landing until
+an owner and support conditions exist.
+
+16
+00:01:00,591 --> 00:01:05,733
+Hero dependency: teach the maintainer
+and test an independent rule update.
+
+17
+00:01:05,803 --> 00:01:10,411
+The correction needs behavior evidence,
+not merely a newly written policy.
+
+18
+00:01:10,481 --> 00:01:12,870
+Which symptom indicates moving goalposts?
+
+19
+00:01:12,940 --> 00:01:15,628
+A. Writing a prediction before acting B.
+
+20
+00:01:15,698 --> 00:01:17,746
+Rejecting malformed input C.
+
+21
+00:01:17,816 --> 00:01:21,059
+Changing success criteria after seeing results.
+
+22
+00:01:21,129 --> 00:01:22,537
+The best answer is C.
+
+23
+00:01:22,607 --> 00:01:26,105
+Post-result threshold changes
+distort the experiment.

@@ -1,0 +1,96 @@
+1
+00:00:00,000 --> 00:00:04,224
+Una diferencia antes-después no
+identifica por sí sola causalidad.
+
+2
+00:00:04,294 --> 00:00:09,734
+Mezcla de tickets, personal, experiencia,
+incentivos o medición pueden explicar parte del
+
+3
+00:00:09,804 --> 00:00:13,367
+cambio. Conserva definiciones
+y compara muestras semejantes.
+
+4
+00:00:13,437 --> 00:00:17,874
+En campo, considera un diseño gradual
+o controlado adecuado al proceso.
+
+5
+00:00:17,944 --> 00:00:23,299
+En el curso puedes verificar cálculos, pero la
+evidencia sintética no demuestra efectividad
+
+6
+00:00:23,369 --> 00:00:24,091
+real.
+
+7
+00:00:24,161 --> 00:00:29,899
+El grupo asistido recibe solo tickets de acceso
+y la línea base incluye incidentes complejos.
+
+8
+00:00:29,969 --> 00:00:34,684
+La mejora aparente aumenta, aunque las
+muestras responden preguntas diferentes.
+
+9
+00:00:34,754 --> 00:00:39,789
+Pausa el video y completa el ejercicio
+antes de consultar la respuesta comentada.
+
+10
+00:00:39,859 --> 00:00:44,211
+Identifica tres explicaciones
+alternativas y revisa la comparación.
+
+11
+00:00:44,281 --> 00:00:49,017
+Complejidad, experiencia y definición de
+tiempo podrían explicar la diferencia.
+
+12
+00:00:49,087 --> 00:00:54,761
+Compara categorías equivalentes, revisores
+semejantes e idénticos eventos de inicio y fin.
+
+13
+00:00:54,831 --> 00:00:56,431
+Reporta incertidumbre.
+
+14
+00:00:56,501 --> 00:01:02,197
+Un resultado limitado explícitamente sirve más
+que una cifra precisa basada en denominadores
+
+15
+00:01:02,267 --> 00:01:03,398
+incompatibles.
+
+16
+00:01:03,468 --> 00:01:06,113
+¿Qué debilita una comparación antes-después?
+
+17
+00:01:06,183 --> 00:01:08,082
+A. Una definición escrita B.
+
+18
+00:01:08,152 --> 00:01:10,648
+Complejidad diferente entre muestras C.
+
+19
+00:01:10,718 --> 00:01:12,211
+Informar exclusiones.
+
+20
+00:01:12,281 --> 00:01:14,031
+La mejor respuesta es B.
+
+21
+00:01:14,101 --> 00:01:17,279
+La equivalencia de condiciones
+importa para interpretar.

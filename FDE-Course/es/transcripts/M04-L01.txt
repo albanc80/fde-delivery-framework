@@ -1,0 +1,9 @@
+Una intervención mínima recorre todo el flujo, desde una entrada representativa hasta una salida útil, con alcance limitado. En el prototipo, un ticket entra a una API local, pasa validaciones, una regla determinista sugiere una cola, el revisor examina el motivo y un evento registra el resultado. Usamos reglas para establecer una línea base comprensible. Un modelo opcional deberá justificar valor y riesgo en la misma evaluación. El prototipo es didáctico, con datos sintéticos y revisión humana explícita.
+
+Un diagrama con cinco servicios no prueba por sí solo una hipótesis operativa. Mostrar un ticket en la pantalla de revisión prueba integración y utilidad, aunque exista un solo servicio.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Ejecuta el laboratorio con Docker Compose. Rastrea T001 por entrada, regla, salida y evento.
+
+El flujo usa POST /api/triage, devuelve una sugerencia con human_review_required en true y registra un evento. Guardar una decisión aceptada o modificada genera otro evento. Examina ambos. Generar una sugerencia no demuestra adopción. GET /health confirma disponibilidad, pero no demuestra asignación autorizada ni utilidad operativa.
+
+¿Qué hace completo al flujo mínimo? A. Muchos servicios B. Una entrada que llega a una salida revisada C. Un diagrama atractivo. La mejor respuesta es B. La integridad se refiere al flujo útil; lo mínimo se refiere al alcance.

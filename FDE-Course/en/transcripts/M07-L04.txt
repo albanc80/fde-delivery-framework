@@ -1,0 +1,9 @@
+The distill pack contains a pattern, primitive, playbook, product signal, site capability, and model update. Site capability requires operators who can execute and adapt the workflow without the original engineer. Test handover through a teach-back or recovery exercise. Documentation helps but does not prove capability. Keep a feedback system so new exceptions lead to updates after the engagement ends.
+
+Maya explains how to disable assistance, restore manual triage, inspect errors, and request a rule change. Luis can recover the service from the runbook. Their demonstration is stronger evidence than receiving a handover deck.
+
+Pause the video and complete this exercise before opening the worked response. Complete the six-part distill pack and design a handover test.
+
+Ask the operator to respond to one unavailable-service scenario without contacting you. Ask the maintainer to explain a rejected-input trace. Record what they can do, what remains unclear, and who will maintain the playbook. Model update: accurate suggestions need integration and trusted override handling to become useful. The next loop starts from that revised frame.
+
+Which evidence best supports successful handover? A. A long documentation folder B. The original engineer remains the only responder C. Operators complete a recovery exercise independently. The best answer is C. Demonstrated capability matters more than document volume.

@@ -1,0 +1,112 @@
+1
+00:00:00,000 --> 00:00:04,117
+A product signal connects a field
+observation to a product decision.
+
+2
+00:00:04,187 --> 00:00:09,435
+Record the affected workflow, frequency
+within the observed scope, current workaround,
+
+3
+00:00:09,505 --> 00:00:11,148
+consequence, and evidence.
+
+4
+00:00:11,218 --> 00:00:14,951
+Separate a local request from a
+repeated pattern across sites.
+
+5
+00:00:15,021 --> 00:00:18,904
+Propose a product hypothesis
+and the next validation action.
+
+6
+00:00:18,974 --> 00:00:23,219
+Avoid presenting the loudest
+stakeholder’s preference as market demand.
+
+7
+00:00:23,289 --> 00:00:28,985
+Preserve disagreement and missing information
+so the product team can judge transferability.
+
+8
+00:00:29,055 --> 00:00:33,365
+Agents abandon suggestions because
+copying back to the queue adds work.
+
+9
+00:00:33,435 --> 00:00:37,125
+The product signal is a need for
+in-workflow review integration.
+
+10
+00:00:37,195 --> 00:00:42,379
+One site provides evidence of friction,
+but not yet a general market priority.
+
+11
+00:00:42,449 --> 00:00:47,228
+Pause the video and complete this exercise
+before opening the worked response.
+
+12
+00:00:47,298 --> 00:00:52,951
+Write a product-signal memo with observed
+evidence, hypothesis, and validation request.
+
+13
+00:00:53,021 --> 00:00:58,952
+Observed: forty percent of eligible tasks use
+assistance in the fictional follow-up; agents
+
+14
+00:00:59,022 --> 00:01:00,771
+report duplicate entry.
+
+15
+00:01:00,841 --> 00:01:05,108
+Hypothesis: an integrated review
+surface will increase adoption.
+
+16
+00:01:05,178 --> 00:01:10,767
+Validation: observe the current task and test
+the integrated version on a bounded sample.
+
+17
+00:01:10,837 --> 00:01:14,464
+Unknown: whether the same friction
+recurs at other customers.
+
+18
+00:01:14,534 --> 00:01:17,115
+No market-size claim follows from this case.
+
+19
+00:01:17,185 --> 00:01:20,257
+What distinguishes a product
+signal from a feature demand?
+
+20
+00:01:20,327 --> 00:01:23,506
+A. Evidence about workflow and consequences B.
+
+21
+00:01:23,576 --> 00:01:25,325
+Executive seniority C.
+
+22
+00:01:25,395 --> 00:01:26,825
+A longer feature list.
+
+23
+00:01:26,895 --> 00:01:28,345
+The best answer is A.
+
+24
+00:01:28,415 --> 00:01:31,722
+Traceable observations
+help product teams decide.

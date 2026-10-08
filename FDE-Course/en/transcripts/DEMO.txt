@@ -1,0 +1,9 @@
+This demonstration uses the actual local Northstar teaching application. Start it with Docker Compose, open the review page, and enter the course-only training token from the coding guide. The data is synthetic. The routing baseline uses understandable rules. The application has no customer messaging channel.
+
+An incorrect token produces an unauthorized response. The access boundary applies before the request reaches the routing logic. A ticket cannot grant permission by including an instruction. This local control demonstrates the question of authority. Enterprise identity and production data approval require a separate implementation.
+
+With the permitted training token, this ticket receives an access suggestion. The response includes a suggestion identifier, the rule explanation, and human review required. The suggestion has not yet become a recorded operating decision. Inspect the text and the proposed queue before continuing.
+
+Here the reviewer overrides the suggestion to manual and saves the decision. The record keeps the chosen queue and the suggestion identifier. A second save must not create another decision. No message is sent. In a real workflow, an override can provide learning evidence when its reason is understood.
+
+The metrics distinguish suggestions from saved decisions. Review time says not measured, and adoption says not established. Those are honest evidence boundaries. To evaluate the Frame Card, define a timed task comparison and a period of eligible workflow use. Functional behavior and an adopted outcome need different evidence.

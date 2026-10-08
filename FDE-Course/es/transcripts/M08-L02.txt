@@ -1,0 +1,9 @@
+La traducción conserva la verdad y cambia detalle. Operadores necesitan consecuencias y recuperación. Ingenieros requieren contratos, fallas y dependencias. Ejecutivos necesitan decisión, evidencia, riesgo y compromiso siguiente. Todas las versiones deben conservar autoridad e incertidumbre. Resume en una página. Si una audiencia recibe una promesa mayor, cambiaste la decisión en lugar de aclararla.
+
+El sistema genera sugerencias revisables con datos sintéticos. No tiene aprobación productiva. Ese límite debe aparecer claramente tanto en el resumen ejecutivo como en la nota técnica.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Escribe tres frases para operador, ingeniero y ejecutivo.
+
+Operador: revisa, modifica y guarda; utiliza clasificación manual ante indisponibilidad. Ingeniero: la API local valida, separa revisión y registra eventos correlacionados; faltan controles productivos. Ejecutivo: la prueba sintética respalda una hipótesis limitada; autoriza revisión de acceso y evita afirmar ahorro de clientes.
+
+¿Qué debe mantenerse entre audiencias? A. Cada detalle técnico B. Hechos, límites y decisión C. La misma cantidad de palabras. La mejor respuesta es B. Resumir cambia énfasis, no evidencia.

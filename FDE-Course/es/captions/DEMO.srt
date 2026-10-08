@@ -1,0 +1,116 @@
+1
+00:00:00,000 --> 00:00:04,779
+Esta demostración utiliza la aplicación
+local real del laboratorio Northstar.
+
+2
+00:00:04,849 --> 00:00:10,011
+Iníciala con Docker Compose, abre revisión
+e ingresa el token de formación de la guía.
+
+3
+00:00:10,081 --> 00:00:11,852
+Los datos son sintéticos.
+
+4
+00:00:11,922 --> 00:00:14,738
+Las reglas permiten comprender la línea base.
+
+5
+00:00:14,808 --> 00:00:18,499
+La aplicación no tiene un canal
+para enviar mensajes a clientes.
+
+6
+00:00:18,569 --> 00:00:22,153
+Un token incorrecto produce
+una respuesta no autorizada.
+
+7
+00:00:22,223 --> 00:00:24,740
+El límite se aplica antes de clasificar.
+
+8
+00:00:24,810 --> 00:00:28,309
+Un ticket no puede otorgar
+permisos mediante instrucciones.
+
+9
+00:00:28,379 --> 00:00:31,664
+Este control local demuestra
+la pregunta de autoridad.
+
+10
+00:00:31,734 --> 00:00:36,833
+Identidad empresarial y aprobación de datos
+productivos necesitan una implementación
+
+11
+00:00:36,903 --> 00:00:37,969
+independiente.
+
+12
+00:00:38,039 --> 00:00:42,029
+Con el token permitido, el ticket
+recibe una sugerencia de acceso.
+
+13
+00:00:42,099 --> 00:00:46,771
+La respuesta incluye identificador,
+explicación y revisión humana requerida.
+
+14
+00:00:46,841 --> 00:00:50,233
+Todavía no existe una
+decisión operativa registrada.
+
+15
+00:00:50,303 --> 00:00:53,247
+Examina el texto y la cola antes de continuar.
+
+16
+00:00:53,317 --> 00:00:57,071
+El revisor cambia la sugerencia
+a manual y guarda la decisión.
+
+17
+00:00:57,141 --> 00:01:01,067
+El registro conserva cola elegida
+e identificador de sugerencia.
+
+18
+00:01:01,137 --> 00:01:03,953
+Guardar de nuevo no debe duplicar la decisión.
+
+19
+00:01:04,023 --> 00:01:05,537
+No se envía mensaje.
+
+20
+00:01:05,607 --> 00:01:09,725
+Una modificación puede aportar
+aprendizaje si se comprende su motivo.
+
+21
+00:01:09,795 --> 00:01:12,867
+Las métricas distinguen
+sugerencias de decisiones.
+
+22
+00:01:12,937 --> 00:01:16,158
+El tiempo aparece sin medir
+y la adopción sin demostrar.
+
+23
+00:01:16,228 --> 00:01:17,679
+Son límites honestos.
+
+24
+00:01:17,749 --> 00:01:22,869
+Para evaluar el encuadre, define comparación
+cronometrada y un período de uso elegible.
+
+25
+00:01:22,939 --> 00:01:27,867
+El comportamiento funcional y el resultado
+adoptado requieren evidencia diferente.

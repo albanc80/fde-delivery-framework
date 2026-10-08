@@ -1,0 +1,9 @@
+Las ocho capacidades abarcan descubrimiento, extracción de señales, pensamiento sistémico, amplitud técnica, criterio de entrega, traducción y confianza, aprendizaje al entregar y responsabilidad con reutilización. Trátalas como conductas observables. Un portafolio debe mostrar el problema aclarado, un flujo completo que funciona, una decisión relevante, una predicción previa a la acción y una contribución reutilizable. La autoevaluación identifica prioridades de práctica. No demuestra por sí sola preparación profesional.
+
+Puedes implementar APIs rápidamente, pero nunca has observado usuarios después del lanzamiento. Otra persona documenta muy bien el descubrimiento, pero no logra llevar datos a una pantalla útil. Cada una tiene una brecha concreta de práctica.
+
+Pausa el video y completa el ejercicio antes de consultar la respuesta comentada. Elige tu capacidad más débil. Define una conducta observable y un artefacto del curso que la demuestre.
+
+Para la responsabilidad sobre la adopción, la conducta es programar y realizar una lectura del resultado con el responsable operativo. El artefacto es un registro fechado con uso real, excepciones y una decisión. Para amplitud técnica, demuestra el flujo completo y diagnostica una solicitud fallida. La ecuación de capacidades del documento es una herramienta conceptual, no una fórmula numérica de desempeño validada.
+
+¿Qué fortalece una afirmación de capacidad? A. Una autoevaluación alta B. Una conducta que otra persona puede verificar C. Memorizar el marco. La mejor respuesta es B. La observación independiente es más sólida que la confianza personal.

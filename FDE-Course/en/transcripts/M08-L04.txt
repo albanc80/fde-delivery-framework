@@ -1,0 +1,9 @@
+The ladder progresses through apprentice, builder, deployment owner, multiplier, and system designer. Its exit tests concern observable work in context. Course completion does not automatically satisfy those tests. Use the daily, weekly, monthly, and quarterly cadence as a development aid. Select a manageable practice commitment, collect evidence, and seek feedback. Real workplace practice should respect data access, customer confidentiality, operating authority, and applicable procedures.
+
+A learner finishes the prototype and calls themselves a deployment owner. They have not worked with real users or performed an outcome reading after production adoption. Their portfolio demonstrates simulated practice, with field evidence still pending.
+
+Pause the video and complete this exercise before opening the worked response. Write a 30-day practice plan with one user observation, one prediction, and one review of evidence.
+
+Week one: observe a permitted workflow and map the actual decision. Week two: co-author a small frame with its owner. Week three: run an authorized bounded experiment with a written prediction. Week four: compare results and identify one reusable lesson. If workplace access is unavailable, use a second simulation and label it accordingly.
+
+Does course completion establish the deployment-owner stage? A. No, the stage requires field evidence B. Yes, after watching videos C. Yes, if the self-rating is high. The best answer is A. Keep educational achievement separate from verified career capability.

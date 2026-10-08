@@ -1,0 +1,133 @@
+1
+00:00:00,000 --> 00:00:05,163
+Un ingeniero de despliegue trabaja cerca de
+quienes viven las consecuencias de un sistema.
+
+2
+00:00:05,233 --> 00:00:11,057
+Su responsabilidad abarca desde comprender una
+solicitud ambigua hasta ayudar a la operación a
+
+3
+00:00:11,127 --> 00:00:12,812
+adoptar un cambio útil.
+
+4
+00:00:12,882 --> 00:00:15,549
+El trabajo técnico sigue siendo esencial.
+
+5
+00:00:15,619 --> 00:00:21,016
+La diferencia está en el alcance de la
+responsabilidad: una función desplegada es un hito
+
+6
+00:00:21,086 --> 00:00:27,443
+intermedio. Un resultado requiere un cambio observable
+en el trabajo, un responsable operativo y evidencia
+
+7
+00:00:27,513 --> 00:00:28,985
+posterior a la adopción.
+
+8
+00:00:29,055 --> 00:00:33,194
+Mantén claros estos límites cuando
+una demostración reciba aprobación.
+
+9
+00:00:33,264 --> 00:00:36,229
+Northstar Support solicita un asistente de IA.
+
+10
+00:00:36,299 --> 00:00:40,459
+Veinte agentes atienden tickets de
+acceso, facturación e incidentes.
+
+11
+00:00:40,529 --> 00:00:45,799
+Una demostración recibe aplausos, pero los
+agentes siguen copiando los tickets a una hoja de
+
+12
+00:00:45,869 --> 00:00:49,986
+cálculo. Se entregó software y el
+proceso operativo continúa igual.
+
+13
+00:00:50,056 --> 00:00:55,091
+Pausa el video y completa el ejercicio
+antes de consultar la respuesta comentada.
+
+14
+00:00:55,161 --> 00:00:59,470
+Escribe una declaración del hito de
+entrega y otra del resultado operativo.
+
+15
+00:00:59,540 --> 00:01:02,164
+Identifica quién puede verificar cada una.
+
+16
+00:01:02,234 --> 00:01:08,015
+Entrega: el revisor autorizado puede cargar un
+ticket y examinar una sugerencia de asignación.
+
+17
+00:01:08,085 --> 00:01:13,653
+Resultado: los agentes usan la sugerencia en
+su cola real, reducen el tiempo de revisión y
+
+18
+00:01:13,723 --> 00:01:15,217
+mantienen la calidad.
+
+19
+00:01:15,287 --> 00:01:17,633
+El líder técnico verifica la entrega.
+
+20
+00:01:17,703 --> 00:01:20,903
+Maya, responsable de soporte,
+verifica la adopción.
+
+21
+00:01:20,973 --> 00:01:26,648
+Una captura respalda la primera afirmación; un
+período de observación definido y registros de
+
+22
+00:01:26,718 --> 00:01:28,702
+revisión respaldan la segunda.
+
+23
+00:01:28,772 --> 00:01:31,993
+¿Qué evidencia respalda
+mejor un resultado adoptado?
+
+24
+00:01:32,063 --> 00:01:34,090
+A. Una demostración exitosa B.
+
+25
+00:01:34,160 --> 00:01:37,403
+Uso observado y métricas
+definidas de antemano C.
+
+26
+00:01:37,473 --> 00:01:39,649
+Una revisión de código completada.
+
+27
+00:01:39,719 --> 00:01:41,468
+La mejor respuesta es B.
+
+28
+00:01:41,538 --> 00:01:45,485
+La demostración y la revisión de
+código muestran avances de entrega.
+
+29
+00:01:45,555 --> 00:01:49,331
+La adopción exige conducta
+observable y métricas operativas.

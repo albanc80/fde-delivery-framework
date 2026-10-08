@@ -1,0 +1,84 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.371
+La lectura compara la realidad
+con la predicción escrita.
+
+00:00:03.441 --> 00:00:07.963
+La primera ocurre después de la
+intervención y revisa la hipótesis crítica.
+
+00:00:08.033 --> 00:00:10.743
+Usa métricas y umbrales acordados antes.
+
+00:00:10.813 --> 00:00:13.565
+Incluye fallas, exclusiones y excepciones.
+
+00:00:13.635 --> 00:00:18.285
+Una mejora en un subconjunto puede
+desaparecer al incorporar tareas fallidas.
+
+00:00:18.355 --> 00:00:22.601
+Registra predicción, observación,
+cambio de interpretación y decisión.
+
+00:00:22.671 --> 00:00:27.705
+La muestra asistida de doce tareas tiene
+mediana de 12 minutos y una cola incorrecta.
+
+00:00:27.775 --> 00:00:29.631
+Cumple los umbrales ficticios.
+
+00:00:29.701 --> 00:00:35.184
+Dos tickets inutilizables fueron rechazados
+antes de la revisión y deben reportarse como
+
+00:00:35.254 --> 00:00:36.214
+exclusiones.
+
+00:00:36.284 --> 00:00:41.319
+Pausa el video y completa el ejercicio
+antes de consultar la respuesta comentada.
+
+00:00:41.389 --> 00:00:45.591
+Escribe una entrada de diferencias
+con el denominador y las exclusiones.
+
+00:00:45.661 --> 00:00:48.755
+Predicción: mediana máxima
+de 14 y hasta un error.
+
+00:00:48.825 --> 00:00:54.521
+Observación: mediana 12 y un error en doce
+tareas elegibles, más dos entradas rechazadas.
+
+00:00:54.591 --> 00:00:58.153
+Actualización: la ayuda parece
+útil dentro de esas tareas.
+
+00:00:58.223 --> 00:01:02.319
+Decisión: preparar un despliegue
+controlado después de cerrar pendientes.
+
+00:01:02.389 --> 00:01:06.037
+Evita generalizar el resultado
+sintético a todo soporte.
+
+00:01:06.107 --> 00:01:08.731
+¿Cómo debe reportar entradas rechazadas?
+
+00:01:08.801 --> 00:01:10.145
+A. Ocultarlas B.
+
+00:01:10.215 --> 00:01:12.797
+Contarlas como revisiones exitosas C.
+
+00:01:12.867 --> 00:01:15.491
+Informar cantidad y motivo de exclusión.
+
+00:01:15.561 --> 00:01:17.310
+La mejor respuesta es C.
+
+00:01:17.380 --> 00:01:20.836
+La cobertura y las exclusiones
+afectan la interpretación.

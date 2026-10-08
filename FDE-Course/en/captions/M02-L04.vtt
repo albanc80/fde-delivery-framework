@@ -1,0 +1,91 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:06.144
+The Site Map joins decision, people, process,
+technology, data, constraints, incentives, and
+
+00:00:06.214 --> 00:00:08.753
+history. Recon creates version zero.
+
+00:00:08.823 --> 00:00:11.447
+Immerse checks it and produces version one.
+
+00:00:11.517 --> 00:00:16.317
+Include verification status rather than
+filling gaps with plausible detail.
+
+00:00:16.387 --> 00:00:22.339
+Incentives deserve explicit attention: automation
+may remove visible work while increasing
+
+00:00:22.409 --> 00:00:24.926
+accountability or perceived job risk.
+
+00:00:24.996 --> 00:00:30.905
+The map is a decision aid, so emphasize
+dependencies that affect the proposed experiment and
+
+00:00:30.975 --> 00:00:32.362
+who can resolve them.
+
+00:00:32.432 --> 00:00:37.189
+Agents fear that faster triage will
+become an individual performance target.
+
+00:00:37.259 --> 00:00:39.137
+Maya wants reliable routing.
+
+00:00:39.207 --> 00:00:41.233
+Priya needs a data boundary.
+
+00:00:41.303 --> 00:00:43.522
+Luis needs a documented fallback.
+
+00:00:43.592 --> 00:00:48.264
+These interests shape adoption even if
+the same software works for everyone.
+
+00:00:48.334 --> 00:00:53.113
+Pause the video and complete this exercise
+before opening the worked response.
+
+00:00:53.183 --> 00:00:55.231
+Complete all eight Site Map fields.
+
+00:00:55.301 --> 00:00:59.866
+Leave unresolved facts explicitly
+unknown and attach a next action.
+
+00:00:59.936 --> 00:01:06.421
+The completed map names Maya as workflow owner,
+Priya as access approver, and Luis as API
+
+00:01:06.491 --> 00:01:13.190
+maintainer. It records synthetic data as the course
+boundary, human approval as a fixed experimental
+
+00:01:13.260 --> 00:01:18.999
+condition, private notes as an observed behavior,
+and production permissions as unresolved.
+
+00:01:19.069 --> 00:01:24.189
+The next action is an operator review of
+the frame before any production integration.
+
+00:01:24.259 --> 00:01:26.520
+What belongs in an unresolved field?
+
+00:01:26.590 --> 00:01:29.043
+A. A plausible invented answer B.
+
+00:01:29.113 --> 00:01:31.439
+Nothing, so the map looks complete C.
+
+00:01:31.509 --> 00:01:34.261
+Unknown, owner, and verification action.
+
+00:01:34.331 --> 00:01:35.739
+The best answer is C.
+
+00:01:35.809 --> 00:01:38.667
+Visible uncertainty makes the map actionable.

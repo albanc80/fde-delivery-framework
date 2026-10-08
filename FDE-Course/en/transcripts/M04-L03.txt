@@ -1,0 +1,9 @@
+Log enough to diagnose the path without copying unnecessary sensitive text. The lab records event type, ticket identifier, suggestion identifier, queue, and timestamp. A suggestion and a reviewed decision have different meanings. Keep correlation identifiers so you can connect them. Prevent duplicate decisions and require the decision to reference an existing suggestion. Metrics should count events honestly and retain their denominator. More suggestions do not necessarily mean more operating value.
+
+Ten suggestions exist, but only four decisions were saved. Reporting ten successful reviews hides six incomplete interactions. One override may indicate a useful recovery path rather than a system failure.
+
+Pause the video and complete this exercise before opening the worked response. Generate a suggestion, override its queue, save the decision, then attempt a duplicate save. Inspect events.
+
+The log should contain one suggestion and one decision with the same suggestion identifier. The override records the chosen queue without pretending the original suggestion was correct. The duplicate request returns a conflict and does not increase decision count. Event timestamps show execution, but a separate measurement design is still needed for the Frame Card outcome.
+
+Which event proves a reviewer recorded a choice? A. Suggestion created B. Decision saved C. Health check passed. The best answer is B. Separate generation, review, and operating outcomes.

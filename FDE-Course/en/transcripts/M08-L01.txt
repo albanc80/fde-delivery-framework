@@ -1,0 +1,9 @@
+Constraint injection tests whether the delivery plan can adapt. Revisit the frame, uncertainty, authority, and smallest useful action when conditions change. A new restriction does not justify bypassing controls. Choose a permitted fallback and state which claims it can still test. Record the change, its effect on evidence, and the next gate. A synthetic fallback can test workflow design but cannot prove a production integration now unavailable.
+
+Priya prohibits external model calls. Luis reports the customer API will be unavailable this week. The sponsor still wants progress. The rule-based synthetic prototype can continue testing review behavior.
+
+Pause the video and complete this exercise before opening the worked response. Revise the plan while preserving a useful experiment and an honest evidence boundary.
+
+Use the local dataset and rules. Test usability, category logic, validation, and logging. Mark production integration and model benefit untested. Keep a future integration gate with Luis and Priya. This fallback creates progress without pretending it exercised the blocked customer systems.
+
+What can a synthetic fallback prove? A. Selected behavior within the simulation B. Customer API readiness C. Production access approval. The best answer is A. The fallback’s scope governs its claims.

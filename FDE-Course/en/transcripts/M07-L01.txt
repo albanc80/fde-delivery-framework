@@ -1,0 +1,9 @@
+Distill separates the transferable principle from the local implementation. Ask which conditions made the intervention useful and which conditions limited it. A reusable pattern names those conditions, the mechanism, and the evidence boundary. Copying the entire previous architecture creates an imperial playbook. A principle becomes more useful when another site can test it without inheriting assumptions that belonged only to the original environment.
+
+Northstar benefited from reviewable category suggestions. A warehouse needs exception handling, not support queues. The reusable idea is embedding a reviewable suggestion in the existing decision step, while the category rule remains local.
+
+Pause the video and complete this exercise before opening the worked response. Write one conditional pattern and name two conditions that require retesting elsewhere.
+
+When repetitive classification consumes effort and operators retain decision authority, a suggestion embedded in the existing review step may reduce lookup work. Retest category stability and operator incentives at the new site. The course evidence supports this as a hypothesis for transfer, not a universal rule about AI deployment.
+
+What should transfer first? A. Every service from the old architecture B. The principle and its conditions C. The old customer’s permissions. The best answer is B. Transfer the mechanism while rechecking context.

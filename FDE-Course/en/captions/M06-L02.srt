@@ -1,0 +1,107 @@
+1
+00:00:00,000 --> 00:00:03,499
+Landing requires someone on
+site who operates the system.
+
+2
+00:00:03,569 --> 00:00:10,011
+Name the owner and clarify routine responsibilities,
+escalation, exceptions, and the authority
+
+3
+00:00:10,081 --> 00:00:11,681
+to disable the workflow.
+
+4
+00:00:11,751 --> 00:00:14,930
+Ownership is more than listing
+a person in a document.
+
+5
+00:00:15,000 --> 00:00:18,755
+The person needs context,
+access, capability, and time.
+
+6
+00:00:18,825 --> 00:00:24,158
+Keep your accountability through adoption while
+transferring practical capability rather than
+
+7
+00:00:24,228 --> 00:00:26,148
+preserving dependence on you.
+
+8
+00:00:26,218 --> 00:00:29,909
+Maya owns the queue, but Luis
+alone can restore the service.
+
+9
+00:00:29,979 --> 00:00:35,483
+If Luis is unavailable, agents need a
+manual fallback and an escalation contact.
+
+10
+00:00:35,553 --> 00:00:40,118
+A nominal owner without a recovery
+path cannot operate independently.
+
+11
+00:00:40,188 --> 00:00:44,967
+Pause the video and complete this exercise
+before opening the worked response.
+
+12
+00:00:45,037 --> 00:00:49,218
+Write an ownership table and a one-page
+runbook with a manual fallback.
+
+13
+00:00:49,288 --> 00:00:54,835
+The runbook describes availability checks,
+failed-request symptoms, the routing-rule version,
+
+14
+00:00:54,905 --> 00:01:00,579
+manual category lookup, escalation to Luis,
+and the conditions for disabling assistance.
+
+15
+00:01:00,649 --> 00:01:05,108
+Maya can make the disable decision
+within the agreed workflow authority.
+
+16
+00:01:05,178 --> 00:01:07,525
+Priya controls data-access changes.
+
+17
+00:01:07,595 --> 00:01:13,931
+A support rotation covers absence rather than
+making the original engineer the only responder.
+
+18
+00:01:14,001 --> 00:01:16,070
+What makes ownership operational?
+
+19
+00:01:16,140 --> 00:01:17,868
+A. A name on a slide B.
+
+20
+00:01:17,938 --> 00:01:21,842
+Authority, capability, access,
+and recovery instructions C.
+
+21
+00:01:21,912 --> 00:01:24,067
+The engineer always being online.
+
+22
+00:01:24,137 --> 00:01:25,609
+The best answer is B.
+
+23
+00:01:25,679 --> 00:01:28,879
+Ownership must survive
+ordinary absence and failure.

@@ -1,0 +1,9 @@
+Before the slice runs, write the result you expect, the metric, the date, and the evidence that would change your view. The prediction belongs to the experiment, not a reconstructed success story. Establish a comparison baseline with the same task definition. Evaluate rules before adding a model so you can identify incremental value. For this lab, functional tests establish behavior. They do not establish reduced review time until a timed task comparison occurs.
+
+You predict at most 14 minutes median review time and no more than one misroute in twelve equivalent tasks. The lab test suite passes, but the team has not timed any reviewers. These two evidence sets answer different questions.
+
+Pause the video and complete this exercise before opening the worked response. Write the prediction, run the tests, and state exactly what a passing result establishes.
+
+Passing tests establish the specified local API, validation, rule, audit, and approval behavior. They do not establish operator trust, adoption, latency in a customer environment, or a causal productivity gain. Keep the performance prediction open until measured. An optional model comparison should reuse the labeled evaluation set and include cost, errors, fallback, and review effort.
+
+Does a passing functional test prove the outcome metric improved? A. Yes, automatically B. Only with a modern model C. No, outcome measurement is separate. The best answer is C. Match each claim to the test that can establish it.
