@@ -2,7 +2,7 @@
 
 Learn an industry-agnostic delivery methodology and mindset through framing, a guided Python prototype, human review, evidence, adoption and a staged capstone. Intended for technical professionals entering FDE roles. Cases are fictional; the local prototype is a deterministic rule baseline.
 
-- [Course website](https://albanc80.github.io/fde-delivery-framework/) — requires the Pages activation below; the publishing token could not enable it automatically.
+- [Course website](https://albanc80.github.io/fde-delivery-framework/)
 - [Download the complete offline learner ZIP](https://github.com/albanc80/fde-delivery-framework/releases/latest)
 - [English: clone and run the Python exercises](FDE-Course/lab/RUN-LOCALLY-en.md)
 - [Español: clonar y ejecutar los ejercicios Python](FDE-Course/lab/RUN-LOCALLY-es.md)
@@ -57,13 +57,3 @@ Sales pages, marketing kits, publisher setup guides, launch checklist, upload ma
 **Course content: CC BY 4.0 for original contributions. Code: MIT.** See [the explicit scope and third-party exclusions](FDE-Course/LICENSING.md), [complete CC BY terms](LICENSE-CONTENT.txt) and [rights register](FDE-Course/sources/RIGHTS-REGISTER.md). Both licenses permit commercial reuse of covered material. CC BY requires attribution, a license link and identification of changes. Rights for named source frameworks have not been established; their protected expression and any source-derived protected expression are excluded from the grant. Combining researched sources does not establish those permissions.
 
 This is educational material, not a hiring guarantee, accredited certification or production system. Functional exercise tests do not establish real customer productivity, adoption or operational readiness.
-
-## Activate the course website
-
-The repository and offline release are public. Automatic website activation was rejected because the publisher's access token lacks Pages-management permission. A repository administrator can enable the prepared static site without changing course files:
-
-1. Open [Settings → Pages](https://github.com/albanc80/fde-delivery-framework/settings/pages).
-2. Under Build and deployment, select **Deploy from a branch**.
-3. Select **main** and **/ (root)**, then **Save**.
-
-After GitHub finishes deployment, the course is available at https://albanc80.github.io/fde-delivery-framework/ . The root launch page preserves the original course folder structure. Python still runs locally; the static website does not execute the lab service.
